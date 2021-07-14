@@ -24,7 +24,7 @@
 -   Every folder should have its own `README.md` file where instructions to setup environment should be there and a demo video in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
 -   Always update the table of contents in the parent folder where the new component is added.
 -   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and with addequate documentation as required. The code must be extremely simple to understand such that it is ready for immediate use in some project.**
--   Make sure to follow the [Code of Conduct](https://github.com/siddhi-244/Embellish/CODE_OF_CONDUCT.md) and be respectful towards others while contributing to the project.
+-   Make sure to follow the [Code of Conduct](https://github.com/siddhi-244/Embellish/blob/a6e11d92ee995e63fef0df6bb49f3f4bfe2f661f/CODE_OF_CONDUCT.md) and be respectful towards others while contributing to the project.
 
 <hr/>
 
