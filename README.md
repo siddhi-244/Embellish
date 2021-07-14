@@ -67,3 +67,28 @@ git clone https://github.com/<your_GitHub_username>/Embellish.git
 -   **Please follow best code formatting and linting practices to assure good code quality. You should use tools such as Prettier or Eslint for thy purpose.**
 
 <hr>
+
+<h2>🙌Levels & Points (DCP)</h2>
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>40</td>
+  </tr>
+</table>
