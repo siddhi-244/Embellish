@@ -15,6 +15,11 @@
     "color": "d93f0b"
   },
   {
+    "name" : "spam",
+    "description" : "This pr will be considered as spam",
+    "color" : "880000"
+   },
+  {
     "name": " 🤩 Up for Grab ",
     "description": "This issue will is not assigned ! Grab It !",
     "color": "bf00ff"
