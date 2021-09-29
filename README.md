@@ -1,11 +1,14 @@
 
 # About Embellish -
+<div align="center" >
 
-![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social) [![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls) 
+![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social) 
 
+[![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls) 
+</div>
 
 - Having a design or animation in css? Want to flaunt it ? Do you want other people to use your component? Here we are. Contribute your designs to Embellish.
-- Embellish is a collection of awesome css designs or animations which can be added to any website to enhance the UI of your website.
+- Embellish is a collection of awesome css designs or animations or components which can be added to any website to enhance the UI of your website.
 <div align="center">
 
 ## 🛠️ Technology Stack
@@ -66,4 +69,6 @@ git clone https://github.com/<your_GitHub_username>/Embellish.git
 
 <hr>
 
+<h1 align=center> Project Maintainer </h1>
+<p align="center"> <a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?s=96&v=4" width=150px height=150px /></a>
 
