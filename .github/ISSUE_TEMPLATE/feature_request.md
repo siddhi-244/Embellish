@@ -1,11 +1,3 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
----
-
 ### Feature request-
 A clear and concise description of the feature.
 
@@ -25,7 +17,7 @@ A clear and concise description of how this feature will be useful to our users/
 Add any other context or screenshots about the feature request here.
 
 #### Are you contributing under any open-source program ?
-<!-- Mention DCP  here if you are a participant of it, otherwise fill NA -->
+<!-- Mention hacktoberfest  here if you are a participant of it, otherwise fill NA -->
 
 <hr/>
 
