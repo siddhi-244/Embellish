@@ -104,6 +104,6 @@ git push -u origin <your_branch_name>
 
 <hr>
 
-<h1 align=center> Project Maintainer </h1>
-<p align="center"> <a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?s=96&v=4" width=150px height=150px /></a>
-
+<h1 align=center> Project Maintainer & Admin </h1>
+<p align="center"> <a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?s=96&v=4" width=100px height=100px /></a>
+<p align="center"> Siddhi Bhanushali </p>
