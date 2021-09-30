@@ -44,6 +44,7 @@ div.button.neumorphism > button {
   border: none;
   border-radius: 50%;
   border: 8px solid hsla(350, 100%, 69%, 1);
+  font-weight: bold;
 }
 
 div.button.neumorphism > button.active {
