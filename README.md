@@ -7,8 +7,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls) 
 </div>
 
-- Having a design or animation in css? Want to flaunt it ? Do you want other people to use your component? Here we are. Contribute your designs to Embellish.
-- Embellish is a collection of awesome css designs or animations or components which can be added to any website to enhance the UI of your website.
+- Having a designed component in css? Want to flaunt it ? Do you want other people to use your component? Here we are. Contribute your component to Embellish.
+- Embellish is a collection of awesome designed components  or animations or components which can be added to any website to enhance the UI of your website.
 <div align="center">
 
 ## 🛠️ Technology Stack
