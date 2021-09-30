@@ -19,7 +19,7 @@
     
 <hr/>
 
-# :scroll: Instructions to follow while contributing -
+# :scroll: Instructions to follow while contributing 
 #
 -   Make sure that with every design/ component should be added to a separate folder.
 -   Every folder should have its own `README.md` file where instructions to setup environment should be there and a demo video in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
