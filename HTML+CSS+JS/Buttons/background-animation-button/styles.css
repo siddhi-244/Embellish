@@ -1,0 +1,45 @@
+.anim-btn {
+    width: max-content;
+    position: relative;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.anim-btn__button {
+    padding: 16px 32px 13px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #534e4a;
+    color: #2e2d2c;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: color 300ms ease, transform 300ms ease;
+}
+.anim-btn__button:hover,
+.anim-btn__button:focus {
+    color: #fff;
+    cursor: pointer;
+}
+
+.anim-btn__button:hover + .anim-btn__overlay,
+.anim-btn__button:focus + .anim-btn__overlay {
+    transform: translateY(calc(-100% + 2px));
+}
+
+.anim-btn__button:active {
+    transform: scale(0.8);
+}
+
+.anim-btn__button:active + .anim-btn__overlay {
+    transform: translateY(calc(-100% + 2px)) scale(0.8);
+}
+.anim-btn__overlay {
+    background-color: #534e4a;
+    height: calc(100% + 2px);
+    width: 100%;
+    position: absolute;
+    bottom: calc(-100% - 2px);
+    left: 0;
+    z-index: -1;
+    transition: transform 300ms ease;
+}
