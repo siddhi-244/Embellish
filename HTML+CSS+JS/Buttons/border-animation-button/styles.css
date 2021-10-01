@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #70349D
+}
+
+.coverButton {
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    padding: 0.5rem 1.5rem;
+    background: none;
+	color: inherit;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.coverButton:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 60%;
+    width: 20%;
+    border-top: 3px solid #00bfe7;
+    border-left: 3px solid #00bfe7;
+    content: "";
+    transition: all 0.25s ease-in;
+}
+
+.coverButton:hover:before {
+    height: 100%;
+    width: 100%;
+}
+
+.coverButton:after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 60%;
+    width: 20%;
+    border-bottom: 3px solid #00bfe7;
+    border-right: 3px solid #00bfe7;
+    content: "";
+    transition: all 0.25s ease-in;
+}
+
+.coverButton:hover:after {
+    height: 100%;
+    width: 100%;
+}
+
+.coverButton:hover {
+    text-decoration: none;
+    color: white;
+}
