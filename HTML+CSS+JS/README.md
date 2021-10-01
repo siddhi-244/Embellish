@@ -18,3 +18,7 @@
 -   [Progress Bar](Progress-Bar)
        
      - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+     - 
+-   [Background](Background)
+
+     - [Animated Background](Background/Animated-Background)
