@@ -1,0 +1,28 @@
+body {
+     display: flex;
+     background-color: #333;
+     align-items: center;
+     justify-content: center;
+     height: 500px;
+   }
+   
+   .border {
+     width: 300px;
+     border-color: lightgray;
+     border-style: solid;
+     border-radius: 15px;
+   }
+   
+   .progress {
+     background: linear-gradient(to right, #0084ff, #7e39ff);
+     height: 14px;
+     border-style: solid;
+     border-radius: 15px;
+     border-color: #333;
+     animation: width 3s ease-out infinite;
+   }
+   
+   @keyframes width {
+     from {width: 0px}
+     to {width: 294px}
+   }
