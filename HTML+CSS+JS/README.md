@@ -14,3 +14,7 @@
  
      - [Border Animation Button](border-animation-button)   
      - [Background Animation Button](background-animation-button)   
+
+-   [Progress Bar](Progress-Bar)
+       
+     - [Gradient Progress Bar](Progress-Bar/gradient-progress)
