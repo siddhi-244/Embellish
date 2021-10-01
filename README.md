@@ -1,6 +1,8 @@
 
 # About Embellish -
 <div align="center" >
+    
+![134015433-aec59d97-a8d7-407a-88fd-5e3edebc2b77](https://user-images.githubusercontent.com/69195262/135603809-8551bd8f-2231-439a-909c-061cf009bc0e.png)
 
 ![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social) 
 
