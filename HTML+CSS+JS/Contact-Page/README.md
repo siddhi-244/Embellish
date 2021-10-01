@@ -11,3 +11,6 @@ A simple yet professional contact page made with CSS, HTML and JS.
 <br>
 
 ## Demo :
+
+
+![contact](https://user-images.githubusercontent.com/72851613/135655743-1db2ca2c-474a-48ca-9643-781fe85746b9.gif)
