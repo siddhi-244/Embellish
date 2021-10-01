@@ -14,3 +14,7 @@
  
      - [Border Animation Button](border-animation-button)   
      - [Background Animation Button](background-animation-button)   
+
+- [Text Animations](Text-Animations)
+
+     - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
