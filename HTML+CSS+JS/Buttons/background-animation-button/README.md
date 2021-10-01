@@ -5,7 +5,6 @@ An app that uses this button: https://try-easy-sync.herokuapp.com
 
 ## Demo
 
-![](Ripple-loader.gif)
 ![](https://imgur.com/cfxexIY.gif)
 
 ## Setup
