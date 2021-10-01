@@ -4,6 +4,8 @@ The term “parallax” refers to the apparent movement of objects when viewed f
 
 ## Demo
 
+![gif](https://raw.githubusercontent.com/Asmit2952/Embellish/parallax/HTML%2BCSS%2BJS/Mouse%20Hover%20Effects/Parallax/parallax.gif)
+
 ## Setup
 
 Just download the files and include `layer` class and `data-speed` in your HTML Tags. Then copy the JavaScript code.
