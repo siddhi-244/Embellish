@@ -2,7 +2,10 @@
 
 ## Table of contents -
 
--   [Forms](Forms)
+- [Forms](Forms)
 
-     - [Glassmorphism Form](Forms/Glassmorphism-Form)
-  
+  - [Glassmorphism Form](Forms/Glassmorphism-Form)
+
+- [Forms](Forms)
+
+  - [Glassmorphism Form](Forms/Glassmorphism-Form)
