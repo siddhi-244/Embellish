@@ -12,4 +12,4 @@ Just download and open index.html.
 
 ## Author
 
-[Sajal Gupta (@guptasajal411)](https://github.com/guptasajal411)
+[Sajal Gupta] (@guptasajal411)](https://github.com/guptasajal411)
