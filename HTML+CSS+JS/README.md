@@ -27,4 +27,5 @@
 -   [Background](Background)
 
      - [Animated Background](Background/Animated-Background)
+     - [Parallax Effect Background](Background/Parallax-Effect)
 
