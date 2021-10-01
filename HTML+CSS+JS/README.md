@@ -28,4 +28,6 @@
 
      - [Animated Background](Background/Animated-Background)
      - [Parallax Effect Background](Background/Parallax-Effect)
-
+-   [Mouse Hover Effects](Mouse-Hover-Effects)
+     
+     - [Parallax](Mouse-Hover-Effects/Parallax)
