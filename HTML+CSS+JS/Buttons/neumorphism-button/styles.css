@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+div.container {
+  background: hsla(10, 89%, 70%, 1);
+
+  background: linear-gradient(
+    90deg,
+    hsla(10, 89%, 70%, 1) 0%,
+    hsla(350, 100%, 69%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(10, 89%, 70%, 1) 0%,
+    hsla(350, 100%, 69%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(10, 89%, 70%, 1) 0%,
+    hsla(350, 100%, 69%, 1) 100%
+  );
+  min-height: 100vh;
+  padding: 50px;
+}
+
+section.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.button.neumorphism > button {
+  background-color: hsla(350, 100%, 69%, 1);
+  height: 150px;
+  width: 150px;
+  box-shadow: -10px -10px 15px rgb(255, 119, 142),
+    10px 10px 15px rgb(231, 88, 112);
+  border: none;
+  border-radius: 50%;
+  border: 8px solid hsla(350, 100%, 69%, 1);
+  font-weight: bold;
+}
+
+div.button.neumorphism > button.active {
+  box-shadow: -10px -10px 15px rgb(255, 119, 142),
+    10px 10px 15px rgb(231, 88, 112), inset -10px -10px 15px rgb(255, 119, 142),
+    inset 10px 10px 15px rgb(231, 88, 112);
+}
