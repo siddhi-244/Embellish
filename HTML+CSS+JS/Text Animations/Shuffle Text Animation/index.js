@@ -1,5 +1,5 @@
 const prefix = 'Hacktoberfest is '
-const skills = [
+const features = [
   'amazing',
   'interesting',
   'a good learning opportunity',
@@ -43,15 +43,15 @@ function getRandomColoredString(n) {
 const $ = {
   text: '',
   prefixP: -tail,
-  skillI: 0,
-  skillP: 0,
+  featureI: 0,
+  featureP: 0,
   direction: 'forward',
   delay,
   step,
 }
 
 function render() {
-  const skill = skills[$.skillI]
+  const feature = features[$.featureI]
 
   if ($.step) {
     $.step--
@@ -64,9 +64,9 @@ function render() {
       $.prefixP++
     } else {
       if ($.direction === 'forward') {
-        if ($.skillP < skill.length) {
-          $.text += skill[$.skillP]
-          $.skillP++
+        if ($.featureP < feature.length) {
+          $.text += feature[$.featureP]
+          $.featureP++
         } else {
           if ($.delay) {
             $.delay--
@@ -76,11 +76,11 @@ function render() {
           }
         }
       } else {
-        if ($.skillP > 0) {
+        if ($.featureP > 0) {
           $.text = $.text.slice(0, -1)
-          $.skillP--
+          $.featureP--
         } else {
-          $.skillI = ($.skillI + 1) % skills.length
+          $.featureI = ($.featureI + 1) % features.length
           $.direction = 'forward'
         }
       }
@@ -91,7 +91,7 @@ function render() {
   p.appendChild(getRandomColoredString(
     $.prefixP < prefix.length ?
     Math.min(tail, tail + $.prefixP):
-    Math.min(tail, skill.length - $.skillP)))
+    Math.min(tail, feature.length - $.featureP)))
   setTimeout(render, timeout)
 }
 setTimeout(render, 500)
