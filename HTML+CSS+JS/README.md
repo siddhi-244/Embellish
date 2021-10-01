@@ -5,6 +5,7 @@
 - [Forms](Forms)
 
   - [Glassmorphism Form](Forms/Glassmorphism-Form)
+  - [Contact Page](Forms/Contact-Page)
 
 - [Loader](Loader)
 
@@ -27,4 +28,3 @@
   - [Parallax Effect Background](Background/Parallax-Effect)
 
 - [Mouse Hover Effects](Mouse-Hover-Effects)
-  - [Contact Page](Contact-Us/Contact-Page)
