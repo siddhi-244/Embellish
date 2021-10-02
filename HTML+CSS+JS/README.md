@@ -37,3 +37,6 @@
 - [Mouse Hover Effects](Mouse-Hover-Effects) 
 - [Parallax](Mouse-Hover-Effects/Parallax)
 
+- [Navigation Bar](Navigation-Bar)
+
+  - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
