@@ -22,6 +22,7 @@
   - [Neumorphism Button](Buttons/neumorphism-button)
 
 
+
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
@@ -40,3 +41,8 @@
 - [Navigation Bar](Navigation-Bar)
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+
+
+- [Search Bar](Search Bar)
+
+  - [Animated Search Bar](Search Bar/animated-search-bar)
