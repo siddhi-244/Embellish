@@ -35,6 +35,7 @@
 
   - [Animated Background](Background/Animated-Background)
   - [Parallax Effect Background](Background/Parallax-Effect)
+  - [Gradient Background](Background/Gradient-Background)
 
 
 - [Mouse Hover Effects](Mouse-Hover-Effects) 
