@@ -22,7 +22,7 @@
 
 - [Cards](Cards)
 
-  - [Product & Profile Cards](Cards/Product-Profile Cards)
+  - [Product & Profile Cards](Cards/Product-Profile%20Cards)
 
 - [Text Animations](Text-Animations)
 
