@@ -20,6 +20,7 @@
   - [Background Animation Button](background-animation-button)
 
   - [Neumorphism Button](Buttons/neumorphism-button)
+  - [Glowing Animated Button](Buttons/glowing-animated-button)
 
 
 - [Text Animations](Text-Animations)
