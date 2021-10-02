@@ -2,41 +2,42 @@
 
 ## Table of contents -
 
-- [Forms](Forms)
+-   [Carousel](Carousel)
 
-  - [Glassmorphism Form](Forms/Glassmorphism-Form)
+    -   [Image Carousel](Carousel/image-carousel)
 
-  - [Contact Page](Forms/Contact-Page)
+-   [Forms](Forms)
 
+    -   [Glassmorphism Form](Forms/Glassmorphism-Form)
 
-- [Loader](Loader)
+    -   [Contact Page](Forms/Contact-Page)
 
-  - [Ripple Loader](Loader/ripple-loader)
-  - [Bar Loader](Loader/Bar-Loader)
+-   [Loader](Loader)
 
-- [Buttons](Buttons)
+    -   [Ripple Loader](Loader/ripple-loader)
+    -   [Bar Loader](Loader/Bar-Loader)
 
-  - [Border Animation Button](border-animation-button)
-  - [Background Animation Button](background-animation-button)
+-   [Buttons](Buttons)
 
-  - [Neumorphism Button](Buttons/neumorphism-button)
+    -   [Border Animation Button](border-animation-button)
+    -   [Background Animation Button](background-animation-button)
 
+    -   [Neumorphism Button](Buttons/neumorphism-button)
 
-- [Text Animations](Text-Animations)
+-   [Text Animations](Text-Animations)
 
-  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+    -   [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
 
-- [Progress Bar](Progress-Bar)
-  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
-- [Background](Background)
+-   [Progress Bar](Progress-Bar)
+    -   [Gradient Progress Bar](Progress-Bar/gradient-progress)
+-   [Background](Background)
 
-  - [Animated Background](Background/Animated-Background)
-  - [Parallax Effect Background](Background/Parallax-Effect)
+    -   [Animated Background](Background/Animated-Background)
+    -   [Parallax Effect Background](Background/Parallax-Effect)
 
+-   [Mouse Hover Effects](Mouse-Hover-Effects)
+-   [Parallax](Mouse-Hover-Effects/Parallax)
 
-- [Mouse Hover Effects](Mouse-Hover-Effects) 
-- [Parallax](Mouse-Hover-Effects/Parallax)
+-   [Navigation Bar](Navigation-Bar)
 
-- [Navigation Bar](Navigation-Bar)
-
-  - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+    -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
