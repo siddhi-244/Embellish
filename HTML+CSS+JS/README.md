@@ -8,7 +8,6 @@
 
   - [Contact Page](Forms/Contact-Page)
 
-
 - [Loader](Loader)
 
   - [Ripple Loader](Loader/ripple-loader)
@@ -20,6 +19,7 @@
   - [Background Animation Button](background-animation-button)
 
   - [Neumorphism Button](Buttons/neumorphism-button)
+  - [Glowing Animated Button](Buttons/glowing-animated-button)
 
 - [Cards](Cards)
 
@@ -36,8 +36,7 @@
   - [Animated Background](Background/Animated-Background)
   - [Parallax Effect Background](Background/Parallax-Effect)
 
-
-- [Mouse Hover Effects](Mouse-Hover-Effects) 
+- [Mouse Hover Effects](Mouse-Hover-Effects)
 - [Parallax](Mouse-Hover-Effects/Parallax)
 
 - [Navigation Bar](Navigation-Bar)
