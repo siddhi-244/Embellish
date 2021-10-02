@@ -24,6 +24,7 @@
 - [Cards](Cards)
 
   - [Product & Profile Cards](Cards/Product-Profile Cards)
+  - [Flip Card](Cards/Flip-Card)
 
 - [Text Animations](Text-Animations)
 
