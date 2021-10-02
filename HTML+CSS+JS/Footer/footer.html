@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Footer</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="footer.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+    </head>
+    <body>
+<section>
+   
+    <div class="color"></div>
+    <div class="color"></div>
+    <div class="color"></div>
+    <div class="box">
+
+        <div class="square" style="--i:0;"></div>
+        <div class="square" style="--i:1;"></div>
+        <div class="square" style="--i:2;"></div>
+        <div class="square" style="--i:3;"></div>
+        <div class="square" style="--i:4;"></div>
+
+<footer class="footer theme-bg-primary wow rollIn">
+    <div class="container py-5">
+        <div class="row" style="margin-left:50px ;">
+         <div class="col-lg-3">
+            <h4 class="col-heading">Services</h4>
+
+            <ul class="hilight-topics">
+                <li><a href="#">App Development</a></li>
+                <li><a href="#">Web Development</a></li>
+                <li><a href="#">Dev</a></li>
+                <li><a href="#">Cloud</a></li>
+            </ul>
+
+         </div>
+
+         <div class="col-lg-3">
+            <h4 class="col-heading">Others Links</h4>
+
+            <ul class="hilight-topics">
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a href="#">Link 4</a></li>
+            </ul>
+
+         </div>
+         
+         <div class="col-lg-3">
+            <h4 class="col-heading">Updates</h4>
+
+            <ul class="hilight-topics">
+                <li><a href="#">Latest News</a></li>
+                <li><a href="#">Story</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Blogs</a></li>
+            </ul>
+
+         </div>
+         <div class="col-lg-3">
+            <h4 class="col-heading">Contacts</h4>
+
+            <div class="mb-2 hilight-topics">
+                Company Name 
+                <br>
+               address lin 1
+               <br>
+               address line 2
+
+            </div>
+            <div class="text-white">
+                <a href="#">aaaaaa@gmail.com</a>
+            </div>
+
+            <ul class="social-list">
+                <li class="list-inline-item social-icon"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li class="list-inline-item social-icon"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li class="list-inline-item social-icon"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li class="list-inline-item social-icon"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            </ul>
+
+         </div>
+        
+        </div>
+    </div>
+
+   <div class="container">
+    <hr>
+   </div>
+
+   <div>
+       <div class="container text-center">
+         <div id="map"></div>
+       
+        <br>
+           <h3 class="mb-3 download-heading">Get our mobile Services for ios and Android</h3>
+           <div class="section-intro mb-4 mx-auto">Download NOW</div>
+       
+        <ul class="d-inline-block" >
+            <li class="list-inline-item mr-3" ><a href="#"><img src="android.png" width="50%" height="50%" ></a></li>
+            <li class="list-inline-item mr-3"><a href="#"><img src="ios.png" width="50%" height="50%"></a></li>
+        </ul>
+
+   </div>
+</div>
+
+     <div class="footer-bottom text-center pb-5">
+             <small class="copyright">
+                     Designed for Hacktoberfest2021 
+            </small>
+        </div>
+
+       </footer>
+     </div>
+</section>
+
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
+<script>
+    new WOW().init();
+</script>
+
+<script>
+            function initMap() {
+            var uluru = {lat: 55.004599, lng: 1.620807};
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: uluru
+            });
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map
+            });
+            }
+        </script>
+        <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5aFB_JQmDIc-mBHKtZ7UfUKGQNJ-V_rc&callback=initMap">
+  </script>
+
+    </body>
+</html>
