@@ -8,7 +8,6 @@
 
   - [Contact Page](Forms/Contact-Page)
 
-
 - [Loader](Loader)
 
   - [Ripple Loader](Loader/ripple-loader)
@@ -36,10 +35,12 @@
   - [Animated Background](Background/Animated-Background)
   - [Parallax Effect Background](Background/Parallax-Effect)
 
-
-- [Mouse Hover Effects](Mouse-Hover-Effects) 
+- [Mouse Hover Effects](Mouse-Hover-Effects)
 - [Parallax](Mouse-Hover-Effects/Parallax)
 
 - [Navigation Bar](Navigation-Bar)
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+
+- [Search Bar](Search-Bar)
+  - [Animated Search Bar](Search-Bar/animated-search-bar)
