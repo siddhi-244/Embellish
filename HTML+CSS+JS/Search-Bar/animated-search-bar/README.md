@@ -1,6 +1,6 @@
 # Glowing Animated Button
 
-An animated and stylish built using only HTML and CSS, and can be implemented with any project. See the demo here: https://healthinic.netlify.app/
+An animated and stylish built using only HTML and CSS, and can be implemented with any project.
 
 ## Demo
 
