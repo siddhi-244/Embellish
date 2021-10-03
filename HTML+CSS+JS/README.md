@@ -38,6 +38,7 @@
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
 
 - [Progress Bar](Progress-Bar)
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
