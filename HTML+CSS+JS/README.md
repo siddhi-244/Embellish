@@ -14,7 +14,7 @@
 
      - [Border Animation Button](border-animation-button)   
      - [Background Animation Button](background-animation-button)   
-     - [Submit Button With Ring Indicator](Buttons/Submit-Button-With-Ring-Indicator) 
+     - [Submit Button With Ring Indicator](https://github.com/Bhaviktutorials/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Submit-Button-with-Ring-Indicator) 
 
 - [Text Animations](Text-Animations)
 
