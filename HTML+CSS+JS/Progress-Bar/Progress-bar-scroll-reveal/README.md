@@ -4,7 +4,7 @@ If you want to trigger the skill or progress bars when you scroll down the page,
 
 ## Demo
 
-![gif](progress-bars)
+![gif](progress-bars.gif)
 
 ## Setup
 
