@@ -1,11 +1,3 @@
-ul li {
-  list-style: none;
-}
-
-ul {
-  margin-left: -39px;
-}
-
 body {
   height: 100vh;
   background-size: cover;
@@ -13,127 +5,28 @@ body {
   font-weight: 400;
   color: rgb(233, 115, 115);
 }
-.footer {
-  font-size: 1rem;
-  font-family: sans-serif;
-  color: rgb(5, 2, 2);
-  margin-top: 190px;
+#footer {
+  margin-top: 580px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+  background: #222222;
 }
+#footer a {
+  color: #fff;
+}
+#footer a:hover {
+  color: #f9690e;
+}
+#footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 -7.5px;
+}
+#footer ul > li {
+  display: inline-block;
 
-.col-heading,
-.download-heading {
-  color: black;
-  font-weight: bold;
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
-.hilight-topics {
-  color: rgb(40, 226, 23);
-  font-weight: bold;
-}
-
-.theme-bg-primary {
-  background: rgba(255, 255, 255, 0.24);
-  box-shadow: 0 8px 32px 0 rgba(19, 19, 20, 0.37);
-  backdrop-filter: blur(4px);
-  border: 3px solid rgba(255, 255, 255, 0.18);
-}
-
-.footer ul li a {
-  color: rgb(40, 226, 23);
-  font-size: 17px;
-}
-.footer ul .social-icon {
-  color: white;
-}
-section .color {
-  position: absolute;
-  filter: blur(150px);
-}
-section .color:nth-child(1) {
-  top: -350px;
-  width: 700px;
-  height: 700px;
-  background: #ff359b;
-}
-section .color:nth-child(2) {
-  bottom: -100px;
-  left: 300px;
-  width: 600px;
-  height: 600px;
-  background: #ffdd87;
-}
-section .color:nth-child(3) {
-  bottom: 50px;
-  right: 400px;
-  width: 400px;
-  height: 400px;
-  background: #00d2ff;
-}
-#map { 
-    padding-right: 200px;
-    text-align: center;
-    align-items: center;
-    height: 200px;
-    width: 80%;
-   }
-
-.box .square{
-	position: absolute;
-	backdrop-filter:blur(5px);
-	box-shadow: 0 25px 45px rgba(0,0,0,0.1);
-	border:1px solid rgba(255,255,255,0.5);
-	border-bottom:1px solid rgba(255,255,255,0.5);
-	border-right: :1px solid rgba(255,255,255,0.5);
-	background: rgba(255,255,255,0.1);
-	border-radius: 10px;
-	animation: animate 10s linear infinite;
-	animation-delay: calc(-1s*var(--i));
-
-}
-@keyframes animate{
-	0%,100%{
-		transform: translateY(-40px);
-	}
-	50%{
-		transform: translateY(40px);
-	}
-}
-.box .square:nth-child(1){
-	top:-50px;
-	right: -60px;
-	width: 100px;
-	height: 100px;
-
-}
-.box .square:nth-child(2){
-	top:150px;
-	left: -100px;
-	width: 120px;
-	height: 120px;
-	z-index: 2;
-
-}
-.box .square:nth-child(3){
-	bottom: 50px;
-	right: -60px;
-	width: 80px;
-	height: 80px;
-	z-index: 2;
-
-}
-.box .square:nth-child(4){
-	bottom: -80px;
-	left: -60px;
-	width: 50px;
-	height: 50px;
-
-
-}
-.box .square:nth-child(5){
-	top :-80px;
-	left: 140px;
-	width: 60px;
-	height: 60px;
-
-
+  padding: 3px 0;
+  width: 31px;
+  text-align: center;
 }
