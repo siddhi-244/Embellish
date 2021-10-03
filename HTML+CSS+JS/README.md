@@ -17,12 +17,13 @@
 
   - [Border Animation Button](border-animation-button)
   - [Background Animation Button](background-animation-button)
+  - [Shiny Button Animation](Buttons/Shiny-Button)
 
   - [Neumorphism Button](Buttons/neumorphism-button)
 
 - [Cards](Cards)
-
-  - [Product & Profile Cards](Cards/Product-Profile Cards)
+  - [Product & Profile Cards](Cards/Product-Profile%20Cards)
+  - [Flip Card](Cards/Flip-Card)
 
 - [Footer](Footer)
 
@@ -34,6 +35,7 @@
 
 - [Progress Bar](Progress-Bar)
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
 - [Background](Background)
 
   - [Animated Background](Background/Animated-Background)
@@ -45,3 +47,7 @@
 - [Navigation Bar](Navigation-Bar)
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+
+
+- [Footer](Footer)
+  - [Animated Social Media Links](Footer/animated-social-media-links)
