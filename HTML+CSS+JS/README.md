@@ -31,6 +31,7 @@
 
 - [Progress Bar](Progress-Bar)
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
 - [Background](Background)
 
   - [Animated Background](Background/Animated-Background)
