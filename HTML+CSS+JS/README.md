@@ -26,6 +26,10 @@
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   - [Flip Card](Cards/Flip-Card)
 
+- [Footer](Footer)
+
+  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
+
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
@@ -45,8 +49,10 @@
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
 
+
 - [Search Bar](Search-Bar)
   - [Animated Search Bar](Search-Bar/animated-search-bar)
+
 
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)

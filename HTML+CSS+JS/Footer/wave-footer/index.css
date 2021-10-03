@@ -1,0 +1,75 @@
+.fsection{
+    position: relative;
+    width: 100%;  
+    height:98vh;
+    background:none;
+    overflow:hidden;
+}
+
+.fsection .wave{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    width:100%;
+    height:100px;
+    background: url("https://img.techpowerup.org/201111/output-onlinepngtools-2564.png");
+    background-size: 1000px 100px;
+    opacity: 10%;
+
+}
+
+.fsection .wave.wave1{
+    animation: animate1 30s linear infinite;
+    z-index: 0;
+    opacity: 1;
+    animation-delay: 0s;
+    bottom: 0;
+}
+
+.fsection .wave.wave2{
+    animation: animate2 15s linear infinite;
+    z-index: -1;
+    opacity: 0.5;
+    animation-delay: -5s;
+    bottom: 10px;
+}
+
+.fsection .wave.wave3{
+    animation: animate1 30s linear infinite;
+    z-index: -2;
+    opacity: 0.2;
+    animation-delay: -2s;
+    bottom: 15;
+}
+
+.fsection .wave.wave4{
+    animation: animate2 5s linear infinite;
+    z-index: -3;
+    opacity: 0.7;
+    animation-delay: -2s;
+    bottom: 20px;
+}
+
+@keyframes animate1
+{
+    0%{
+background-position-x:0;
+    }
+    100%
+    {
+        background-position-x:1000px ;
+    }
+    
+}
+
+@keyframes animate2
+{
+    0%{
+background-position-x:0;
+    }
+    100%
+    {
+        background-position-x:1000px ;
+    }
+    
+}
