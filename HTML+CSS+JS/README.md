@@ -22,8 +22,8 @@
   - [Neumorphism Button](Buttons/neumorphism-button)
 
 - [Cards](Cards)
-
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
+  - [Flip Card](Cards/Flip-Card)
 
 - [Text Animations](Text-Animations)
 
