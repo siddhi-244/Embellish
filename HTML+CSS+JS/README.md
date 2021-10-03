@@ -51,3 +51,6 @@
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)
 
+- [Image Gallery](Image-Gallery)
+  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid)   
+
