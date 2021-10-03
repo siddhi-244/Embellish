@@ -8,7 +8,6 @@
 
   - [Contact Page](Forms/Contact-Page)
 
-
 - [Loader](Loader)
 
   - [Ripple Loader](Loader/ripple-loader)
@@ -25,6 +24,10 @@
 
   - [Product & Profile Cards](Cards/Product-Profile Cards)
 
+- [Footer](Footer)
+
+  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
+
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
@@ -36,8 +39,7 @@
   - [Animated Background](Background/Animated-Background)
   - [Parallax Effect Background](Background/Parallax-Effect)
 
-
-- [Mouse Hover Effects](Mouse-Hover-Effects) 
+- [Mouse Hover Effects](Mouse-Hover-Effects)
 - [Parallax](Mouse-Hover-Effects/Parallax)
 
 - [Navigation Bar](Navigation-Bar)
