@@ -1,0 +1,84 @@
+/* Google Fonts  */
+
+/* 1. Importing your css like this isn't recommended, you can eiether use the CDN or self-host it.  */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
+
+/* Basic Resets & Stuff  */
+html,
+body {
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  width: 100%;
+  padding-inline: 1rem;
+  margin-inline: auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+/* Custom Properties  */
+
+:root {
+  --sans-serif: "Inter", sans-serif;
+  --accent: #2563eb;
+  --accent-shade-1: #eff6ff;
+  --accent-shade-2: #dbeafe;
+  --accent-dark: #1e40af;
+
+  --gray-100: #f3f4f6;
+  --gray-600: #4b5563;
+  --gray-900: #111827;
+  --radius: 4px;
+}
+
+body {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.55;
+  font-family: var(--sans-serif);
+  overflow-x: hidden;
+  text-rendering: optimizeSpeed;
+}

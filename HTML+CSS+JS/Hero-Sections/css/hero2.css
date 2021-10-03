@@ -1,0 +1,135 @@
+body {
+  background: #ccc;
+}
+
+.hero {
+  padding-block: 5rem;
+  text-align: center;
+  background: var(--gray-100);
+}
+
+.hero-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.hero-content .headline {
+  font-weight: 800;
+  color: var(--gray-900);
+  font-size: 1.75rem;
+  line-height: 1.4;
+}
+
+.hero-content .headline span {
+  color: var(--accent);
+}
+
+.hero-content .intro {
+  font-size: 0.9rem;
+  color: var(--gray-600);
+  margin-block: 1rem;
+}
+
+.hero .hero-links {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.hero .hero-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  line-height: 1;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+  padding: 1rem 1.5rem;
+  border-radius: var(--radius);
+}
+
+.hero .hero-links .hero-cta {
+  background: var(--accent);
+  color: #fff;
+}
+
+.hero .hero-links .secondary-link {
+  background: var(--accent-shade-2);
+  color: var(--accent);
+}
+
+.hero-img img {
+  max-width: 340px;
+  margin-inline: auto;
+}
+
+.hero .hero-logo-cloud {
+  margin-block-start: 2rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.hero .hero-logo-cloud > h3 {
+  flex-basis: 100%;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.hero .hero-logo-cloud img {
+  width: 80px;
+  opacity: 0.7;
+  transition: opacity 100ms ease;
+}
+
+.hero .hero-logo-cloud img:hover {
+  opacity: 1;
+}
+
+@media (min-width: 576px) {
+  .hero-content .headline {
+    font-size: 2.5rem;
+  }
+
+  .hero .hero-links {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .hero {
+    text-align: left;
+    padding-block: 8rem;
+  }
+  .hero-inner {
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .hero .hero-links {
+    justify-content: flex-start;
+  }
+
+  .hero .hero-content {
+    flex-basis: 55%;
+  }
+
+  .hero .hero-img {
+    flex: 40%;
+  }
+
+  .hero .hero-logo-cloud {
+    flex-basis: 100%;
+  }
+
+  .hero .hero-logo-cloud img {
+    width: 95px;
+  }
+}

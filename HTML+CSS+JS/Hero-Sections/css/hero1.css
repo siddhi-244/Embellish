@@ -1,0 +1,66 @@
+.hero {
+  padding-block: 7rem;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+    url("../images/hero1.jpg") center center no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+.hero .headline {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.hero .intro {
+  margin-block: 1rem;
+  max-width: 40ch;
+  margin-inline: auto;
+  font-size: 1.125rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
+
+.hero-links a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  line-height: 1.1;
+  border-radius: var(--radius);
+  padding: 0.75rem 1.5rem;
+  transition: background 150ms ease;
+}
+
+.hero-links .hero-cta {
+  background: var(--accent);
+  border: 1px solid transparent;
+  font-weight: 600;
+}
+
+.hero-links .hero-cta:hover {
+  background: var(--accent-dark);
+}
+
+.hero-links .secondary-link {
+  border: 1px solid var(--accent);
+}
+
+.hero-links .secondary-link:hover {
+  background: var(--accent);
+}
+
+@media (min-width: 576px) {
+  .hero .headline {
+    font-size: 3rem;
+  }
+
+  .hero-links {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
