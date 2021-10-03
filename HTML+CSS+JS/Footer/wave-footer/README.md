@@ -1,6 +1,6 @@
 # Animated Responsive Wave-like Footer Section
 
- Animated Responsive Wave-like Footer Section built using only HTML and CSS, and can be implemented with any project. See the demo here: https://healthinic.netlify.app/evaluate
+ Animated Responsive Wave-like Footer Section built using only HTML and CSS, and can be implemented with any project.
 
 ## Demo
 
