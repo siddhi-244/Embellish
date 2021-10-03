@@ -20,6 +20,7 @@
   - [Shiny Button Animation](Buttons/Shiny-Button)
 
   - [Neumorphism Button](Buttons/neumorphism-button)
+  - [Glowing Animated Button](Buttons/glowing-animated-button)
 
 - [Cards](Cards)
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
@@ -44,5 +45,9 @@
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
 
+- [Search Bar](Search-Bar)
+  - [Animated Search Bar](Search-Bar/animated-search-bar)
+
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)
+
