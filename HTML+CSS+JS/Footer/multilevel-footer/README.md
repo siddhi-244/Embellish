@@ -9,7 +9,8 @@ Colors Used:
 - #F6F6F6
 
 
-## Demo -
+## Demo 
+
 
 ![multilevel footer](https://user-images.githubusercontent.com/70203777/135751855-cd91e384-e646-4160-bdcc-84141a677a48.JPG)
 
@@ -18,6 +19,7 @@ Colors Used:
 
 + Copy the `footer`  and paste it in your HTML file 
 + Copy the `styles.css` into your CSS file
++ Make sure to include the font awesome CDN link 
 
 
 ## Detailed explanation of code 
