@@ -19,7 +19,7 @@ It uses CSS Hover action to show the hidden contents of the Profile Card
 
 ## Author(s)
 
-GithHub - TechSpiritSS (Sidharth Sethi)
+[Sidharth Sethi](https://github.com/TechSpiritSS)
 
 # Disclaimers (if any)
 
