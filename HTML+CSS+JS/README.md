@@ -5,6 +5,10 @@
 -   [Carousel](Carousel)
 
     -   [Image Carousel](Carousel/image-carousel)
+    
+- [Accordion](Accordion)
+
+  - [Accordion](Accordion/Accordion)
 
 -   [Forms](Forms)
 
@@ -25,26 +29,34 @@
   - [Background Animation Button](background-animation-button)
   
   - [Shiny Button Animation](Buttons/Shiny-Button)
-   
--   [Text Animations](Text-Animations)
-    
-  -   [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
 
--   [Cards](Cards)
+  - [Neumorphism Button](Buttons/neumorphism-button)
+  
+  - [Glowing Animated Button](Buttons/glowing-animated-button)
+
+- [Cards](Cards)
 
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   
   - [Flip Card](Cards/Flip-Card)
-
--   [Progress Bar](Progress-Bar)
-
-    -   [Gradient Progress Bar](Progress-Bar/gradient-progress)
     
 -   [Background](Background)
 
     -   [Animated Background](Background/Animated-Background)
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
+
+- [Text Animations](Text-Animations)
+
+  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+  
+  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
+
+- [Progress Bar](Progress-Bar)
+  
+  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+  
+  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
 
 -   [Mouse Hover Effects](Mouse-Hover-Effects)
 
@@ -54,6 +66,14 @@
 
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
    
+- [Search Bar](Search-Bar)
+
+  - [Animated Search Bar](Search-Bar/animated-search-bar)
+
 - [Footer](Footer)
 
   - [Animated Social Media Links](Footer/animated-social-media-links)
+  
+  - [Multi Level Footer](Footer/multilevel-footer)
+  
+  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
