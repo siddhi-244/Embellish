@@ -30,6 +30,7 @@
 
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   - [Flip Card](Cards/Flip-Card)
+  - [Animated Profile Card](Cards/Animated-Profile)
 
 - [Footer](Footer)
 
