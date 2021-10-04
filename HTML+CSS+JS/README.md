@@ -2,6 +2,10 @@
 
 ## Table of contents -
 
+- [Accordion](Accordion)
+
+  - [Accordion](Accordion/Accordion)
+
 - [Forms](Forms)
 
   - [Glassmorphism Form](Forms/Glassmorphism-Form)
@@ -23,8 +27,13 @@
   - [Glowing Animated Button](Buttons/glowing-animated-button)
 
 - [Cards](Cards)
+
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   - [Flip Card](Cards/Flip-Card)
+
+- [Footer](Footer)
+
+  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
 
 - [Text Animations](Text-Animations)
 
@@ -46,11 +55,12 @@
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
 
 - [Search Bar](Search-Bar)
+
   - [Animated Search Bar](Search-Bar/animated-search-bar)
 
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)
+  - [Multi Level Footer](Footer/multilevel-footer)
 
 - [Image Gallery](Image-Gallery)
-  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid)   
-
+  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid)  
