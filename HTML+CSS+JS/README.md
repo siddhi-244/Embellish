@@ -4,7 +4,7 @@
 
 - [Accordion](Accordion)
 
- - [Accordion](Accordion/Accordion)
+   - [Accordion](Accordion/Accordion)
 
 - [Forms](Forms)
 
