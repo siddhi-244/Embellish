@@ -4,13 +4,13 @@
 
 - [Accordion](Accordion)
 
-  - [Accordion](Accordion/Accordion)
+   - [Accordion](Accordion/Accordion)
 
 - [Forms](Forms)
 
   - [Glassmorphism Form](Forms/Glassmorphism-Form)
-
   - [Contact Page](Forms/Contact-Page)
+  - [Contact Form](Forms/Contact-Form)
 
 - [Loader](Loader)
 
@@ -30,6 +30,7 @@
 
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   - [Flip Card](Cards/Flip-Card)
+  - [Animated Profile Card](Cards/Animated-Profile)
 
 - [Footer](Footer)
 
@@ -38,6 +39,7 @@
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
 
 - [Progress Bar](Progress-Bar)
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
