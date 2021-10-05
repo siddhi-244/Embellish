@@ -8,13 +8,15 @@
     
 - [Accordion](Accordion)
 
-  - [Accordion](Accordion/Accordion)
+ - [Accordion](Accordion/Accordion)
 
 -   [Forms](Forms)
 
-    -   [Glassmorphism Form](Forms/Glassmorphism-Form)
-
-    -   [Contact Page](Forms/Contact-Page)
+  - [Glassmorphism Form](Forms/Glassmorphism-Form)
+  
+  - [Contact Page](Forms/Contact-Page)
+  
+  - [Contact Form](Forms/Contact-Form)
 
 -   [Loader](Loader)
 
@@ -39,6 +41,8 @@
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
   
   - [Flip Card](Cards/Flip-Card)
+  
+  - [Animated Profile Card](Cards/Animated-Profile)
     
 -   [Background](Background)
 
