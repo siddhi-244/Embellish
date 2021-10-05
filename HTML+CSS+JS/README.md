@@ -25,6 +25,10 @@
 
   - [Product & Profile Cards](Cards/Product-Profile Cards)
 
+-[Carousel](Carousel)
+
+  -[3d image carousel](Carousel/3d-img-carousel)
+
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
