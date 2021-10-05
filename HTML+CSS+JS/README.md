@@ -16,6 +16,7 @@
 
   - [Ripple Loader](Loader/ripple-loader)
   - [Bar Loader](Loader/Bar-Loader)
+  - [Wi-Fi Loader](Loader/wifi-loader)
 
 - [Buttons](Buttons)
 
