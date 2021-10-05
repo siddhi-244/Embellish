@@ -4,13 +4,13 @@
 
 - [Accordion](Accordion)
 
-  - [Accordion](Accordion/Accordion)
+ - [Accordion](Accordion/Accordion)
 
 - [Forms](Forms)
 
   - [Glassmorphism Form](Forms/Glassmorphism-Form)
-
   - [Contact Page](Forms/Contact-Page)
+  - [Contact Form](Forms/Contact-Form)
 
 - [Loader](Loader)
 
