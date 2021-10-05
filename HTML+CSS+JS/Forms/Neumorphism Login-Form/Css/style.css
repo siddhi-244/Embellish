@@ -8,6 +8,7 @@
 html,body{
     height: 100%;
 }
+/*-----body starts--------------*/
 body{
     display: grid;
     place-items: center;
