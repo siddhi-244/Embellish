@@ -58,9 +58,6 @@
 
   - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
 
-- [Search Bar](Search-Bar)
-
-  - [Animated Search Bar](Search-Bar/animated-search-bar)
 
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)
