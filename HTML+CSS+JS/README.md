@@ -51,7 +51,8 @@
   - [Parallax Effect Background](Background/Parallax-Effect)
 
 - [Mouse Hover Effects](Mouse-Hover-Effects)
-- [Parallax](Mouse-Hover-Effects/Parallax)
+    
+    - [Parallax](Mouse-Hover-Effects/Parallax)
 
 - [Navigation Bar](Navigation-Bar)
 
