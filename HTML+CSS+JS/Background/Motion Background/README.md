@@ -1,7 +1,9 @@
 ## Motion Background
-You can add more options on the home page as per your requirement
+I have used CSS and HTML 
+,you can add more options on the home page as per your requirement
 
 ### Here are the link for the components used.
+
 You can replace these with any as per choice, I have used the Autum fall leaves.
 
 http://www.pngmart.com/files/1/Fall-Autumn-Leaves-Transparent-PNG.png
