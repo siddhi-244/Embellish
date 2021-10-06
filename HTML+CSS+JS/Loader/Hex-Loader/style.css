@@ -1,0 +1,104 @@
+
+.socket{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 50%;
+    margin-top: -100px;
+    transform:rotate(90deg)
+}
+
+.hex-brick{
+  background: #090979;
+  width: 33px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  animation-name: fade;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.hlx2{
+  transform: rotate(60deg);
+}
+
+.hlx3{
+  transform: rotate(-60deg);
+}
+
+.hex{
+  height: 30px;
+  width: 30px;	
+  transition: all .3s;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.c0{
+  margin-left: -15px;
+  margin-top: -15px;
+  animation-name: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.c1{
+   margin-left: -47px;
+   margin-top: -15px;
+   opacity:0.15;
+}
+
+.c2{
+   margin-left: -31px;
+   margin-top: -43px;
+   opacity:0.75;
+}
+
+.c3{
+   margin-left: 1px;
+   margin-top: -43px;
+   opacity:0.25;
+}
+
+.c4{
+   margin-left: 17px;
+   margin-top: -15px;
+   opacity:0.75;
+}
+.c5{
+   margin-left: -31px;
+   margin-top: 13px;
+   opacity:0.25;
+}
+
+.c6{
+   margin-left: 1px;
+   margin-top: 13px;
+   opacity:0.50;
+}
+
+.r1{
+    animation-name: pulse;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .2s;
+}
+
+
+@keyframes pulse{
+    0%{
+        transform: scale(1);
+    }
+    
+    50%{
+        transform: scale(0.01);
+    }
+    
+    100%{
+        transform: scale(1);
+    }
+}
