@@ -16,6 +16,7 @@
 
   - [Ripple Loader](Loader/ripple-loader)
   - [Bar Loader](Loader/Bar-Loader)
+  - [Hex Loader](Loader/Hex-Loader)
 
 - [Buttons](Buttons)
 
