@@ -16,6 +16,7 @@
 
   - [Ripple Loader](Loader/ripple-loader)
   - [Bar Loader](Loader/Bar-Loader)
+  - [Skeleton Loader](Loader/Skeleton-Loader)
 
 - [Buttons](Buttons)
 
