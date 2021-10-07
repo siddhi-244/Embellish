@@ -25,9 +25,7 @@
   
   - [Bar Loader](Loader/Bar-Loader)
   
-  - [Hex Loader](Loader/Hex-Loader)
-
-  - [Wi-Fi Loader](Loader/wifi-loader)
+  - [Skeleton Loader](Loader/Skeleton-Loader)
 
 -   [Buttons](Buttons)
 
@@ -86,8 +84,4 @@
   
   - [Multi Level Footer](Footer/multilevel-footer)
   
-<<<<<<< HEAD
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
-=======
-  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
->>>>>>> 01b47a4d3545abd4f8390874de22da67b8c6a58f
