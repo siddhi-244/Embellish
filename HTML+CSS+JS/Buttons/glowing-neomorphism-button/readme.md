@@ -1,4 +1,4 @@
-# Glowing Animated Button
+# Glowing Neomorphism Button
 
 A glowing animated neomorphism button built using only HTML and CSS, and can be implemented with any project. See the demo here: https://healthinic.netlify.app/evaluate
 
