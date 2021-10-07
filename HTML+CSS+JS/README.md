@@ -11,33 +11,24 @@
    - [Accordion](Accordion/Accordion)
 
 -   [Forms](Forms)
-
-  - [Glassmorphism Form](Forms/Glassmorphism-Form)
-  
-  - [Contact Page](Forms/Contact-Page)
-  
-  - [Contact Form](Forms/Contact-Form)
-  - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
+    - [Glassmorphism Form](Forms/Glassmorphism-Form)
+    - [Contact Page](Forms/Contact-Page)
+    - [Contact Form](Forms/Contact-Form)
+    - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
+ 
 
 -   [Loader](Loader)
-
-  - [Ripple Loader](Loader/ripple-loader)
-  
-  - [Bar Loader](Loader/Bar-Loader)
-  
-  - [Skeleton Loader](Loader/Skeleton-Loader)
+    - [Ripple Loader](Loader/ripple-loader)
+    -  [Bar Loader](Loader/Bar-Loader)
+    - [Skeleton Loader](Loader/Skeleton-Loader)
 
 -   [Buttons](Buttons)
 
-  - [Border Animation Button](border-animation-button)
-  
-  - [Background Animation Button](background-animation-button)
-  
-  - [Shiny Button Animation](Buttons/Shiny-Button)
-
-  - [Neumorphism Button](Buttons/neumorphism-button)
-  
-  - [Glowing Animated Button](Buttons/glowing-animated-button)
+    - [Border Animation Button](border-animation-button)
+    - [Background Animation Button](background-animation-button)
+    - [Shiny Button Animation](Buttons/Shiny-Button)
+    - [Neumorphism Button](Buttons/neumorphism-button)
+    - [Glowing Animated Button](Buttons/glowing-animated-button)
 
 - [Cards](Cards)
 
@@ -67,7 +58,7 @@
 
 -   [Mouse Hover Effects](Mouse-Hover-Effects)
 
-  -   [Parallax](Mouse-Hover-Effects/Parallax)
+    -   [Parallax](Mouse-Hover-Effects/Parallax)
 
 -   [Navigation Bar](Navigation-Bar)
 
