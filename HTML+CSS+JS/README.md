@@ -74,5 +74,7 @@
   - [Animated Social Media Links](Footer/animated-social-media-links)
   
   - [Multi Level Footer](Footer/multilevel-footer)
-  
+
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
+  
+  - [Simple-Footer](Footer/Simple-footer)
