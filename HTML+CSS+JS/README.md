@@ -19,6 +19,7 @@
 - [Contact Form](Forms/Contact-Form)
 - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
 
+<<<<<<< HEAD
 - [Loader](Loader)
 
 - [Ripple Loader](Loader/ripple-loader)
@@ -28,9 +29,23 @@
 - [Hex Loader](Loader/Hex-Loader)
 
 - [Wi-Fi Loader](Loader/wifi-loader)
+=======
+-   [Forms](Forms)
+    - [Glassmorphism Form](Forms/Glassmorphism-Form)
+    - [Contact Page](Forms/Contact-Page)
+    - [Contact Form](Forms/Contact-Form)
+    - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
+ 
+
+-   [Loader](Loader)
+    - [Ripple Loader](Loader/ripple-loader)
+    -  [Bar Loader](Loader/Bar-Loader)
+    - [Skeleton Loader](Loader/Skeleton-Loader)
+>>>>>>> ebc982f3218dd7667a03fbb8145e6262abec992b
 
 - [Buttons](Buttons)
 
+<<<<<<< HEAD
 - [Border Animation Button](border-animation-button)
 
 - [Background Animation Button](background-animation-button)
@@ -40,6 +55,13 @@
 - [Neumorphism Button](Buttons/neumorphism-button)
 
 - [Glowing Animated Button](Buttons/glowing-animated-button)
+=======
+    - [Border Animation Button](border-animation-button)
+    - [Background Animation Button](background-animation-button)
+    - [Shiny Button Animation](Buttons/Shiny-Button)
+    - [Neumorphism Button](Buttons/neumorphism-button)
+    - [Glowing Animated Button](Buttons/glowing-animated-button)
+>>>>>>> ebc982f3218dd7667a03fbb8145e6262abec992b
 
 - [Cards](Cards)
 
@@ -71,7 +93,11 @@
 
 - [Mouse Hover Effects](Mouse-Hover-Effects)
 
+<<<<<<< HEAD
 - [Parallax](Mouse-Hover-Effects/Parallax)
+=======
+    -   [Parallax](Mouse-Hover-Effects/Parallax)
+>>>>>>> ebc982f3218dd7667a03fbb8145e6262abec992b
 
 - [Navigation Bar](Navigation-Bar)
 
@@ -86,5 +112,9 @@
   - [Animated Social Media Links](Footer/animated-social-media-links)
 
   - [Multi Level Footer](Footer/multilevel-footer)
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> ebc982f3218dd7667a03fbb8145e6262abec992b
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
