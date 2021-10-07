@@ -8,7 +8,7 @@
     
 - [Accordion](Accordion)
 
- - [Accordion](Accordion/Accordion)
+   - [Accordion](Accordion/Accordion)
 
 -   [Forms](Forms)
 
@@ -17,12 +17,15 @@
   - [Contact Page](Forms/Contact-Page)
   
   - [Contact Form](Forms/Contact-Form)
+  - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
 
 -   [Loader](Loader)
 
-    -   [Ripple Loader](Loader/ripple-loader)
-    
-    -   [Bar Loader](Loader/Bar-Loader)
+  - [Ripple Loader](Loader/ripple-loader)
+  
+  - [Bar Loader](Loader/Bar-Loader)
+  
+  - [Hex Loader](Loader/Hex-Loader)
 
 -   [Buttons](Buttons)
 
@@ -69,10 +72,11 @@
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
-   
+
 - [Search Bar](Search-Bar)
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
+
 
 - [Footer](Footer)
 
