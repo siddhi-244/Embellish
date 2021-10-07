@@ -1,12 +1,13 @@
 
 # About Embellish -
 <div align="center" >
-    
-![134015433-aec59d97-a8d7-407a-88fd-5e3edebc2b77](https://user-images.githubusercontent.com/69195262/135603809-8551bd8f-2231-439a-909c-061cf009bc0e.png)
+  
+![hacktober logo repo sample 2](https://user-images.githubusercontent.com/64035221/135744920-b899c3ef-5112-49d0-9f8d-c0663ae86a7b.png)
+  
+![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social)
 
-![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social) 
-
-[![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls) 
+[![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls)
+  
 </div>
 
 - Having a designed component in css? Want to flaunt it ? Do you want other people to use your component? Here we are. Contribute your component to Embellish.
@@ -18,20 +19,25 @@
 <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
 
 </div>
-    
+
 <hr/>
 
-# :scroll: Instructions to follow while contributing 
+# :scroll: Instructions to follow while **Contributing**
 #
--   Make sure that with every design/ component should be added to a separate folder.
--   Every folder should have its own `README.md` file where instructions to setup environment should be there and a demo video in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
--   Always update the table of contents in the parent folder where the new component is added.
--   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and with addequate documentation as required. The code must be extremely simple to understand such that it is ready for immediate use in some project.**
--   Make sure to follow the [Code of Conduct](https://github.com/siddhi-244/Embellish/blob/a6e11d92ee995e63fef0df6bb49f3f4bfe2f661f/CODE_OF_CONDUCT.md) and be respectful towards others while contributing to the project.
+-   Make sure that with **every design/ component** should be added to a separate folder.
+-   Every **folder** should have its own `README.md` file **where instructions** to setup environment should be there and a **demo video** in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
+-   Always **update the table of contents** in the parent folder where the new **component** is added.
+-   Whether you are adding an animation or a design component or any other code, make sure to include all the **additional scripts and CDN's** within the **file/ folder itself and with addequate documentation** as required. The code must be extremely simple to understand such that it is ready for **immediate use in some project.**
+-   Make sure to follow the **[Code of Conduct](https://github.com/siddhi-244/Embellish/blob/a6e11d92ee995e63fef0df6bb49f3f4bfe2f661f/CODE_OF_CONDUCT.md)** and be **respectful** towards others while contributing to the project.
 
 <hr/>
 
-# How to contribute?
+# How to **contribute**?
+
+_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)._
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 **1.**  Fork [this](https://github.com/siddhi-244/Embellish.git) repository.
 
@@ -76,7 +82,7 @@ git checkout -b <your_branch_name>
 **9.** Track your changes:heavy_check_mark: .
 
 ```
-git add . 
+git add .
 ```
 
 **10.** Commit your changes .
@@ -107,5 +113,5 @@ git push -u origin <your_branch_name>
 <hr>
 
 <h1 align=center> Project Maintainer & Admin </h1>
-<p align="center"> <a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?s=96&v=4" width=100px height=100px /></a>
+<p align="center"> <a href="https://github.com/siddhi-244"><img src="https://user-images.githubusercontent.com/64035221/135665400-b5e1edbe-2164-414b-b4cc-7574d0cacaeb.png" width=100px height=100px /></a>
 <p align="center"> Siddhi Bhanushali </p>
