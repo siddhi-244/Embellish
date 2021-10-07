@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-level Footer</title>
+
+    <!-- Links tags -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+
+    <!-- Font links -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- 
+        3 levels
+            * Footer Hero with nav links
+            * Footer Social Links
+            * Footer Legal with policies and Copyright 
+    -->
+
+    <div class="container"></div>
+    <footer>
+        <!-- Footer hero -->
+        <section class="f-hero">
+            <div class="f-hero-item">
+                <h2 class="f-title">About</h2>
+                <ul>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">Customers</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </div>
+            <div class="f-hero-item">
+                <h2 class="f-title">Resources</h2>
+                <ul>
+                    <li><a href="#">Docs</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">eBooks</a></li>
+                    <li><a href="#">Webinars</a></li>
+                </ul>
+            </div>
+            <div class="f-hero-item">
+                <h2 class="f-title">Contact</h2>
+                <ul>
+                    <li><a href="#">Help</a></li>
+                    <li><a href="#">email</a></li>
+                    <li><a href="#">Address</a></li>
+                </ul>
+            </div>
+            <div class="f-hero-item">
+                <h2 class="f-title">Stay Updated</h2>
+                <p>Subscribe to our newsletter to get the latest news.</p>
+                <form>
+                    <input type="email" name="email" placeholder="Enter email address">
+                    <input type="submit" value="Subscribe">
+                </form>
+            </div>
+        </section>
+
+        <!-- Footer social -->
+        <section class="f-social">
+            <ul class="f-social-group">
+                <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-github"></i></a></li>
+                <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+            </ul>
+        </section>
+
+        <!-- Footer legal -->
+        <section class="f-legal">
+            <ul class="f-legal-list">
+                <li><a href="#">Terms &amp; Conditions</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li>&copy; 2021 Hacktoberfest</li>
+            </ul>
+        </section>
+    </footer>
+</body>
+
+</html>
