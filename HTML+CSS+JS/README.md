@@ -5,6 +5,7 @@
 -   [Carousel](Carousel)
 
     -   [Image Carousel](Carousel/image-carousel)
+    - [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
     
 - [Accordion](Accordion)
 
