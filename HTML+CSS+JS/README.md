@@ -11,11 +11,13 @@
   - [Glassmorphism Form](Forms/Glassmorphism-Form)
   - [Contact Page](Forms/Contact-Page)
   - [Contact Form](Forms/Contact-Form)
+  - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
 
 - [Loader](Loader)
 
   - [Ripple Loader](Loader/ripple-loader)
   - [Bar Loader](Loader/Bar-Loader)
+  - [Hex Loader](Loader/Hex-Loader)
 
 - [Buttons](Buttons)
 
@@ -54,7 +56,8 @@
   - [Parallax Effect Background](Background/Parallax-Effect)
 
 - [Mouse Hover Effects](Mouse-Hover-Effects)
-- [Parallax](Mouse-Hover-Effects/Parallax)
+    
+    - [Parallax](Mouse-Hover-Effects/Parallax)
 
 - [Navigation Bar](Navigation-Bar)
 
@@ -63,7 +66,11 @@
 
 - [Search Bar](Search-Bar)
 
+
+- [Search Bar](Search-Bar)
   - [Animated Search Bar](Search-Bar/animated-search-bar)
+
+
 
 - [Footer](Footer)
   - [Animated Social Media Links](Footer/animated-social-media-links)
