@@ -77,6 +77,13 @@
   
   - [Multi Level Footer](Footer/multilevel-footer)
 
+  - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+
+
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
   
   - [Simple-Footer](Footer/Simple-footer)
+  
+-[Carousel](Carousel)
+
+  -[3d image carousel](Carousel/3d-img-carousel)
