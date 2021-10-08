@@ -42,6 +42,8 @@
     
 -   [Background](Background)
 
+    -   [Video Background](Background/Video-Background)
+
     -   [Animated Background](Background/Animated-Background)
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
