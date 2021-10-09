@@ -6,6 +6,6 @@
  - You can replace the images with yours, I have also mentioned small, big, medium sized images.
   
 ### Its completely responsive!
-<img src="https://github.com/honeykpatel/Embellish/blob/main/HTML%2BCSS%2BJS/Image%20Gallery/Responsive%20Image%20Grid/Screenshot/screenshot.png">
+<img src="./Screenshot/screenshot.png">
 
 #### Made by [Honey](https://github.com/honeykpatel/) for Developer ❤
