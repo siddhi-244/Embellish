@@ -5,6 +5,8 @@
 -   [Carousel](Carousel)
 
     -   [Image Carousel](Carousel/image-carousel)
+    -   [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
+    -   [3d image carousel](Carousel/3d-img-carousel)
     
 - [Accordion](Accordion)
 
@@ -42,6 +44,8 @@
     
 -   [Background](Background)
 
+    -   [Video Background](Background/Video-Background)
+
     -   [Animated Background](Background/Animated-Background)
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
@@ -77,6 +81,12 @@
   
   - [Multi Level Footer](Footer/multilevel-footer)
 
+  - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
+
+
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
   
+
   - [Simple-Footer](Footer/Simple-footer)
+  
+
