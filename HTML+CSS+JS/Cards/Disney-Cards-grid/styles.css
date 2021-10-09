@@ -1,0 +1,64 @@
+body {
+  background: #0c111b;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.disney-wrapper {
+  display: flex;
+  align-items: center;
+  height: calc(100vh - 77px);
+}
+
+h1 {
+  max-width: max-content;
+  margin: 20px auto;
+}
+
+.video-card-container {
+  width: 92%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.video-card {
+  position: relative;
+  min-width: calc(100% / 5 - 10px);
+  width: calc(100% / 5 - 10px);
+  border-radius: 5px;
+  overflow: hidden;
+  background: #030b17;
+  transition: all 0.5s ease-in;
+  cursor: pointer;
+  box-shadow: 3px 4px 8px -3px rgb(255 255 255 / 60%);
+}
+
+.video-card-image,
+.card-video {
+  display: block;
+  border-radius: 5px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+}
+
+.video-card:hover .video-card-image {
+  display: none;
+}
+.video-card:hover .card-video {
+  opacity: 1;
+}
