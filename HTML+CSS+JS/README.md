@@ -5,7 +5,8 @@
 -   [Carousel](Carousel)
 
     -   [Image Carousel](Carousel/image-carousel)
-    - [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
+    -   [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
+    -   [3d image carousel](Carousel/3d-img-carousel)
     
 - [Accordion](Accordion)
 
@@ -85,6 +86,3 @@
   
   - [Simple-Footer](Footer/Simple-footer)
   
--[Carousel](Carousel)
-
-  -[3d image carousel](Carousel/3d-img-carousel)
