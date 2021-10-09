@@ -89,4 +89,7 @@
 
   - [Simple-Footer](Footer/Simple-footer)
   
+  
+- [Image Gallery](Image-Gallery)
 
+  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
