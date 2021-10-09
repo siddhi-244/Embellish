@@ -86,5 +86,7 @@
 
   - [Wave-like Responsive Animated Footer](Footer/wave-footer)
   
+
   - [Simple-Footer](Footer/Simple-footer)
   
+
