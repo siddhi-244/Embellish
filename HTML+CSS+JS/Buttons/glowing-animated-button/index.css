@@ -1,0 +1,78 @@
+.bodyfull{
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.bgbox{
+    height: 40%; 
+    background-color: #edeff1; 
+    display: flex; 
+    justify-content:center;
+}
+
+/* STYLING OF OUR ANIMATED BUTTON STARTS HERE*/
+
+.app__evaluateButton {
+    font-weight: lighter; 
+    font-family:Rubik,sans-serif;
+    margin-top: 50px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    color: #fff;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    box-sizing: border-box;
+    /*background: linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);*/
+    background: linear-gradient(90deg, #34cb5c, #37c2c8, #ffeb3b, #34cb5c);
+    background-size: 400%;
+    border-radius: 30px;
+    z-index: 1;
+    box-shadow: -10px -10px 15px #edeff1,7px 10px 20px 20px #cacfd8;
+  }
+  
+.app__evaluateButton:hover {
+text-decoration: none;
+color: white;
+animation: animate11 8s linear infinite;
+}
+@keyframes animate11 {
+0% {
+    background-position: 0%;
+}
+100% {
+    background-position: 400%;
+}
+}
+
+.app__evaluateButton:before {
+content: "";
+position: absolute;
+top: -5px;
+left: -5px;
+right: -5px;
+bottom: -5px;
+z-index: -1;
+background: linear-gradient(90deg, #34cb5c, #37c2c8, #ffeb3b, #34cb5c);
+background-size: 400%;
+border-radius: 40px;
+opacity: 0;
+transition: 0.5s;
+}
+
+.app__evaluateButton:hover:before {
+filter: blur(20px);
+opacity: 1;
+animation: animate 8s linear infinite;
+}
+
+/* STYLING OF OUR ANIMATED BUTTON ENDS HERE*/

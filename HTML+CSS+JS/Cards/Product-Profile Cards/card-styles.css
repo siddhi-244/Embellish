@@ -1,0 +1,281 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --body-bg-color: white;
+  --card-body-color: rgb(15, 15, 73);
+  --card-accent-color: rgb(255, 255, 20);
+  --card-text-color: white;
+  --social-card-bg-color: rgb(6, 6, 48);
+  --card-top-color: rgb(255, 55, 55);
+  --card-bottom-color: rgb(233, 233, 233);
+  --title-font: "Lato", monospace;
+  --content-font: "Montserrat", monospace;
+}
+.card-block-one,
+.card-block-two {
+  background-color: var(--body-bg-color);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.card-block-one .card {
+  width: 30%;
+  max-width: 500px;
+  min-width: 350px;
+  margin: 30px;
+  padding: 10em 0em 0em 0em;
+  /* replace */
+  background: url(https://docs.google.com/uc?id=1Jdqjf_Qe91K_eu_zdq39KDCiPGsk9zDS);
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 10px 7px 5px var(--card-accent-color);
+}
+
+.card-one-content,
+.card-two-content {
+  position: relative;
+  z-index: 2;
+  padding: 1.5em;
+  background: linear-gradient(
+    hsl(0 0% 0% / 0),
+    hsl(0 0% 0% / 0.3) 15%,
+    hsl(0 0% 0% / 1)
+  );
+}
+.card-title {
+  width: max-content;
+  position: relative;
+  font-family: sans-serif;
+  color: var(--card-text-color);
+}
+.card-title::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  height: 5px;
+  width: 100%;
+  background-color: var(--card-accent-color);
+  left: 0px;
+  bottom: -5px;
+}
+
+.card-text {
+  font-family: sans-serif;
+  color: var(--card-text-color);
+  margin-top: 1.3rem;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+.card-button {
+  outline: none;
+  border: none;
+  padding: 0.6em 0.4em;
+  transform: scale(1.3);
+  margin-top: 1.2em;
+  margin-left: 0.7em;
+  color: #333;
+  background-color: var(--card-accent-color);
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.5s, transform 0.5s;
+}
+.card-button:hover,
+.card-button:focus {
+  background-color: var(--body-bg-color);
+  color: #333;
+  transform: scale(1.35);
+}
+.card-block-two .card {
+  width: 30%;
+  max-width: 500px;
+  min-width: 350px;
+  margin: 30px;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 2em;
+  background-color: #fff;
+  position: relative;
+  box-shadow: 0px 0px 20px rgb(104, 104, 104);
+}
+.profile-content {
+  /* background-color: grey; */
+  width: 100%;
+  height: 100%;
+}
+.profile-top {
+  /* background-color:grey; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0.5em;
+}
+.codepen-profile,
+.github-profile {
+  width: 35px;
+  cursor: pointer;
+}
+.codepen-profile img,
+.github-profile img {
+  width: 35px;
+}
+.profile-image {
+  width: 150px;
+}
+.profile-image img {
+  width: 150px;
+  border-radius: 50%;
+}
+.profile-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5em;
+}
+.profile-title h1 {
+  font-family: var(--title-font);
+  margin-bottom: 0.5rem;
+}
+.profile-bottom p::before {
+  content: open-quote;
+  font-size: 1em;
+  color: rgb(211, 211, 211);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+}
+.profile-title h4 {
+  font-family: var(--title-font);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+.profile-title::after {
+  content: "";
+  width: 25%;
+  height: 0.3em;
+  margin-top: 10px;
+  border-radius: 50px;
+  background: rgb(199, 0, 0);
+}
+.profile-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  /* background-color: grey; */
+}
+.profile-bottom p {
+  text-align: center;
+  font-family: var(--content-font);
+  font-weight: 600;
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+.profile-bottom .full-profile-link {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-family: var(--title-font);
+  font-weight: 800;
+}
+
+@media (hover) {
+  .card-block-one .card {
+    box-shadow: 3px 2px 3px var(--card-accent-color);
+    transform: scale(1);
+    transition: transform 1s, box-shadow 1s;
+  }
+  .card-one:hover {
+    transform: scale(1.1);
+    box-shadow: 10px 7px 5px var(--card-accent-color);
+  }
+  .card-two-content {
+    transform: translateY(65%);
+    transition: transform 1s;
+  }
+  .card-two:hover .card-two-content {
+    transform: translateY(0);
+    transition-delay: 500ms;
+  }
+  .card-two-content > * {
+    opacity: 0;
+    transition: opacity 1.5s linear;
+  }
+  .card-two-content .card-title {
+    opacity: 1 !important;
+  }
+  .card-two:hover .card-two-content > * {
+    opacity: 1;
+  }
+  .card-title::after {
+    transform: scaleX(0);
+    transition: transform ease 1s;
+    transform-origin: left;
+  }
+  .card-one:hover .card-title::after,
+  .card-two:hover .card-title::after {
+    transform: scaleX(1);
+  }
+  .codepen-profile,
+  .github-profile {
+    opacity: 0;
+    transform: scale(0);
+    transition: opacity 0.3s linear, transform 0.3s linear;
+  }
+  .codepen-profile:hover img {
+    transform: scale(1.2);
+    transition: transform 0.2s linear;
+  }
+  .github-profile:hover img {
+    transform: scale(1.2);
+    transition: transform 0.2s linear;
+  }
+  .profile-image {
+    transform: scale(1.5) translateY(20%);
+    transition: transform 0.3s linear;
+  }
+  .profile-title {
+    transform: scale(1.2) translateY(100%);
+    transition: transform 0.3s linear;
+  }
+  .profile-title::after {
+    transform: scale(0);
+    transition: transform 0.3s linear;
+  }
+  .profile-bottom {
+    opacity: 0;
+  }
+  .card-three:hover .codepen-profile,
+  .card-three:hover .github-profile {
+    opacity: 1;
+    transform: scale(1);
+  }
+  .card-three:hover .profile-image,
+  .card-three:hover .profile-title {
+    transform: scale(1) translateY(0);
+  }
+  .card-three:hover .profile-title::after {
+    transform: scale(1);
+  }
+  .card-three:hover .profile-bottom {
+    opacity: 1;
+    transition: opacity 0.3s linear 0.1s;
+  }
+  .full-profile-link:hover {
+    color: rgb(199, 0, 0);
+  }
+}
