@@ -33,8 +33,11 @@
     - [Neumorphism Button](Buttons/neumorphism-button)
     - [Glowing Animated Button](Buttons/glowing-animated-button)
     - [Glowing Neomorphism Button](Buttons/glowing-neomorphism-button)
+    - [Glowing Animated Button](Buttons/glowing-animated-button)
+    - [Glowing Neomorphism Button](Buttons/glowing-neomorphism-button)
     - [3D Hover Button](Buttons/3D-hover-button)
-
+    - [Submit-Button-with-Ring-Indicator](Submit-Button-with-Ring-Indicator)
+    
 - [Cards](Cards)
 
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
@@ -51,7 +54,34 @@
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
 
+- [Cards](Cards)
+
+
+  - [Product & Profile Cards](Cards/Product-Profile%20Cards)
+
+  - [Flip Card](Cards/Flip-Card)
+  
+  - [Animated Profile Card](Cards/Animated-Profile)
+    
+-   [Background](Background)
+
+    -   [Video Background](Background/Video-Background)
+
+    -   [Animated Background](Background/Animated-Background)
+    
+    -   [Parallax Effect Background](Background/Parallax-Effect)
+
 - [Text Animations](Text-Animations)
+
+  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+
+  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
+
+- [Progress Bar](Progress-Bar)
+  
+  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+  
+  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
   
