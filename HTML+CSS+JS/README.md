@@ -33,7 +33,8 @@
     - [Neumorphism Button](Buttons/neumorphism-button)
     - [Glowing Animated Button](Buttons/glowing-animated-button)
     - [Glowing Neomorphism Button](Buttons/glowing-neomorphism-button)
-    - [Neon Buttons](Buttons/neon-buttons)
+    - [Neon Buttons](Buttons/neon-button)
+    - [3D Hover Button](Buttons/3D-hover-button)
 
 - [Cards](Cards)
 
