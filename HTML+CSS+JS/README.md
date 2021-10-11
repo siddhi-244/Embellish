@@ -22,8 +22,10 @@
 
 -   [Loader](Loader)
     - [Ripple Loader](Loader/ripple-loader)
-    -  [Bar Loader](Loader/Bar-Loader)
+    - [Bar Loader](Loader/Bar-Loader)
+    - [Book Loader](Loader/book-loader)
     - [Skeleton Loader](Loader/Skeleton-Loader)
+    - [Wi-Fi Loader](Loader/wifi-loader)
 
 -   [Buttons](Buttons)
 
