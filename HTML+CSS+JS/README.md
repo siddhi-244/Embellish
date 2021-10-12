@@ -26,6 +26,7 @@
     - [Book Loader](Loader/book-loader)
     - [Skeleton Loader](Loader/Skeleton-Loader)
     - [Wi-Fi Loader](Loader/wifi-loader)
+    - [Dot Loader](Loader/dot-loader)
 
 -   [Buttons](Buttons)
 
