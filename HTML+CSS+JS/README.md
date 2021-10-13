@@ -100,6 +100,7 @@
 -   [Mouse Hover Effects](Mouse-Hover-Effects)
 
     -   [Parallax](Mouse-Hover-Effects/Parallax)
+    -   [Custom Cursor with Hover Effect](Mouse-Hover-Effects/Custom-Cursor-with-Hover-Effect)
 
 -   [Navigation Bar](Navigation-Bar)
 
