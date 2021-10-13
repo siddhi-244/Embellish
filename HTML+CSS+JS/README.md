@@ -127,3 +127,5 @@
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+  
+- [Key Sequence Detection + Easter Egg](Key-Sequence-Detection)
