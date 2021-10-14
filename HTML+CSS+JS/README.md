@@ -41,6 +41,7 @@
     - [3D Hover Button](Buttons/3D-hover-button)
     - [Submit-Button-with-Ring-Indicator](Submit-Button-with-Ring-Indicator)
     - [Neon Buttons](Buttons/neon-button)
+    - [Border-Glow-Button](Buttons/border-glow-button)
     
 - [Cards](Cards)
 

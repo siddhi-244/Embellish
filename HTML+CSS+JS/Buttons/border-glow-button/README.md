@@ -1,4 +1,4 @@
-# Border Glow button
+# Border-Glow-button
 
 On hovering the border starts glowing in rainbow colours which looks cool.
 
@@ -12,4 +12,4 @@ Since it is written in HTML and CSS, adding it directly to your project and runn
 
 # Author
 
-Charvi Bansal (https://github.com/Charvi-Bansal)
+Charvi Bansal (@Charvi-Bansal)
