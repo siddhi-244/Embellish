@@ -9,9 +9,7 @@ Short description of Component/ Animation
 
 <!-- (Mandatory) -->
 
-Display images/gifs/videos of output/result of your component so that users can visualize it.
-
--   GIFs are preferred
+[click here](profile_card.gif)
 
 ## Setup instructions
 
