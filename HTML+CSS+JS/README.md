@@ -42,6 +42,7 @@
     - [Submit-Button-with-Ring-Indicator](Submit-Button-with-Ring-Indicator)
     - [Neon Buttons](Buttons/neon-button)
     - [Border-Glow-Button](Buttons/border-glow-button)
+    - [Floating Button](Buttons/floating-button)
     
 - [Cards](Cards)
 

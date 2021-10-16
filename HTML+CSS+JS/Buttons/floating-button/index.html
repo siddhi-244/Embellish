@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>Button</title>
+</head>
+<body>
+    <div class="container" id="container" onclick="containerToggle()">
+        <button class="plus_icon">+</button>
+        <ul>
+            <li>Link Here</li>
+            <li>Link Here</li>
+            <li>Link Here</li>
+            <li>Link Here</li>
+            <li>Link Here</li>
+        </ul>
+    </div>
+
+    <script>
+        function containerToggle(){
+            let container = document.getElementById('container');
+            container.classList.toggle('active');
+            
+        }
+    </script>
+</body>
+
+</html>
