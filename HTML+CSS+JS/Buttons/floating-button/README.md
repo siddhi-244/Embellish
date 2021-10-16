@@ -4,7 +4,7 @@ This button can be used on any website. It can be used to add multiple links in 
 
 ## Demo
 
-[Demo](https://user-images.githubusercontent.com/83169198/137596557-87a8e515-71c6-4821-addb-f9bb26b7bf47.png)
+[Demo](https://user-images.githubusercontent.com/83169198/137596694-2c7b9bfc-1ff4-435e-9df2-6c9aa7350567.mp4)
 
 
 ## Setup
