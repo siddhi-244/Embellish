@@ -5,7 +5,7 @@ Short description of Component/ Animation
 -   You can change the image of your choice and animation works fine.
 -   It can be used as a profile card or by some modifications it can serve in all cases.
 
-## Demo -
+## Demo 
 
 <!-- (Mandatory) -->
 
@@ -13,11 +13,11 @@ Short description of Component/ Animation
 
 ## Setup instructions
 
-You can use the component by directly copyting code form index.html and index.css and pasting it into your 
+You can use the component by directly copying code from index.html and index.css and pasting it into your code
 
 
 
-## Author(s)
+## Author
 
 [Ajay (@Ajay-creator)](https://github.com/Ajay-creator)
 
