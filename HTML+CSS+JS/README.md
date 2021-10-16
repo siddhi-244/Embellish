@@ -50,6 +50,8 @@
   - [Flip Card](Cards/Flip-Card)
   
   - [Animated Profile Card](Cards/Animated-Profile)
+  
+  - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation) 
     
 -   [Background](Background)
 
