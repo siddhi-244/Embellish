@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Monospace;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 0.5rem;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px #ccc;
+    position: relative;
+    flex-direction: column-reverse;    
+}
+
+.container:hover input:focus + label, 
+.container:hover input:valid + label,
+.container:hover textarea:focus + label,
+.container:hover textarea:valid + label {
+    color: #333;
+}
+
+.container:hover ul.row li:hover {
+    transform: scale(1.3);
+}
+
+.col {
+    padding: 1rem;
+    height: 100%;
+    transition: .5s;            
+}
+
+.col--1 {
+    text-align: center;
+}
+
+.col--2 {
+    color: #fff;
+    background-image: linear-gradient(to top, #f6eb97, #e9dc71);
+}
+
+.row {
+    margin-bottom: 2rem;
+}
+
+ul.row li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 0.5rem;
+    margin: 0 0.5rem;
+    font-size: 1.5rem;
+    color: #e9dc71;
+    transition: .3s;
+}
+
+.row h1 {
+    font-size: 3rem;
+    font-family: 'Amatic SC', cursive;
+}
+
+.form__header {
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    width: 100%;
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+input, textarea {
+    border: none;
+    border: 1px solid #ddd;    
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+    padding: 0.5rem;
+    font-size: inherit;
+    resize: vertical;
+    outline: none;
+}
+
+label {
+    position: absolute;
+    left: 0.5rem;
+    bottom: 0.5rem;
+    color: #809080;
+    transition: .5s;
+}
+
+.btn {
+    border: none;
+    border: 1px solid #999;
+    cursor: pointer;
+}
+
+.btn:focus {
+    border-color: gray;
+}
+
+textarea + label {
+    top: 0.5rem;
+}
+
+.form-group span {
+    display: block;
+    position: absolute;
+    background: #e9dc71;
+    bottom: 0;
+    width: 0%;
+    height: 2px;
+    left: 0;
+    transition: .3s;
+}
+
+textarea ~ span {
+    top: 98%;
+}
+
+input:focus,
+textarea:focus {
+    background-color: #fff;
+    border-color: transparent;
+}
+
+input:focus ~ span,
+textarea:focus ~ span {
+    width: 100%;
+}
+
+input:focus + label, 
+input:valid + label,
+textarea:focus + label,
+textarea:valid + label {
+    font-size: 0.7rem;
+    transform: translateY(-2rem);
+    color: #fff;
+}
+
+@media screen and (min-width:768px) {  
+    .container {
+        flex-direction: row;  
+        overflow: hidden;
+        width: 80%;
+    }
+
+    .container::after {
+        content: "";
+        position: absolute;
+        width: 70%;
+        background-color:  #e9dc71;
+        height: 100%;
+        right: 0;   
+        transition: all .5s;  
+        z-index: -1;       
+    }
+
+    .container:hover::after {
+        transform: translateX(-100%);
+    }
+
+    .container:hover .col--2 {
+        color: #333;
+    }
+
+    .container:hover .col--1 {
+        color: #ffffff;
+    }
+
+    .container:hover .btn {
+        color: #222;
+        background-image: linear-gradient(to bottom, #f6eb97, #e9dc71);
+    }
+
+    .container:hover .btn:hover {
+        background-image: linear-gradient(to top, #f6eb97, #e9dc71);
+    }
+
+    .container:hover input:focus + label, 
+    .container:hover input:valid + label,
+    .container:hover textarea:focus + label,
+    .container:hover textarea:valid + label {
+        color: #e9dc71;
+    }
+
+    .container:hover ul.row li {
+        color: #fff
+    }
+
+    .col {
+        padding: 0.5rem;          
+    }
+
+    .col--1 {
+        width: 30%;
+        align-self: center;
+    }
+
+    .col--2 {
+        width: 70%;
+        background-image: none;
+    }
+}
