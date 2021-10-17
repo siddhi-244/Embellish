@@ -1,0 +1,36 @@
+.btn-custom-1 {
+  background-color: #0093e9;
+  background-image: -webkit-gradient(linear, left top, right top, from(#0093e9), to(#80d0c7));
+  background-image: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.btn-outline-light-1 {
+  border: 2px solid #80d0c7;
+  color: #000;
+}
+
+.btn-outline-light-1:hover {
+  background-color: #0093e9;
+  color: #fff;
+  background-image: -webkit-gradient(linear, left top, right top, from(#0093e9), to(#80d0c7));
+  background-image: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.bg-custom {
+  background-color: #0093e9;
+  background-image: -webkit-gradient(linear, left top, right top, from(#0093e9), to(#80d0c7));
+  background-image: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.border-gradient {
+  border-radius: 50px;
+  /*1*/
+  border: 10px solid transparent;
+  /*2*/
+  background: linear-gradient(45deg, #80d0c7, #0093e9) border-box;
+  /*3*/
+  -webkit-mask-composite: exclude;
+          mask-composite: exclude;
+  /*5*/
+}
+/*# sourceMappingURL=styles.css.map */

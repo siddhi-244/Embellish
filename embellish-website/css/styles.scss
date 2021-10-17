@@ -1,0 +1,26 @@
+$bg-custom: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
+.btn-custom-1 {
+  background-color: #0093e9;
+  background-image: $bg-custom;
+}
+.btn-outline-light-1 {
+  border: 2px solid #80d0c7;
+  color: #000;
+
+  &:hover {
+    background-color: #0093e9;
+    color: #fff;
+    background-image: $bg-custom;
+  }
+}
+
+.bg-custom {
+  background-color: #0093e9;
+  background-image: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
+}
+.border-gradient {
+  border-radius: 50px; /*1*/
+  border: 10px solid transparent; /*2*/
+  background: linear-gradient(45deg, #80d0c7, #0093e9) border-box; /*3*/
+  mask-composite: exclude; /*5*/
+}
