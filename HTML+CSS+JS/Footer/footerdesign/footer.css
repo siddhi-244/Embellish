@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  font-weight: 400;
+  color: rgb(233, 115, 115);
+}
+#footer {
+  margin-top: 580px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+  background: #222222;
+}
+#footer a {
+  color: #fff;
+}
+#footer a:hover {
+  color: #f9690e;
+}
+#footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 -7.5px;
+}
+#footer ul > li {
+  display: inline-block;
+
+  padding: 3px 0;
+  width: 31px;
+  text-align: center;
+}
