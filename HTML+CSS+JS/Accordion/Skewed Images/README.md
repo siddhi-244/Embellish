@@ -8,7 +8,7 @@ An accordion that expands on image hover and display the text. The sections are 
 
 ## Demo
 
-<img src="./demo_large.gif" alt="Skewed Accordion with Images Demo" width=100%/>
+<img src="./demo_large.gif" alt="Skewed Accordion with Images Demo" width=80%/>
 
 ## Setup instructions
 
