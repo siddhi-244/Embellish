@@ -1,0 +1,96 @@
+:root {
+  --slider-height: 70vh;
+  /* Values for calculating the margins in order to hide empty parts after the skew */
+  --tan20deg: 0.36397023426;
+  --sin20deg: 0.34202014332;
+}
+
+body {
+  /* hide the empty parts from the skew */
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+  /* apply the skew */
+  transform: skew(-20deg);
+  transform-origin: bottom right;
+  /* hide the empty space */
+  margin-left: calc(-1 * var(--slider-height) * var(--tan20deg));
+  margin-top: 15vh;
+  height: var(--slider-height);
+}
+
+.container .section {
+  width: 100%;
+  overflow: hidden;
+  height: 100%;
+  flex: 1;
+  transition: flex 0.6s ease-in-out;
+  position: relative;
+  border-right: 0.5rem solid white;
+}
+
+.container .section:last-child {
+  border-right: none;
+}
+
+.container .section img {
+  position: absolute;
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
+  top: 0;
+  /* unskew */
+  transform: skew(20deg);
+}
+
+/* position the images based on its order in html */
+.container .section img.left {
+  left: 0;
+}
+
+.container .section img.center {
+  /* sin(20deg) * (height - 10) */
+  left: calc(-1 * var(--sin20deg) * (var(--slider-height) - 10vh));
+}
+
+.container .section img.right {
+  left: calc(-1 * var(--sin20deg) * var(--slider-height));
+}
+
+.container .section .text {
+  visibility: hidden;
+  position: absolute;
+  bottom: 10%;
+  left: 30%;
+  color: #f2f2f2;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: visibility 0.8s, opacity 0.6s linear;
+  /* unskew */
+  transform: skew(20deg);
+}
+
+.container .section .text h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.container .section .text p {
+  white-space: nowrap;
+}
+
+.container .section:hover {
+  flex: 5;
+}
+
+.container .section:hover .text {
+  visibility: visible;
+  opacity: 1;
+}

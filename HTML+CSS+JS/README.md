@@ -10,7 +10,8 @@
     
 - [Accordion](Accordion)
 
-   - [Accordion](Accordion/Accordion)
+   - [Accordian](Accordion/Accordian)
+   - [Skewed Images](Accordion/Skewed%20Images)
 
 -   [Forms](Forms)
     - [Glassmorphism Form](Forms/Glassmorphism-Form)
