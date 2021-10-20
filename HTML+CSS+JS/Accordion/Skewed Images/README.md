@@ -8,7 +8,7 @@ An accordion that expands on image hover and display the text. The sections are 
 
 ## Demo
 
-[!Demo](./demo.gif)
+![Demo](./demo_large.gif)
 
 ## Setup instructions
 
