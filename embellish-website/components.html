@@ -197,6 +197,26 @@
         </section>
     </main>
     <div id="footer"></div>
+
+    <!-- DarkMode -->
+
+    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <script>
+        var options = {
+            bottom: '64px', // default: '32px'
+            right: '32px', // default: 'unset'
+            time: '0.5s', // default: '0.3s'
+            mixColor: '#fff', // default: '#fff'
+            backgroundColor: '#fff', // default: '#fff'
+            buttonColorDark: '#100f2c', // default: '#100f2c'
+            buttonColorLight: '#fff', // default: '#fff'
+            saveInCookies: false, // default: true,
+            label: '🌓', // default: ''
+        }
+
+        const darkmode = new Darkmode(options);
+        darkmode.showWidget();
+    </script>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
