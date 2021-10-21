@@ -1,0 +1,95 @@
+html,
+body {
+  min-width: 100%;
+  margin: 0;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  place-items: center;
+}
+
+.holder {
+  width: 300px;
+  background: gray;
+  padding: 5px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center
+}
+
+p {
+  width: 90%;
+}
+
+img {
+  min-width: 100%;
+}
+
+.holder__button {
+  width: 85%;
+  height: 40px;
+  color: white;
+  background: tomato;
+  border: none;
+  cursor: pointer;
+  transition: .25s linear;
+}
+
+.holder__button:hover {
+  background: #ff5330;
+}
+
+.modal--outter {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsla(50, 100%, 50%, 0.7);
+  opacity: 0;
+  pointer-events: none;
+  transition: all .2s;
+}
+
+.is-open {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.modal--inner {
+  width: 40%;
+  height: auto;
+  background-color: white;
+  padding: 5px;
+  border: 3px solid transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 1.6em
+}
+
+.modal__img {
+  width: 100%;
+}
+
+.modal__button {
+  border: 3px solid tomato;
+  padding: 5px;
+  color: tomato;
+  background: transparent;
+  transition: all .2s linear;
+}
+
+.modal__button:hover {
+  color: white;
+  background: tomato;
+  border-color: white;
+  font-weight: bolder;
+}
