@@ -49,4 +49,7 @@ button {
 .darkmode-ignore {
   display: block !important;
 }
+.darkmode-toggle{
+  z-index: 100;
+}
 /*# sourceMappingURL=styles.css.map */
