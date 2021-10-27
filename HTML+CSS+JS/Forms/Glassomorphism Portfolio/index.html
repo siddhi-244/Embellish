@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Glassomorphism Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/020d203309.js" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+
+    <!-- header section -->
+
+    <header>
+      <div class="user">
+        <img src="Jenny.jpg" alt="" />
+        <h3 class="name">Shital Punde</h3>
+        <p class="post">front end developer</p>
+      </div>
+
+      <nav class="navbar">
+        <ul>
+          <li><a href="#home">home</a></li>
+          <li><a href="#about">about</a></li>
+          <li><a href="#education">education</a></li>
+          <li><a href="#contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- content section -->
+
+    <div class="container">
+      <section class="home" id="home">
+        <h3>hi there...</h3>
+        <h3 class="name">my name is <span>Shital Punde</span></h3>
+        <h3 class="post">i am front end developer</h3>
+
+        <a href="#"><button class="btn">hire me</button></a>
+
+        <div class="share">
+          <a href="#" class="fab fa-facebook"></a>
+          <a href="#" class="fab fa-twitter"></a>
+          <a href="#" class="fab fa-instagram"></a>
+          <a href="#" class="fab fa-linkedin"></a>
+        </div>
+      </section>
+
+      <!-- about section  -->
+
+      <section class="about" id="about">
+        <h1 class="heading">about me</h1>
+
+        <div class="content">
+          <h3 class="name">Hello my name is <span>Shital Punde.</span></h3>
+          <p>
+            Currently I am pursuing Engineering in a stream of CSE from G H
+            Raisoni college of engineering nagpur.I am skilled in
+            HTML,CSS,Javascript,Bootstrap ,SQL.I love to make websites and
+            explored the new things.
+          </p>
+        </div>
+
+        <div class="skills">
+          <div class="progress">
+            <h3>html <span>95%</span></h3>
+            <div class="bar"><span></span></div>
+          </div>
+          <div class="progress">
+            <h3>css <span>75%</span></h3>
+            <div class="bar"><span></span></div>
+          </div>
+          <div class="progress">
+            <h3>javascript <span>65%</span></h3>
+            <div class="bar"><span></span></div>
+          </div>
+          <div class="progress">
+            <h3>SQL <span>70%</span></h3>
+            <div class="bar"><span></span></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- education section  -->
+
+      <section class="education" id="education">
+        <h1 class="heading">my education</h1>
+
+        <div class="box-container">
+          <div class="box">
+            <div class="year">2017</div>
+            <h3>School</h3>
+            <p>C.P.& Berar High School Ravinagar Ngapur.</p>
+          </div>
+
+          <div class="box">
+            <div class="year">2019-2023</div>
+            <h3>College</h3>
+            <p>G H Raisoni college of Engineering Nagpur.</p>
+          </div>
+
+          <div class="box">
+            <div class="year">2019</div>
+            <h3>College</h3>
+            <p>C.P.& Berar High School and Juniour college Ravinagar Ngapur.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- contact section  -->
+
+      <section class="contact" id="contact">
+        <h1 class="heading">contact me</h1>
+
+        <div class="row">
+          <form action="">
+            <input type="text" class="box" placeholder="first name" />
+            <input type="text" class="box" placeholder="last name" />
+            <input type="email" class="box" placeholder="your email" />
+            <textarea
+              name=""
+              id=""
+              cols="30"
+              rows="10"
+              class="box message"
+              placeholder="message"
+            ></textarea>
+            <input type="submit" value="message" class="btn" />
+          </form>
+
+          <div class="content">
+            <div class="icons">
+              <h3><i class="fas fa-map-marker-alt"></i> address</h3>
+              <p>Nagpur, india 440023</p>
+            </div>
+            <div class="icons">
+              <h3><i class="fas fa-envelope"></i> email</h3>
+              <p>shitalpunde0792@gmail.com</p>
+            </div>
+            <div class="icons">
+              <h3><i class="fas fa-phone"></i> phone</h3>
+              <p>9876787656</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- theme toggler  -->
+
+    <div class="theme-toggler">
+      <span
+        style="background: linear-gradient(#8a2387, #e94057, #f27121)"
+      ></span>
+      <span style="background: linear-gradient(#d53369, #cbad6d)"></span>
+      <span style="background: linear-gradient(#414d0b, #727a17)"></span>
+      <span
+        style="background: linear-gradient(#59c173, #a17fe0, #5d26c1)"
+      ></span>
+      <span style="background: linear-gradient(#232526, #414345)"></span>
+    </div>
+
+   <!--javascript part for theme toggler  -->
+   <script>
+      let themeColor = document.querySelectorAll(".theme-toggler span");
+      themeColor.forEach((color) =>
+        color.addEventListener("click", () => {
+          let background = color.style.background;
+          document.querySelector("body").style.background = background;
+        })
+      );
+    </script>
+  </body>
+</html>
