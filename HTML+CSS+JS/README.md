@@ -53,6 +53,8 @@
     -   [Animated Background](Background/Animated-Background)
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
+  
+    -   [Scroll Through Image To Change Text Parallax Effect](Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect)
 
 - [Cards](Cards)
 
