@@ -28,6 +28,7 @@
     - [Skeleton Loader](Loader/Skeleton-Loader)
     - [Wi-Fi Loader](Loader/wifi-loader)
     - [Dot Loader](Loader/dot-loader)
+    - [Spinner Loader](Loader/Spinner-loader)
 
 -   [Buttons](Buttons)
 
