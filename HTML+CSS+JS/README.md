@@ -10,7 +10,8 @@
     
 - [Accordion](Accordion)
 
-   - [Accordion](Accordion/Accordion)
+   - [Accordian](Accordion/Accordian)
+   - [Skewed Images](Accordion/Skewed%20Images)
 
 -   [Forms](Forms)
     - [Glassmorphism Form](Forms/Glassmorphism-Form)
@@ -22,9 +23,14 @@
 
 -   [Loader](Loader)
     - [Ripple Loader](Loader/ripple-loader)
-    -  [Bar Loader](Loader/Bar-Loader)
+    - [Bar Loader](Loader/Bar-Loader)
+    - [Book Loader](Loader/book-loader)
     - [Skeleton Loader](Loader/Skeleton-Loader)
     - [Neumorphic Preloader](Loader/Neumorphic-Preloader)
+    - [Wi-Fi Loader](Loader/wifi-loader)
+    - [Dot Loader](Loader/dot-loader)
+    - [Spinner Loader](Loader/Spinner-loader)
+
 
 -   [Buttons](Buttons)
 
@@ -38,6 +44,9 @@
     - [Glowing Neomorphism Button](Buttons/glowing-neomorphism-button)
     - [3D Hover Button](Buttons/3D-hover-button)
     - [Submit-Button-with-Ring-Indicator](Submit-Button-with-Ring-Indicator)
+    - [Neon Buttons](Buttons/neon-button)
+    - [Border-Glow-Button](Buttons/border-glow-button)
+    - [Floating Button](Buttons/floating-button)
     
 - [Cards](Cards)
 
@@ -46,6 +55,8 @@
   - [Flip Card](Cards/Flip-Card)
   
   - [Animated Profile Card](Cards/Animated-Profile)
+  
+  - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation) 
     
 -   [Background](Background)
 
@@ -80,6 +91,8 @@
 
   - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
 
+  - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
+
 - [Progress Bar](Progress-Bar)
   
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
@@ -99,6 +112,7 @@
 -   [Mouse Hover Effects](Mouse-Hover-Effects)
 
     -   [Parallax](Mouse-Hover-Effects/Parallax)
+    -   [Custom Cursor with Hover Effect](Mouse-Hover-Effects/Custom-Cursor-with-Hover-Effect)
 
 -   [Navigation Bar](Navigation-Bar)
 
@@ -127,3 +141,5 @@
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+  
+- [Key Sequence Detection + Easter Egg](Key-Sequence-Detection)
