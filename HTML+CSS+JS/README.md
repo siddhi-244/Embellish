@@ -26,8 +26,11 @@
     - [Bar Loader](Loader/Bar-Loader)
     - [Book Loader](Loader/book-loader)
     - [Skeleton Loader](Loader/Skeleton-Loader)
+    - [Neumorphic Preloader](Loader/Neumorphic-Preloader)
     - [Wi-Fi Loader](Loader/wifi-loader)
     - [Dot Loader](Loader/dot-loader)
+    - [Spinner Loader](Loader/Spinner-loader)
+
 
 -   [Buttons](Buttons)
 
@@ -62,6 +65,8 @@
     -   [Animated Background](Background/Animated-Background)
     
     -   [Parallax Effect Background](Background/Parallax-Effect)
+  
+    -   [Scroll Through Image To Change Text Parallax Effect](Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect)
 
 - [Cards](Cards)
 
