@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+#app{
+    height: 100%;
+}
+.child1{
+    background-color: #111;
+    opacity: 1;
+    height: 100vh;
+    position: relative;
+}
+.child2{
+    /* opacity: 0.95; */
+    height: 100%;
+    position: relative;
+}
+.child2 img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    vertical-align: middle;
+    border-style: none;
+}
+.circle{
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #000000e6;
+}
+.head{
+    cursor: default;
+}
+.child3{
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child3 p{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+.head h1{
+    font-size: 70px;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 50px #e0e0e0;
+}
+.head h1 .flicker1{
+    animation: flicker1 3s linear infinite;
+}
+@keyframes flicker1 {
+	0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+		opacity: .99;	
+	}
+	20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+		opacity: 0.4;
+	}
+}
+.head h1 .flicker2{
+    animation: flicker2 0.01s linear infinite;
+}
+@keyframes flicker2 {
+    0%, 25%, 50%, 75%, 100%{
+        opacity: 0.3;
+    }
+    12.5%, 37.5%, 62.5%, 87.5%{
+        opacity: 1;
+    }
+}
+.button{
+    color: #000;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    font-size: 1.1rem;
+    background-color: transparent;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    align-items: center;
+    position: relative;
+    width: 280px;
+    height: 50px;
+    margin: 20px auto;
+    color: #fff;
+    transition: .3s;
+}
+#homePage::after, #homePage::before{
+    background: #7289da;
+}
+
+.button::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    width: 40%;
+    height: 4px;
+    border-radius: 10px;
+    transition: 0.5s; 
+    animation: flicker1 3s linear infinite;
+    animation-delay: 1s;
+}
+.button:hover::before{
+    width: 95%;
+    height: 90%;
+    opacity: 0.7;
+}
+.button a{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255,255,255,.05);
+    border-top: 1px solid rgba(255,255,255,.1);
+    border-bottom: 1px solid rgba(255,255,255,.1);
+    border-radius: 12px;
+    color: currentColor;
+    letter-spacing: .3px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: .5s;
+    backdrop-filter: blur(15px);
+    z-index: 9;
+}
