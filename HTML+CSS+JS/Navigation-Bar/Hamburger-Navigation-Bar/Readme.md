@@ -7,7 +7,7 @@ It is an organized list of links to other web pages(usually internal pages of sa
 ![Screenshot (100)](https://user-images.githubusercontent.com/67232537/139450932-f139fbb7-9842-442c-a6cf-34694a3477d7.png)
 
 ## Setup
-Just download index.html, index.css, index.js files.
+Just download index.html, style.css files.
 
 ## Author
 [Aditya](https://github.com/AdityaTeltia)
