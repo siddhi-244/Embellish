@@ -9,7 +9,7 @@ Short description of Component/ Animation
 
 <!-- (Mandatory) -->
 
-[click here](profile_card.gif)
+![click here](profile_card.gif)
 
 ## Setup instructions
 
