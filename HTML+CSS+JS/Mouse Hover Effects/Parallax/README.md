@@ -4,7 +4,7 @@ The term “parallax” refers to the apparent movement of objects when viewed f
 
 ## Demo
 
-![gif](https://raw.githubusercontent.com/Asmit2952/Embellish/parallax/HTML%2BCSS%2BJS/Mouse%20Hover%20Effects/Parallax/parallax.gif)
+![Parallex preview](parallax.gif)
 
 ## Setup
 
