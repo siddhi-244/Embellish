@@ -7,9 +7,7 @@ Short description of Component/ Animation
 
 ## Demo 
 
-<!-- (Mandatory) -->
-
-![click here](profile_card.gif)
+<img src = "profile_card.gif" width=500 height=450>
 
 ## Setup instructions
 
