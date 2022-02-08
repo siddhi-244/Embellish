@@ -35,6 +35,7 @@
 -   [Buttons](Buttons)
 
     - [Border Animation Button](border-animation-button)
+    - [Button-Animation](Buttons/button-animation/)
     - [Background Animation Button](background-animation-button)
     - [Shiny Button Animation](Buttons/Shiny-Button)
     - [Neumorphism Button](Buttons/neumorphism-button)
