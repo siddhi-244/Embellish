@@ -145,4 +145,4 @@
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
   
-- [Key Sequence Detection + Easter Egg](Key-Sequence-Detection)
+- [Key Sequence Detection + Easter Egg](Key%20Sequence%20Detection)
