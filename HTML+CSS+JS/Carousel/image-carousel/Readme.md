@@ -4,7 +4,7 @@ One can change images with arrow buttons, dots, and arrows keys
 
 ## Demo
 
-![gif](https://res.cloudinary.com/rohitkk432/image/upload/v1633155347/image-carousel_sjkjcu.gif)
+![image carousel](img-carousel.gif)
 
 ## Setup
 
