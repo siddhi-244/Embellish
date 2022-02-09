@@ -45,9 +45,15 @@ button {
           mask-composite: exclude;
   /*5*/
 }
-
+#footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
 .darkmode-ignore {
   display: block !important;
+  position: absolute;
+  bottom: 4%;
 }
 #style-8::-webkit-scrollbar-track
 {
@@ -59,18 +65,28 @@ button {
 	width: 10px;
 	background-color: #F5F5F5;
 }
-::-webkit-scrollbar-thumb
-{
-  border-radius: 10px;
-	background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    left top,
-    color-stop(0.44, rgb(122, 153, 217)),
-    color-stop(0.72, rgb(73, 125, 189)),
-    color-stop(0.86, rgb(28, 58, 148))
-  );
 .darkmode-toggle{
   z-index: 100;
 }
-/*# sourceMappingURL=styles.css.map */
+::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+	background: linear-gradient((0.44, rgb(122, 153, 217)),
+  (0.72, rgb(73, 125, 189)),
+  (0.86, rgb(28, 58, 148)))
+}
+.footer-card{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-card a{
+  font-weight: bolder;
+  text-decoration: none;
+  transition: 0.3s ease;
+  letter-spacing: 0px;
+}
+.footer-card a:hover{
+  letter-spacing: 2px;
+}

@@ -1,0 +1,16 @@
+{
+   "items": [
+        {
+            "category": "Accordian",
+            "componentName": "Accordian",
+            "componentURL": "/HTML+CSS+JS/Accordion/Accordian",
+            "preview": "/HTML+CSS+JS/Accordion/Accordian/Accordion.html"
+        },
+        {
+            "category": "Accordian",
+            "componentName": "Skewed Images",
+            "componentURL": "/HTML+CSS+JS/Accordion/Skewed Images",
+            "preview": "/HTML+CSS+JS/Accordion/Skewed Images/index.html"
+        }
+    ]
+}
