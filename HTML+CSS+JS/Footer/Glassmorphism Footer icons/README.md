@@ -12,4 +12,4 @@ Go to index.html file and run using any HTML previewer such as your internet bro
 
 ## Authors
 
-(https://github.com/SanskrutiPalekar)[glassmorphism.pdf](https://github.com/SanskrutiPalekar/Embellish/files/8042687/glassmorphism.pdf)
+(https://github.com/SanskrutiPalekar)
