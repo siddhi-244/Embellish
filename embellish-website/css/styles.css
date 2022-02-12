@@ -49,11 +49,13 @@ button {
 .darkmode-ignore {
   display: block !important;
 }
+
 #style-8::-webkit-scrollbar-track
 {
 	border: 1px solid black;
 	background-color: #F5F5F5;
 }
+
 ::-webkit-scrollbar
 {
 	width: 10px;
@@ -70,6 +72,8 @@ button {
     color-stop(0.72, rgb(73, 125, 189)),
     color-stop(0.86, rgb(28, 58, 148))
   );
+}
+
 .darkmode-toggle{
   z-index: 100;
 }
