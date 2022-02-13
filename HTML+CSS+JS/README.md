@@ -141,6 +141,8 @@
   
 
   - [Simple-Footer](Footer/Simple-footer)
+
+  - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
   
   
 - [Image Gallery](Image-Gallery)
