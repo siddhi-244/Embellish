@@ -31,6 +31,7 @@
     - [Wi-Fi Loader](Loader/wifi-loader)
     - [Dot Loader](Loader/dot-loader)
     - [Spinner Loader](Loader/Spinner-loader)
+    - [IOS-Spinner](Loader/IOS-Spinner)
 
 
 -   [Buttons](Buttons)
