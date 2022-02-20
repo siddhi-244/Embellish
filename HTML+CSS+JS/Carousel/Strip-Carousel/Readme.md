@@ -11,4 +11,4 @@ Just add index.html and style.css to your project.
 
 ## Author
 
-[Dhyey Vyas](https://github.com/Dhyey17)
+<a target=_blank href="https://github.com/Dhyey17">Dhyey Vyas</a>
