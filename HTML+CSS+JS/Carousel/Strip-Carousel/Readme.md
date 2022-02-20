@@ -7,7 +7,10 @@ One can change images with arrow buttons or the image will change automatically 
 
 ## Setup
 
-Just add index.html and style.css to your project.
+To add this image carousel:
+  - Add `style.css` and `img folder` to your folder
+  - Copy the code inside `<script></script>` and `<body></body>`tag
+  - Paste the code in your `index.html` file at your desired location
 
 ## Author
 
