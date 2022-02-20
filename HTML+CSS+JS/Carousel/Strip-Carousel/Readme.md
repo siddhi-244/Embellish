@@ -13,7 +13,7 @@ One can change images with arrow buttons or the image will change automatically 
 To add this image carousel:
   - Add `index.html`, `style.css`, `script.js` and `img folder` to your folder.
   - Add your images in `img folder`.
-  - Rename `bg: "img.jpg"` to your image name.
+  - Rename `bg: "img.jpg"` to `bg: your_image_name.jpg`.
   - For more images add `bg: "your_img_name.jpg"`
 
 ## Author
