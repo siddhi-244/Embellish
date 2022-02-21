@@ -32,6 +32,7 @@
     - [Dot Loader](Loader/dot-loader)
     - [Spinner Loader](Loader/Spinner-loader)
     - [IOS-Spinner](Loader/IOS-Spinner)
+    - [4-color-loader](Loader/4-color-loader)
 
 
 -   [Buttons](Buttons)
