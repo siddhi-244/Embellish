@@ -155,5 +155,9 @@
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+
+- [Breadcrumb](Breadcrumbs)
+
+  - [Breadcrumb](Breadcrumbs/Breadcrumb) 
   
 - [Key Sequence Detection + Easter Egg](Key%20Sequence%20Detection)
