@@ -155,6 +155,7 @@
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+  - [Photo Gallery](Image-Gallery/Photo-Gallery) 
 
 - [Breadcrumb](Breadcrumbs)
 
