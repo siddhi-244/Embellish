@@ -20,8 +20,8 @@ function renderComponents(json) {
                                     <div class="d-flex align-items-end justify-content-between w-100">
                                         <div class="d-flex align-items-center w-100">
                                             <div class="footer-card">
-                                                <a href="${preview}">Preview</a>
-                                                <a class="text-black" href="${componentURL}"><i class="bi bi-github fs-3"></i></a>
+                                                <a target="_blank" href="${preview}">Preview</a>
+                                                <a class="text-black" target="_blank" href="${componentURL}"><i class="bi bi-github fs-3"></i></a>
                                             </div>
                                         </div>
                                     </div>

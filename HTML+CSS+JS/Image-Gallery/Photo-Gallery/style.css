@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+
+    * {
+      margin: 0;
+      padding: 5px 5px;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 100vw;
+      height: 100vh;
+      justify-content: center;
+      display: flex;
+      align-items: center;
+      background-color: rgb(216, 202, 175);
+      font-family: 'Gideon Roman', cursive;
+      overflow-y: hidden;
+    }
+
+    #title {
+      font-size: 4em;
+      letter-spacing: 1px;
+      text-align: center;
+      text-decoration: solid;
+      position: fixed;
+      top: 3%;
+    }
+    .parent{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .img img {
+      transition: 0.5s cubic-bezier(0.25, 0.1, 0.26, 0.7);
+      transform: translateY(-20px);
+      display: flex;
+      border: 2px solid black;
+      height: 300px;
+      width: 300px;
+      align-items: center;
+      justify-content: center;
+      column-gap: 2px;
+    }
+
+    .img:nth-child(even) {
+      transform: rotate(-15deg);
+      transition: 0.5s cubic-bezier(0.25, 0.1, 0.26, 0.7);
+    }
+
+    .img:nth-child(odd) {
+      transform: rotate(15deg);
+      transition: 0.5s cubic-bezier(0.25, 0.1, 0.26, 0.7);
+    }
+
+    .img:hover {
+      transform: rotate(0deg);
+    }
