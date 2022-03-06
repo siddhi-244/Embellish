@@ -133,6 +133,7 @@
 - [Search Bar](Search-Bar)
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
+  - [Search Bar](Search-Bar/Search-Bar)
 
 
 - [Footer](Footer)
