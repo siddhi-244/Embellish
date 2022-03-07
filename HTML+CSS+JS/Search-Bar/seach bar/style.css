@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Bree+Serif&family=EB+Garamond:wght@500&family=Nunito&family=Poppins:wght@300&family=Source+Code+Pro:wght@500&family=Source+Sans+Pro&family=Source+Serif+4&family=Titillium+Web&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(65, 62, 62);
+}
+
+.search1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input1{
+    margin: 15px auto;
+    padding: 3px 9px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+.input1 input{
+    padding: 2px 5px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    width: 250px;
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+}
+.icon i{
+    margin: 0px 9px;
+    padding: 9px;
+    border: 1px solid black;
+    border-radius: 8px;
+    color: white;
+    background: linear-gradient(94deg, rgba(195,79,215,1) 0%, rgba(231,74,217,1) 100%);
+}
+
+.search2{
+    margin: 15px auto;
+    padding: 4px 11px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+.search2 input{
+    padding: 0px 10px;
+    width: 250px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-family: 'Poppins', sans-serif;
+}
+
+.search3{
+    margin: 15px auto;
+    padding: 4px 7px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+.search3 input{
+    padding: 0px 7px;
+    width: 270px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+}
+.search3 i{
+    font-size: 15px;
+    border: 1px solid rgba(195,79,215,1) ;
+    border-radius: 8px;
+    padding: 5px;
+    background: linear-gradient(94deg, rgba(195,79,215,1) 0%, rgba(231,74,217,1) 100%);
+}
