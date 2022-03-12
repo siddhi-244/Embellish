@@ -1,0 +1,82 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url("https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: #7597BA;
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    border: 1px solid #7597BA;
+}
+.btn i{
+    margin-left: 6px;
+}
+.btn:hover{
+   background-color: #4b6e91;
+}
+.btn-outline{
+    background-color: transparent;
+    border: 1px solid #999;
+    font-weight: 600;
+    color: black;
+}
+.btn-outline:hover{
+    background-color: transparent;
+}
+.confirm-modal{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgba(153, 153, 153, 0.5);
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    transition: all 0.6s ease;
+}
+.confirm-modal .text{
+    width: 80%;
+    text-align: center;
+    margin: 6px 0;
+    margin-bottom: 10px;
+}
+.icon i{
+    font-size: 65px;
+    color: #7597BA;
+}
+.btn-group{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.animate_in{
+    top: 50%;
+}
