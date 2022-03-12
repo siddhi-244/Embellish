@@ -352,6 +352,12 @@
       "componentName": "Typewriter-Text-Animation",
       "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Text-Animations/Typewriter-Text-Animation",
       "preview": "../../HTML+CSS+JS/Text-Animations/Typewriter-Text-Animation/index.html"
+    },
+    {
+      "category": "Modal",
+      "componentName": "Confirmation-Modal",
+      "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Modal/Confirmation-Modal",
+      "preview": "../../HTML+CSS+JS/Modal/Confirmation-Modal/index.html"
     }
   ]
 }

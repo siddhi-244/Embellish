@@ -104,6 +104,10 @@
 
   - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
 
+
+- [Modal](Modal)
+  - [Confirmation Modal](Modal/Confirmation-Modal)   
+
 - [Progress Bar](Progress-Bar)
   
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
