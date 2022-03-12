@@ -133,6 +133,7 @@
 
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Hamburger Navigation Bar](Navigation-Bar/Hamburger-Navigation-Bar)
+    -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
 
 - [Search Bar](Search-Bar)
 

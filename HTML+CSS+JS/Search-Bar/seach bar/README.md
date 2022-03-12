@@ -1,4 +1,4 @@
-# Gradient Progress Bar
+# Search Bar
 It can be used in any website which requires Search Bar
 functionality. It will enhance the ui of your website.
 
