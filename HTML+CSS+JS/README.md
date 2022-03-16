@@ -63,6 +63,8 @@
   - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation) 
 
   - [Price-Card](Cards/Price-Card) 
+  
+  - [Dark-Card](Cards/Dark-Card) 
     
     
 -   [Background](Background)
@@ -79,22 +81,6 @@
 
     -   [404 - Page Not Found](Background/404-Error-Page)
 
-- [Cards](Cards)
-
-
-  - [Product & Profile Cards](Cards/Product-Profile%20Cards)
-
-  - [Flip Card](Cards/Flip-Card)
-  
-  - [Animated Profile Card](Cards/Animated-Profile)
-    
--   [Background](Background)
-
-    -   [Video Background](Background/Video-Background)
-
-    -   [Animated Background](Background/Animated-Background)
-    
-    -   [Parallax Effect Background](Background/Parallax-Effect)
 
 - [Text Animations](Text-Animations)
 
