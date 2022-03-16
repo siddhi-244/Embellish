@@ -156,6 +156,12 @@
       "preview": "../../HTML+CSS+JS/Cards/Profile-Card-Splitting-Image-Animation/index.html"
     },
     {
+      "category": "Cards",
+      "componentName": "Dark-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Cards/Dark-Card",
+      "preview": "../../HTML+CSS+JS/Cards/Dark-Card/index.html"
+    },
+    {
       "category": "Carousel",
       "componentName": "3d-img-carousel",
       "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Carousel/3d-img-carousel",
