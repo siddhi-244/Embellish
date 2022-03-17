@@ -228,6 +228,12 @@
       "preview": "../../HTML+CSS+JS/Forms/SignIn-Form/SignIn.html"
     },
     {
+      "category": "Forms",
+      "componentName": "Modern-Select",
+      "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Forms/Modern-Select",
+      "preview": "../../HTML+CSS+JS/Forms/Modern-Select/index.html"
+    },
+    {
       "category": "Image-Gallery",
       "componentName": "Responsive-Image-Grid",
       "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Image-Gallery/Responsive-Image-Grid",
