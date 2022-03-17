@@ -66,6 +66,8 @@
   - [Price-Card](Cards/Price-Card) 
   
   - [Dark-Card](Cards/Dark-Card) 
+
+  - [Simple Profile Card](Cards/Simple-Profile-Card)
     
     
 -   [Background](Background)
