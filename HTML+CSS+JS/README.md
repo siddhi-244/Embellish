@@ -69,6 +69,7 @@
 
   - [Simple Profile Card](Cards/Simple-Profile-Card)
     
+  - [Information Card](Cards/Information-Card)
     
 -   [Background](Background)
 
