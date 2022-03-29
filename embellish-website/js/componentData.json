@@ -168,6 +168,12 @@
       "preview": "../../HTML+CSS+JS/Cards/Simple-Profile-Card/index.html"
     },
     {
+      "category": "Cards",
+      "componentName": "Information-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Cards/Information-Card",
+      "preview": "../../HTML+CSS+JS/Cards/Information-Card/index.html"
+    },
+    {
       "category": "Carousel",
       "componentName": "3d-img-carousel",
       "componentURL": "https://github.com/siddhi-244/Embellish/HTML+CSS+JS/Carousel/3d-img-carousel",
