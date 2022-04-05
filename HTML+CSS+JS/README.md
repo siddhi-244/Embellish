@@ -19,6 +19,8 @@
     - [Contact Form](Forms/Contact-Form)
     - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
     - [Sign In Form](Forms/SignIn-Form)
+    - [Sign-In-Form](Forms/Sign-In Form)
+    - [Mordern-Select](Forms/Modern-Select)
  
 
 -   [Loader](Loader)
@@ -30,11 +32,14 @@
     - [Wi-Fi Loader](Loader/wifi-loader)
     - [Dot Loader](Loader/dot-loader)
     - [Spinner Loader](Loader/Spinner-loader)
+    - [IOS-Spinner](Loader/IOS-Spinner)
+    - [4-color-loader](Loader/4-color-loader)
 
 
 -   [Buttons](Buttons)
 
     - [Border Animation Button](border-animation-button)
+    - [Button-Animation](Buttons/button-animation/)
     - [Background Animation Button](background-animation-button)
     - [Shiny Button Animation](Buttons/Shiny-Button)
     - [Neumorphism Button](Buttons/neumorphism-button)
@@ -57,6 +62,14 @@
   - [Animated Profile Card](Cards/Animated-Profile)
   
   - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation) 
+
+  - [Price-Card](Cards/Price-Card) 
+  
+  - [Dark-Card](Cards/Dark-Card) 
+
+  - [Simple Profile Card](Cards/Simple-Profile-Card)
+    
+  - [Information Card](Cards/Information-Card)
     
 -   [Background](Background)
 
@@ -70,22 +83,8 @@
 
     -   [Page Not Found](Background/Page-Not-Found)
 
-- [Cards](Cards)
+    -   [404 - Page Not Found](Background/404-Error-Page)
 
-
-  - [Product & Profile Cards](Cards/Product-Profile%20Cards)
-
-  - [Flip Card](Cards/Flip-Card)
-  
-  - [Animated Profile Card](Cards/Animated-Profile)
-    
--   [Background](Background)
-
-    -   [Video Background](Background/Video-Background)
-
-    -   [Animated Background](Background/Animated-Background)
-    
-    -   [Parallax Effect Background](Background/Parallax-Effect)
 
 - [Text Animations](Text-Animations)
 
@@ -94,6 +93,10 @@
   - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
 
   - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
+
+
+- [Modal](Modal)
+  - [Confirmation Modal](Modal/Confirmation-Modal)   
 
 - [Progress Bar](Progress-Bar)
   
@@ -120,10 +123,12 @@
 
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Hamburger Navigation Bar](Navigation-Bar/Hamburger-Navigation-Bar)
+    -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
 
 - [Search Bar](Search-Bar)
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
+  - [Search Bar](Search-Bar/Search-Bar)
 
 
 - [Footer](Footer)
@@ -139,10 +144,17 @@
   
 
   - [Simple-Footer](Footer/Simple-footer)
+
+  - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
   
   
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+  - [Photo Gallery](Image-Gallery/Photo-Gallery) 
+
+- [Breadcrumb](Breadcrumbs)
+
+  - [Breadcrumb](Breadcrumbs/Breadcrumb) 
   
-- [Key Sequence Detection + Easter Egg](Key-Sequence-Detection)
+- [Key Sequence Detection + Easter Egg](Key%20Sequence%20Detection)
