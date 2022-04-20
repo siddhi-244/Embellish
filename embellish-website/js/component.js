@@ -1,6 +1,6 @@
 let componentContainer = document.getElementById("component-container");
 function fetchComponents() {
-  fetch("/embellish-website/js/componentData.json")
+  fetch("js/componentData.json")
     .then((obj) => obj.json())
     .then((jsonData) => renderComponents(jsonData));
 }
@@ -38,7 +38,7 @@ if(window.location.pathname.includes("components")){
     fetchComponentsHome()
 }
 function fetchComponentsHome() {
-  fetch("/embellish-website/js/componentData.json")
+  fetch("js/componentData.json")
     .then((obj) => obj.json())
     .then((jsonData) => randomChoose(jsonData));
 }
