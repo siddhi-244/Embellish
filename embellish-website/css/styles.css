@@ -145,6 +145,19 @@ button {
   .grid-container{
     grid-template-columns: repeat(1, 1fr);
   }
+
+  #component-container {
+    display: grid;
+    grid-template-areas: 
+    "comp"
+    "comp"
+    "comp"
+    "more";
+  }
+
+  .text-end {
+    grid-area: more;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
