@@ -141,10 +141,37 @@ button {
   width: 100%;
   justify-content: center;
 }
+
+#component-container {
+  display: grid;
+  grid-template-areas: 
+  "comp"
+  "comp"
+  "comp"
+  "more";
+}
+
+.text-end {
+  grid-area: more;
+}
+
 @media only screen and (max-width: 600px) {
   .grid-container{
     grid-template-columns: repeat(1, 1fr);
   }
+
+  /* #component-container {
+    display: grid;
+    grid-template-areas: 
+    "comp"
+    "comp"
+    "comp"
+    "more";
+  }
+
+  .text-end {
+    grid-area: more;
+  } */
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -165,6 +192,10 @@ button {
 @media only screen and (min-width: 992px) {
   .grid-container{
     grid-template-columns: repeat(3, 1fr);
+  }
+  
+  #component-container {
+    display: flex;
   }
 }
 
