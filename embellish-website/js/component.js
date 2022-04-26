@@ -8,7 +8,7 @@ function renderComponents(json) {
   json.items.forEach((component) => {
     let { category, componentName, preview, componentURL } = component;
     componentContainer.innerHTML += `
-        <div class="col-lg-4 mb-5" style="cursor: default;">
+        <div class="mb-5" style="cursor: default;">
                             <div class="card h-100 shadow border-0">
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">${category}</div>
