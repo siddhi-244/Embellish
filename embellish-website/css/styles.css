@@ -153,25 +153,13 @@ button {
 
 .text-end {
   grid-area: more;
+  margin-bottom: 0 !important;
 }
 
 @media only screen and (max-width: 600px) {
   .grid-container{
     grid-template-columns: repeat(1, 1fr);
   }
-
-  /* #component-container {
-    display: grid;
-    grid-template-areas: 
-    "comp"
-    "comp"
-    "comp"
-    "more";
-  }
-
-  .text-end {
-    grid-area: more;
-  } */
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -195,7 +183,11 @@ button {
   }
   
   #component-container {
-    display: flex;
+    /* display: flex; */
+    grid-template-columns: repeat(3, 33%);
+    grid-template-areas: 
+      "comp comp comp"
+      "null null more";
   }
 }
 
