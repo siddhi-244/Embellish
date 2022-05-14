@@ -156,6 +156,15 @@ button {
   margin-bottom: 0 !important;
 }
 
+/* fixed the overlapping of label and placeholder, the placeholder appears only after clicking the input field */
+
+.form-control::placeholder {
+  opacity: 0;
+}
+.form-control:focus::placeholder {
+opacity: 1;
+}
+
 @media only screen and (max-width: 600px) {
   .grid-container{
     grid-template-columns: repeat(1, 1fr);
