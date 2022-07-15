@@ -1,5 +1,4 @@
 **JSON Example**
-The given code example defines how to use JSON to store information related to programming books along with edition and author name.
 
 {
   "items": [{
