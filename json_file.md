@@ -2,18 +2,395 @@
 The given code example defines how to use JSON to store information related to programming books along with edition and author name.
 
 {
-   "book":[
-      {
-         "id":"101",
-         "language":"C",
-         "edition":"First",
-         "author":"Dennis Ritchie "
-      },
-      {
-         "id":"102",
-         "language":"C++",
-         "edition":"second",
-         "author":" Bjarne Stroustrup "
-      }
-   ]
-}  
+  "items": [{
+      "category": "Accordion",
+      "componentName": "Accordian",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Accordion/Accordian",
+      "preview": "/HTML+CSS+JS/Accordion/Accordian/Accordion.html"
+    },
+    {
+      "category": "Accordion",
+      "componentName": "Skewed Images",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Accordion/Skewed%20Images",
+      "preview": "/HTML+CSS+JS/Accordion/Skewed%20Images/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "3d-boxes-background",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/3d-boxes-background",
+      "preview": "/HTML+CSS+JS/Background/3d-boxes-background/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Animated-Background",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Animated-Background",
+      "preview": "/HTML+CSS+JS/Background/Animated-Background/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Glassmorphism",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Glassmorphism",
+      "preview": "/HTML+CSS+JS/Background/Glassmorphism/Glassmorphism.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Page-Not-Found",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Page-Not-Found",
+      "preview": "/HTML+CSS+JS/Background/Page-Not-Found/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Parallax-Effect",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Parallax-Effect",
+      "preview": "/HTML+CSS+JS/Background/Parallax-Effect/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Scroll-Through-Image-To-Change-Text-Parallax-Effect",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect",
+      "preview": "/HTML+CSS+JS/Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect/index.html"
+    },
+    {
+      "category": "Background",
+      "componentName": "Video-Background",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Video-Background",
+      "preview": "/HTML+CSS+JS/Background/Video-Background/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "3D-hover-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/3D-hover-button",
+      "preview": "/HTML+CSS+JS/Buttons/3D-hover-button/button.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "background-animation-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/background-animation-button",
+      "preview": "/HTML+CSS+JS/Buttons/background-animation-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "border-glow-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/border-glow-button",
+      "preview": "/HTML+CSS+JS/Buttons/border-glow-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "floating-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/floating-button",
+      "preview": "/HTML+CSS+JS/Buttons/floating-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "glowing-animated-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/glowing-animated-button",
+      "preview": "/HTML+CSS+JS/Buttons/glowing-animated-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "glowing-neomorphism-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/glowing-neomorphism-button",
+      "preview": "/HTML+CSS+JS/Buttons/glowing-neomorphism-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "neon-buttons",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/neon-buttons",
+      "preview": "/HTML+CSS+JS/Buttons/neon-buttons/neon.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "neumorphism",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/neumorphism",
+      "preview": "/HTML+CSS+JS/Buttons/neumorphism/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "neumorphism-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/neumorphism-button",
+      "preview": "/HTML+CSS+JS/Buttons/neumorphism-button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "Shiny-Button",
+      "componentURL": "https://github.com/siddhi-244/Embellishtree/main/HTML%2BCSS%2BJS/Buttons/Shiny-Button",
+      "preview": "/HTML+CSS+JS/Buttons/Shiny-Button/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "Submit-Button-with-Ring-Indicator",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Submit-Button-with-Ring-Indicator",
+      "preview": "/HTML+CSS+JS/Buttons/Submit-Button-with-Ring-Indicator/index.html"
+    },
+    {
+      "category": "Buttons",
+      "componentName": "Button-Animation",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/button-animation",
+      "preview": "/HTML+CSS+JS/Buttons/button-animation/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Animated-Profile",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Animated-Profile",
+      "preview": "/HTML+CSS+JS/Cards/Animated-Profile/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Disney-Cards-grid",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Disney-Cards-grid",
+      "preview": "/HTML+CSS+JS/Cards/Disney-Cards-grid/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Flip-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Flip-Card",
+      "preview": "/HTML+CSS+JS/Cards/Flip-Card/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Product-Profile Cards",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Product-Profile%20Cards",
+      "preview": "/HTML+CSS+JS/Cards/Product-Profile%20Cards/card-animation.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Profile-Card-Splitting-Image-Animation",
+      "componentURL": "https://github.com/siddhi-244/Embellishtree/main/HTML%2BCSS%2BJS/Cards/Profile-Card-Splitting-Image-Animation",
+      "preview": "/HTML+CSS+JS/Cards/Profile-Card-Splitting-Image-Animation/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Dark-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Dark-Card",
+      "preview": "/HTML+CSS+JS/Cards/Dark-Card/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Simple-Profile-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Simple-Profile-Card",
+      "preview": "/HTML+CSS+JS/Cards/Simple-Profile-Card/index.html"
+    },
+    {
+      "category": "Cards",
+      "componentName": "Information-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Information-Card",
+      "preview": "/HTML+CSS+JS/Cards/Information-Card/index.html"
+    },
+    {
+      "category": "Carousel",
+      "componentName": "3d-img-carousel",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Carousel/3d-img-carousel",
+      "preview": "/HTML+CSS+JS/Carousel/3d-img-carousel/index.html"
+    },
+    {
+      "category": "Carousel",
+      "componentName": "HTML-CSS-only-Carousel",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Carousel/HTML-CSS-only-Carousel",
+      "preview": "/HTML+CSS+JS/Carousel/HTML-CSS-only-Carousel/index.html"
+    },
+    {
+      "category": "Carousel",
+      "componentName": "image-carousel",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Carousel/image-carousel",
+      "preview": "/HTML+CSS+JS/Carousel/image-carousel/image-carousel.html"
+    },
+    {
+      "category": "Footer",
+      "componentName": "animated-social-media-links",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/animated-social-media-links",
+      "preview": "/HTML+CSS+JS/Footer/animated-social-media-links/index.html"
+    },
+    {
+      "category": "Footer",
+      "componentName": "multilevel-footer",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/multilevel-footer",
+      "preview": "/HTML+CSS+JS/Footer/multilevel-footer/index.html"
+    },
+    {
+      "category": "Footer",
+      "componentName": "Simple-footer",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/Simple-footer",
+      "preview": "/HTML+CSS+JS/Footer/Simple-footer/index.html"
+    },
+    {
+      "category": "Footer",
+      "componentName": "wave-footer",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/wave-footer",
+      "preview": "/HTML+CSS+JS/Footer/wave-footer/index.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "Contact-Form",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Contact-Form",
+      "preview": "/HTML+CSS+JS/Forms/Contact-Form/index.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "Contact-Page",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Contact-Page",
+      "preview": "/HTML+CSS+JS/Forms/Contact-Page/index.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "Glassmorphism-Form",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Glassmorphism-Form",
+      "preview": "/HTML+CSS+JS/Forms/Glassmorphism-Form/index.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "Neumorphism-Login-Form",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Neumorphism-Login-Form",
+      "preview": "/HTML+CSS+JS/Forms/Neumorphism-Login-Form/index.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "SignIn-Form",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/SignIn-Form",
+      "preview": "/HTML+CSS+JS/Forms/SignIn-Form/SignIn.html"
+    },
+    {
+      "category": "Forms",
+      "componentName": "Modern-Select",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Modern-Select",
+      "preview": "/HTML+CSS+JS/Forms/Modern-Select/index.html"
+    },
+    {
+      "category": "Image-Gallery",
+      "componentName": "Responsive-Image-Grid",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Image-Gallery/Responsive-Image-Grid",
+      "preview": "/HTML+CSS+JS/Image-Gallery/Responsive-Image-Grid/index.html"
+    },
+    {
+      "category": "Key Sequence Detection",
+      "componentName": "Key Sequence Detection",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Key%20Sequence%20Detection",
+      "preview": "/HTML+CSS+JS/Image-Gallery/Key%20Sequence%20Detection/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "Bar-Loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Bar-Loader",
+      "preview": "/HTML+CSS+JS/Loader/Bar-Loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "book-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/book-loader",
+      "preview": "/HTML+CSS+JS/Loader/book-loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "dot-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/dot-loader",
+      "preview": "/HTML+CSS+JS/Loader/dot-loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "Hex-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Hex-loader",
+      "preview": "/HTML+CSS+JS/Loader/Hex-loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "Neumorphic-Preloader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Neumorphic-Preloader",
+      "preview": "/HTML+CSS+JS/Loader/Neumorphic-Preloader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "ripple-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/ripple-loader",
+      "preview": "/HTML+CSS+JS/Loader/ripple-loader/ripple-loader.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "Skeleton-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Skeleton-loader",
+      "preview": "/HTML+CSS+JS/Loader/Skeleton-loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "Spinner-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Spinner-loader",
+      "preview": "/HTML+CSS+JS/Loader/Spinner-loader/index.html"
+    },
+    {
+      "category": "Loader",
+      "componentName": "wifi-loader",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/wifi-loader",
+      "preview": "/HTML+CSS+JS/Loader/wifi-loader/index.html"
+    },
+    {
+      "category": "Mouse Hover Effects",
+      "componentName": "Custom Cursor with Hover Effect",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Mouse%20Hover%20Effects/Custom%20Cursor%20with%20Hover%20Effect",
+      "preview": "/HTML+CSS+JS/Mouse%20Hover%20Effects/Custom%20Cursor%20with%20Hover%20Effect/index.html"
+    },
+    {
+      "category": "Mouse Hover Effects",
+      "componentName": "Parallax",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Mouse%20Hover%20Effects/Parallax",
+      "preview": "/HTML+CSS+JS/Mouse%20Hover%20Effects/Parallax/index.html"
+    },
+    {
+      "category": "Navigation-Bar",
+      "componentName": "Hamburger-Navigation-Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Navigation-Bar/Hamburger-Navigation-Bar",
+      "preview": "/HTML+CSS+JS/Navigation-Bar/Hamburger-Navigation-Bar/index.html"
+    },
+    {
+      "category": "Navigation-Bar",
+      "componentName": "Side-Navigation-Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Navigation-Bar/Side-Navigation-Bar",
+      "preview": "/HTML+CSS+JS/Navigation-Bar/Side-Navigation-Bar/index.html"
+    },
+    {
+      "category": "Navigation-Bar",
+      "componentName": "Modern-Navigation-Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Navigation-Bar/Modern-Navigation-Bar",
+      "preview": "/HTML+CSS+JS/Navigation-Bar/Modern-Navigation-Bar/index.html"
+    },
+    {
+      "category": "Progress-Bar",
+      "componentName": "gradient-progress",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/gradient-progress",
+      "preview": "/HTML+CSS+JS/Progress-Bar/gradient-progress/gradient-progress.html"
+    },
+    {
+      "category": "Progress-Bar",
+      "componentName": "Progress-bar-scroll-reveal",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/Progress-bar-scroll-reveal",
+      "preview": "/HTML+CSS+JS/Progress-Bar/Progress-bar-scroll-reveal/index.html"
+    },
+    {
+      "category": "Search-Bar",
+      "componentName": "animated-search-bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Search-Bar/animated-search-bar",
+      "preview": "/HTML+CSS+JS/Search-Bar/animated-search-bar/index.html"
+    },
+    {
+      "category": "Text-Animations",
+      "componentName": "Shuffle-Text-Animation",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Text-Animations/Shuffle-Text-Animation",
+      "preview": "/HTML+CSS+JS/Text-Animations/Shuffle-Text-Animation/index.html"
+    },
+    {
+      "category": "Text-Animations",
+      "componentName": "Spotlight-Text-Animation",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Text-Animations/Spotlight-Text-Animation",
+      "preview": "/HTML+CSS+JS/Text-Animations/Spotlight-Text-Animation/index.html"
+    },
+    {
+      "category": "Text-Animations",
+      "componentName": "Typewriter-Text-Animation",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Text-Animations/Typewriter-Text-Animation",
+      "preview": "/HTML+CSS+JS/Text-Animations/Typewriter-Text-Animation/index.html"
+    },
+    {
+      "category": "Modal",
+      "componentName": "Confirmation-Modal",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Modal/Confirmation-Modal",
+      "preview": "/HTML+CSS+JS/Modal/Confirmation-Modal/index.html"
+    }
+  ]
+}
