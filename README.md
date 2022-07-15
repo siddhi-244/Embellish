@@ -34,12 +34,14 @@
 -   Make sure to follow the **[Code of Conduct](https://github.com/siddhi-244/Embellish/blob/a6e11d92ee995e63fef0df6bb49f3f4bfe2f661f/CODE_OF_CONDUCT.md)** and be **respectful** towards others while contributing to the project.
 -   Add details about your **component** in the JSON file as mentioned.
     [componentData.json](https://github.com/siddhi-244/Embellish/blob/main/embellish-website/js/componentData.json)
+    ```
         { 
         "category": "Accordion", 
         "componentName": "Skewed Images", 
         "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Accordion/Skewed%20Images", 
         "preview": "/HTML+CSS+JS/Accordion/Skewed%20Images/index.html"
         }
+        ```
 
 <hr/>
 
