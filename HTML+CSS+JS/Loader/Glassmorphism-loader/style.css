@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+    background: linear-gradient(to right, #4f65f6, #71edab, #d0e912);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -31,7 +31,6 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.274);
     border-top: none;
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.082);
-    animation: anim2 2s infinite;
 }
 
 .loader div {
