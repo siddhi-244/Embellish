@@ -12,4 +12,4 @@ Go to index.html file and run using any HTML previewer such as your internet bro
 
 ## Authors
 
-[Sanskruti Palekar] (https://github.com/SanskrutiPalekar)
+[Sanskruti Palekar](https://github.com/SanskrutiPalekar)
