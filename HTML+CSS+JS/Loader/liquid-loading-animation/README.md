@@ -1,7 +1,7 @@
 # css liquid loader animation
 
 Short description of Component/ Animation
--   liquid-like animation
+-   liquid-like animation with different colors revolving.
 -   As a preloader animation of websites .
 
 ## Demo -
@@ -12,3 +12,6 @@ https://user-images.githubusercontent.com/91176055/168483432-6f5dd2d2-f500-4a13-
 
 It's simple , you just need to clone this repo in the local system .
 Then open this animation's folder and run the .html file. The loader will open up in a browser.
+
+## Author
+[srinjoy pati (@srinjoy-26)](https://github.com/srinjoy-26)
