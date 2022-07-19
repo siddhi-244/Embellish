@@ -24,3 +24,6 @@ A screenshot of my work:
 
 It's simple , you just need to clone this repo in the local system .
 Then open this animation's folder and run the .html file. The loader will open up in a browser.
+
+## Author
+[srinjoy pati (@srinjoy-26)](https://github.com/srinjoy-26)
