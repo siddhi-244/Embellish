@@ -27,6 +27,7 @@
     - [Ripple Loader](Loader/ripple-loader)
     - [Bar Loader](Loader/Bar-Loader)
     - [Book Loader](Loader/book-loader)
+    - [liquid-loading-animation](Loader/liquid-loading-animation)
     - [Skeleton Loader](Loader/Skeleton-Loader)
     - [Neumorphic Preloader](Loader/Neumorphic-Preloader)
     - [Wi-Fi Loader](Loader/wifi-loader)
@@ -146,6 +147,8 @@
   - [Simple-Footer](Footer/Simple-footer)
 
   - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
+  
+  - [Glowing-icons-with-hover](Footer/Glowing-icons-with-hover)
   
   
 - [Image Gallery](Image-Gallery)
