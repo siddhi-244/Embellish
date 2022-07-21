@@ -12,10 +12,10 @@ It is a webpage which contains a few glowing icons with a cool hover effect.
 The project has been created using HTML and CSS.
 
 ## Demo -
-here check it out - https://srinjoy-26.github.io/Glowing-icons-with-amazing-css-effect/#
 
-A screenshot of my work:
-<img width="960" alt="icon" src="https://user-images.githubusercontent.com/91176055/157488714-30397058-2d13-4327-ae53-672cba920136.png">
+
+https://user-images.githubusercontent.com/91176055/180122119-8173509f-13a4-49b2-aaa5-c6825509799e.mp4
+
 
 
 
