@@ -14,7 +14,8 @@ The project has been created using HTML and CSS.
 ## Demo -
 
 
-https://user-images.githubusercontent.com/91176055/180122119-8173509f-13a4-49b2-aaa5-c6825509799e.mp4
+![Untitled video - Made with Clipchamp (1)](https://user-images.githubusercontent.com/91176055/180124782-58c9d99c-311e-42a3-855a-02a00acf4554.gif)
+
 
 
 
