@@ -205,6 +205,12 @@
     },
     {
       "category": "Footer",
+      "componentName": "Glowing-icons-with-hover",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/Glowing-icons-with-hover",
+      "preview": "/HTML+CSS+JS/Footer/Glowing-icons-with-hover/index.html"
+    },
+    {
+      "category": "Footer",
       "componentName": "multilevel-footer",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Footer/multilevel-footer",
       "preview": "/HTML+CSS+JS/Footer/multilevel-footer/index.html"
