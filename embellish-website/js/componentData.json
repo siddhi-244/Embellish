@@ -325,6 +325,12 @@
     },
     {
       "category": "Loader",
+      "componentName": "liquid-loading-animation",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/liquid-loading-animation",
+      "preview": "/HTML+CSS+JS/Loader/liquid-loading-animation/index.html"
+    },
+    {
+      "category": "Loader",
       "componentName": "wifi-loader",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/wifi-loader",
       "preview": "/HTML+CSS+JS/Loader/wifi-loader/index.html"
