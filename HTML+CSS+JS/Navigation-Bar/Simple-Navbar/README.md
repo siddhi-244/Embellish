@@ -2,7 +2,7 @@
 Simple navigation bar to navigate among different pages.
 
 ## Demo 
-![](Simple-Navbar.gif)
+![](Simple Navbar.mp4)
 
 ## Setup 
 Just download and open index.html.
