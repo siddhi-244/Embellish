@@ -124,6 +124,7 @@
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
     -   [Hamburger Navigation Bar](Navigation-Bar/Hamburger-Navigation-Bar)
     -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
+    -   [Simple Navigation Bar](Navigation-Bar/Simple-Navbar)
 
 - [Search Bar](Search-Bar)
 
