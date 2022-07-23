@@ -5,6 +5,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.container {
+    padding-top: 120px;
+}
+
 .container::after {
     content: '';
     height: 50px;
