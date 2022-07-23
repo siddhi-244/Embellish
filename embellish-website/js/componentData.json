@@ -180,6 +180,12 @@
       "preview": "/HTML+CSS+JS/Cards/Profile-Card/index.html"
     },
     {
+      "category": "Cards",
+      "componentName": "Glassmorphism-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Glassmorphism-Card/",
+      "preview": "/HTML+CSS+JS/Cards/Glassmorphism-Card/"
+    },
+    {
       "category": "Carousel",
       "componentName": "3d-img-carousel",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Carousel/3d-img-carousel",

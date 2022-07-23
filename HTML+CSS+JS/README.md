@@ -71,6 +71,8 @@
   - [Simple Profile Card](Cards/Simple-Profile-Card)
     
   - [Information Card](Cards/Information-Card)
+
+  - [Glassmorphism Card](Cards/Glassmorphism-Card)
     
 -   [Background](Background)
 
