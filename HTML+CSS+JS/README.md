@@ -71,6 +71,8 @@
   - [Simple Profile Card](Cards/Simple-Profile-Card)
     
   - [Information Card](Cards/Information-Card)
+
+  - [Drag_&_Drop_Card](Cards/Drag_%26_Drop_Card)
     
 -   [Background](Background)
 
