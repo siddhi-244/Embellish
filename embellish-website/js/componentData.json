@@ -185,6 +185,11 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Drag_%26_Drop_Card/",
       "preview": "/HTML+CSS+JS/Cards/Drag_&_Drop_Card/index.html"
     },
+    { "category": "Cards",
+      "componentName": "Glassmorphism-Card",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Glassmorphism-Card/",
+      "preview": "/HTML+CSS+JS/Cards/Glassmorphism-Card/"
+    },
     {
       "category": "Carousel",
       "componentName": "3d-img-carousel",
