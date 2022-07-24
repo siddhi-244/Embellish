@@ -365,6 +365,12 @@
       "preview": "/HTML+CSS+JS/Mouse%20Hover%20Effects/Parallax/index.html"
     },
     {
+      "category":"Mouse Hover Effects",
+      "componentName": "Day-Night-Hover-Effect",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Mouse%20Hover%20Effects/Day-Night-Hover-Effect/",
+      "preview": "/HTML+CSS+JS/Mouse Hover Effects/Day-Night-Hover-Effect/index.html"
+    },
+    {
       "category": "Navigation-Bar",
       "componentName": "Hamburger-Navigation-Bar",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Navigation-Bar/Hamburger-Navigation-Bar",

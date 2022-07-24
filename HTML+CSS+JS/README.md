@@ -124,6 +124,8 @@
     -   [Parallax](Mouse-Hover-Effects/Parallax)
     -   [Custom Cursor with Hover Effect](Mouse-Hover-Effects/Custom-Cursor-with-Hover-Effect)
 
+    - [Day-Night-Hover-Effect](Mouse%20Hover%20Effects/Day-Night-Hover-Effect)
+
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
