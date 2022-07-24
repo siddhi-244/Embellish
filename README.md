@@ -13,8 +13,8 @@
   [Link to discord](https://discord.gg/K5ewTQV7Rb)
 </div>
 
-- Having a designed component in css? Want to flaunt it ? Do you want other people to use your component? Here we are. Contribute your component to Embellish.
-- Embellish is a collection of awesome designed components  or animations or components which can be added to any website to enhance the UI of your website.
+- Have a designed component in CSS? Want to flaunt it? Do you want other people to use your component? Here we are. Contribute your component to Embellish.
+- Embellish is a collection of awesomely-designed components and animations, which can be added to any website to enhance its UI.
 <div align="center">
 
 ## 🛠️ Technology Stack
@@ -30,7 +30,7 @@
 -   Make sure that with **every design/ component** should be added to a separate folder.
 -   Every **folder** should have its own `README.md` file **where instructions** to setup environment should be there and a **demo video** in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
 -   Always **update the table of contents** in the parent folder where the new **component** is added.
--   Whether you are adding an animation or a design component or any other code, make sure to include all the **additional scripts and CDN's** within the **file/ folder itself and with addequate documentation** as required. The code must be extremely simple to understand such that it is ready for **immediate use in some project.**
+-   Whether you are adding an animation or a design component or any other code, make sure to include all the **additional scripts and CDN's** within the **file/folder itself and with addequate documentation** as required. The code must be extremely simple to understand such that it is ready for **immediate use in some project.**
 -   Make sure to follow the **[Code of Conduct](https://github.com/siddhi-244/Embellish/blob/a6e11d92ee995e63fef0df6bb49f3f4bfe2f661f/CODE_OF_CONDUCT.md)** and be **respectful** towards others while contributing to the project.
 -   Add details about your **component** in the JSON file as mentioned.
     [componentData.json](https://github.com/siddhi-244/Embellish/blob/main/embellish-website/js/componentData.json)
