@@ -25,7 +25,7 @@
 
 <hr/>
 
-# :scroll: Instructions to follow while **Contributing**
+# Instructions to follow while **Contributing**
 #
 -   Make sure that with **every design/ component** should be added to a separate folder.
 -   Every **folder** should have its own `README.md` file **where instructions** to setup environment should be there and a **demo video** in the form of a gif should be added. Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
@@ -48,7 +48,7 @@
 
 # How to **contribute**?
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [here are tutorials using GUI tools.](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)_
 _If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)._
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -129,3 +129,19 @@ git push -u origin <your_branch_name>
 <h1 align=center> Project Maintainer & Admin </h1>
 <p align="center"> <a href="https://github.com/siddhi-244"><img src="https://user-images.githubusercontent.com/64035221/135665400-b5e1edbe-2164-414b-b4cc-7574d0cacaeb.png" width=100px height=100px /></a>
 <p align="center"> Siddhi Bhanushali </p>
+
+<br><hr>
+<h2 align="center">
+This repository has been a part of HackCLUB Rait <hr>
+<br/>
+<img src="https://user-images.githubusercontent.com/72568715/177209006-5955107f-17dd-4d35-bbc3-c37e419a883e.PNG"> 
+
+</h2>
+
+<br><hr>
+<h1 align="center">
+ <b>Valuable Contributors <hr><br>
+<h1>
+<a href="https://github.com/siddhi-244/Embellish/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=siddhi-244/Embellish&&max=917" />
+</a>
