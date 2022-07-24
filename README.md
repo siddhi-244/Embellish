@@ -6,7 +6,7 @@
   
 ![Forks](https://img.shields.io/github/forks/siddhi-244/Embellish?style=social)  ![Stars](https://img.shields.io/github/stars/siddhi-244/Embellish?style=social)
 
-[![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/siddhi-244/Embellish?color=green&logo=github&style=flat)](https://github.com/siddhi-244/Embellish/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/siddhi-244/Embellish?style=flat&logo=github)](https://github.com/siddhi-244/Embellish/pulls)![GitHub repo size](https://img.shields.io/github/repo-size/siddhi-244/Embellish?style=for-the-badge)
  
   
  ## You can join our discord 
