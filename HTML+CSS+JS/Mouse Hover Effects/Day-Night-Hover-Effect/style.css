@@ -1,0 +1,143 @@
+body {
+    background: #e9e5e5;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background: #2a2c36;
+    border-radius: 50%;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 2px 20px  rgba(0, 0, 0, 0.4);
+}
+
+.sun {
+    position: absolute;
+    background: #f2ef88;
+    height: 60px;
+    width: 60px;
+    box-shadow: 0 0 20px rgba(242, 239, 136, 0.4);
+    top: 200px;
+    border-radius: 50%;
+    left: 70px;
+    opacity: 0;
+    transition: all 0.7s ease;
+}
+
+.moon {
+    height: 45px;
+    width: 45px;
+    background: #d6d6d6;
+    position: absolute;
+    top: 70px;
+    left: 80px;
+    box-shadow: inset -10px 2px 0 0px #899098;
+    border-radius: 50%;
+    transition: all 0.7s 0s ease-in-out;
+}
+
+.moon div:nth-child(n) {
+    position: relative;
+    background: #b9b8b0;
+    border-radius: 50%;
+    box-shadow: inset 4px -2px 0 0 #535457;
+}
+
+.moon div:nth-child(1) {
+    top: 25%;
+    left: 12%;
+    width: 27%;
+    height: 27%;
+}
+
+.moon div:nth-child(2) {
+    top: -11%;
+    left: 60%;
+    width: 16%;
+    height: 16%;
+}
+
+.moon div:nth-child(3) {
+    top: 25%;
+    left: 44%;
+    width: 16%;
+    height: 16%;
+}
+
+.stars {
+    opacity: 1;
+    margin-left: 100px;
+    top: 0;
+    left: 0;
+    transition: all 0.4s ease;
+    z-index: 1000;
+}
+
+.stars div:nth-child(n) {
+    position: absolute;
+    background: #ffffff;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 0.4%;
+    height: 0.4%;
+    margin-left: 20%;
+    margin-top: -20%;
+    transition: all 0.5s ease;
+}
+
+.stars div:nth-child(1) {
+    left: 25%;
+    top: 30%;
+}
+
+.stars div:nth-child(2) {
+    left: 55%;
+    top: 20%;
+}
+
+.stars div:nth-child(3) {
+    left: 60%;
+    top: 60%;
+}
+
+.stars div:nth-child(4) {
+    left: 40%;
+    top: 45%;
+}
+
+.stars div:nth-child(5) {
+    left: 15%;
+    top: 55%;
+}
+
+.water {
+    height: 100px;
+    background: #7fa11b;
+    position: relative;
+    top: 130px;
+    transition: all 0.7s ease;
+}
+
+.container:hover {
+    background: #e9786b;
+}
+
+.container:hover .sun {
+    opacity: 1;
+    top: 105px;
+}
+
+.container:hover .moon {
+    left: 120%;
+    top: -50%;
+}
+
+.container:hover .water {
+    background: #71baf2;
+}
+
