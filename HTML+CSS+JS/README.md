@@ -2,39 +2,26 @@
 
 ## Table of contents -
 
--   [Carousel](Carousel)
-
-    -   [Image Carousel](Carousel/image-carousel)
-    -   [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
-    -   [3d image carousel](Carousel/3d-img-carousel)
-    
 - [Accordion](Accordion)
 
-   - [Accordian](Accordion/Accordian)
-   - [Skewed Images](Accordion/Skewed%20Images)
+  - [Accordian](Accordion/Accordian)
+  - [Skewed Images](Accordion/Skewed%20Images)
 
--   [Forms](Forms)
-    - [Glassmorphism Form](Forms/Glassmorphism-Form)
-    - [Contact Page](Forms/Contact-Page)
-    - [Contact Form](Forms/Contact-Form)
-    - [Neumorphism Login Form](Forms/Neumorphism-Login-Form)
-    - [Sign In Form](Forms/SignIn-Form)
-    - [Sign-In-Form](Forms/Sign-In Form)
-    - [Mordern-Select](Forms/Modern-Select)
- 
 
--   [Loader](Loader)
-    - [Ripple Loader](Loader/ripple-loader)
-    - [Bar Loader](Loader/Bar-Loader)
-    - [Book Loader](Loader/book-loader)
-    - [liquid-loading-animation](Loader/liquid-loading-animation)
-    - [Skeleton Loader](Loader/Skeleton-Loader)
-    - [Neumorphic Preloader](Loader/Neumorphic-Preloader)
-    - [Wi-Fi Loader](Loader/wifi-loader)
-    - [Dot Loader](Loader/dot-loader)
-    - [Spinner Loader](Loader/Spinner-loader)
-    - [IOS-Spinner](Loader/IOS-Spinner)
-    - [4-color-loader](Loader/4-color-loader)
+-   [Background](Background)
+
+    -   [Video Background](Background/Video-Background)
+    -   [3d Boxes Background](Background/3d-boxes-background)
+    -   [Animated Background](Background/Animated-Background)
+    -   [Parallax Effect Background](Background/Parallax-Effect)
+    -   [Scroll Through Image To Change Text Parallax Effect](Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect)
+    -   [Page Not Found](Background/Page-Not-Found)
+    -   [404 - Error Page](Background/404-Error-Page)
+    -   [Glassmorphism Background](Background/Glassmorphism)
+
+
+- [Breadcrumbs](Breadcrumbs)
+    - [Breadcrumb](Breadcrumbs/Breadcrumb)
 
 
 -   [Buttons](Buttons)
@@ -53,78 +40,89 @@
     - [Neon Buttons](Buttons/neon-button)
     - [Border-Glow-Button](Buttons/border-glow-button)
     - [Floating Button](Buttons/floating-button)
-    
+
+
 - [Cards](Cards)
-
   - [Product & Profile Cards](Cards/Product-Profile%20Cards)
-  
   - [Flip Card](Cards/Flip-Card)
-  
+  - [Disney Cards grid](Cards/Disney-Cards-grid)
   - [Animated Profile Card](Cards/Animated-Profile)
-  
-  - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation) 
-
+  - [Profile Card with Image Splitting Effect](Cards/Profile-Card-Splitting-Image-Animation)
+  - [Profile Card](Cards/Profile-Card)
   - [Price-Card](Cards/Price-Card) 
-  
   - [Dark-Card](Cards/Dark-Card) 
-
   - [Simple Profile Card](Cards/Simple-Profile-Card)
-    
   - [Information Card](Cards/Information-Card)
-
   - [Drag_&_Drop_Card](Cards/Drag_%26_Drop_Card)
-
   - [Glassmorphism Card](Cards/Glassmorphism-Card)
     
--   [Background](Background)
 
-    -   [Video Background](Background/Video-Background)
+-   [Carousel](Carousel)
 
-    -   [Animated Background](Background/Animated-Background)
-    
-    -   [Parallax Effect Background](Background/Parallax-Effect)
-  
-    -   [Scroll Through Image To Change Text Parallax Effect](Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect)
-
-    -   [Page Not Found](Background/Page-Not-Found)
-
-    -   [404 - Page Not Found](Background/404-Error-Page)
+    -   [Image Carousel](Carousel/image-carousel)
+    -   [CSS-Only Carousel](Carousel/HTML-CSS-only-Carousel)
+    -   [3d image carousel](Carousel/3d-img-carousel)
+    -   [Strip Carousel](Carousel/Strip-carousel)
 
 
-- [Text Animations](Text-Animations)
+- [Footer](Footer)
 
-  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+  - [Animated Social Media Links](Footer/animated-social-media-links)
+  - [Multi Level Footer](Footer/multilevel-footer)
+  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
+  - [Simple-Footer](Footer/Simple-footer)
+  - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
+  - [Glowing-icons-with-hover](Footer/Glowing-icons-with-hover)
 
-  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
 
-  - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
+-   [Forms](Forms)
+    - [Glassmorphism Form](Forms/Glassmorphism-Form)
+    - [Contact Page](Forms/Contact-Page)
+    - [Contact Form](Forms/Contact-Form)
+    - [Neumorphism Login Form](FormsNeumorphism-Login-Form)
+    - [Sign-InForm](Forms/Sign-InForm)
+    - [SignIn-Form](Forms/SignIn-Form)
+    - [Mordern-Select](Forms/Modern-Select)
+
+
+- [Image Gallery](Image-Gallery)
+
+  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
+  - [Photo Gallery](Image-Gallery/Photo-Gallery) 
+
+
+- [Input-bar](Input-bar)
+  - [Input-bar](Input-bar/Input-bar) 
+
+
+- [Key Sequence Detection + Easter Egg](Key%20Sequence%20Detection)
+
+
+-   [Loader](Loader)
+    - [Ripple Loader](Loader/ripple-loader)
+    - [Bar Loader](Loader/Bar-Loader)
+    - [Book Loader](Loader/book-loader)
+    - [liquid-loading-animation](Loader/liquid-loading-animation)
+    - [Skeleton Loader](Loader/Skeleton-Loader)
+    - [Neumorphic Preloader](Loader/Neumorphic-Preloader)
+    - [Wi-Fi Loader](Loader/wifi-loader)
+    - [Dot Loader](Loader/dot-loader)
+    - [Spinner Loader](Loader/Spinner-loader)
+    - [IOS-Spinner](Loader/IOS-Spinner)
+    - [4-color-loader](Loader/4-color-loader)
+    - [Glassmorphism-loader](Loader/Glassmorphism-loader)
+    - [Hex-Loader](Loader/Hex-Loader)
 
 
 - [Modal](Modal)
   - [Confirmation Modal](Modal/Confirmation-Modal)   
 
-- [Progress Bar](Progress-Bar)
-  
-  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
-  
-  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
 
-  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
-  
-  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
-
-- [Progress Bar](Progress-Bar)
-  
-  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
-  
-  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
-
--   [Mouse Hover Effects](Mouse-Hover-Effects)
-
-    -   [Parallax](Mouse-Hover-Effects/Parallax)
-    -   [Custom Cursor with Hover Effect](Mouse-Hover-Effects/Custom-Cursor-with-Hover-Effect)
-
+-   [Mouse Hover Effects](Mouse%20Hover%20Effects)
+    -   [Parallax](Mouse%20Hover%20Effects/Parallax)
+    -   [Custom Cursor with Hover Effect](Mouse%20Hover%20Effects/Custom%20Cursor%20with%20Hover%20Effect)
     - [Day-Night-Hover-Effect](Mouse%20Hover%20Effects/Day-Night-Hover-Effect)
+
 
 -   [Navigation Bar](Navigation-Bar)
 
@@ -132,39 +130,24 @@
     -   [Hamburger Navigation Bar](Navigation-Bar/Hamburger-Navigation-Bar)
     -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
     -   [Simple Navigation Bar](Navigation-Bar/Simple-Navbar)
+    -   [Side Bar](Navigation-Bar/Sidebar)
+
+
+- [Progress Bar](Progress-Bar)
+  
+  - [Gradient Progress Bar](Progress-Bar/gradient-progress)
+  - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
+
 
 - [Search Bar](Search-Bar)
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
-  - [Search Bar](Search-Bar/Search-Bar)
+  - [Search Bar](Search-Bar/seach%20bar)
 
 
-- [Footer](Footer)
+- [Text Animations](Text-Animations)
 
-  - [Animated Social Media Links](Footer/animated-social-media-links)
-  
-  - [Multi Level Footer](Footer/multilevel-footer)
+  - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
+  - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
+  - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
 
-  - [Side Navigation Bar](Navigation-Bar/Side-Navigation-Bar)
-
-
-  - [Wave-like Responsive Animated Footer](Footer/wave-footer)
-  
-
-  - [Simple-Footer](Footer/Simple-footer)
-
-  - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
-  
-  - [Glowing-icons-with-hover](Footer/Glowing-icons-with-hover)
-  
-  
-- [Image Gallery](Image-Gallery)
-
-  - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
-  - [Photo Gallery](Image-Gallery/Photo-Gallery) 
-
-- [Breadcrumb](Breadcrumbs)
-
-  - [Breadcrumb](Breadcrumbs/Breadcrumb) 
-  
-- [Key Sequence Detection + Easter Egg](Key%20Sequence%20Detection)
