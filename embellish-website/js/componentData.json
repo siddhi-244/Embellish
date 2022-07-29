@@ -43,6 +43,12 @@
     },
     {
       "category": "Background",
+      "componentName": "Parallax-scrolling-website",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Parallax-scrolling-website",
+      "preview": "/HTML+CSS+JS/Background/Parallax-scrolling-website/index.html"
+    },
+    {
+      "category": "Background",
       "componentName": "Scroll-Through-Image-To-Change-Text-Parallax-Effect",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect",
       "preview": "/HTML+CSS+JS/Background/Scroll-Through-Image-To-Change-Text-Parallax-Effect/index.html"
