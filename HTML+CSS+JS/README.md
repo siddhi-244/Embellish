@@ -120,6 +120,7 @@
 
 -   [Mouse Hover Effects](Mouse%20Hover%20Effects)
     -   [Parallax](Mouse%20Hover%20Effects/Parallax)
+    -   [Parallax scrolling website](Background/Parallax-scrolling-website)
     -   [Custom Cursor with Hover Effect](Mouse%20Hover%20Effects/Custom%20Cursor%20with%20Hover%20Effect)
     - [Day-Night-Hover-Effect](Mouse%20Hover%20Effects/Day-Night-Hover-Effect)
 
