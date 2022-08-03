@@ -132,6 +132,12 @@
       "preview": "/HTML+CSS+JS/Buttons/button-animation/index.html"
     },
     {
+      "category": "Buttons",
+      "componentName": "Toggle-button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Toggle-button",
+      "preview": "/HTML+CSS+JS/Buttons/Toggle-button/index.html"
+    },
+    {
       "category": "Cards",
       "componentName": "Animated-Profile",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Cards/Animated-Profile",

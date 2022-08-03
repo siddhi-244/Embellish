@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #bd3f32, #cb356b);
+}
+
+.main {
+    width: 350px;
+    height: 250px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.container {
+    width: 80px;
+    height: 40px;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.171);
+    border-radius: 20px;
+}
+
+.container input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    position: relative;
+
+}
+
+.container input::before,
+.container input::after {
+    content: '';
+    position: absolute;
+    top: 48%;
+    width: 2%;
+    height: 4%;
+    background: #132c33;
+    border-radius: 20px;
+    transition: all .2s;
+}
+
+.container input::before {
+    left: 25%;
+    box-shadow: 0 0 0 22px #132c33;
+}
+
+.container input::after {
+    right: 25%;
+    opacity: 0;
+}
+
+.container input:checked::before {
+    box-shadow: 0 0 0 80px #132c33;
+    opacity: 0;
+}
+
+.container input:checked::after {
+    background: #51c4d3;
+    box-shadow: 0 0 1px 6px #51c4d3, 0 0 0 22px #132c33;
+    opacity: 1;
+}
