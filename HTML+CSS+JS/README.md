@@ -117,7 +117,7 @@
 - [Modal](Modal)
   - [Confirmation Modal](Modal/Confirmation-Modal)   
 
-
+- [Testimonial](Testimonial)
 -   [Mouse Hover Effects](Mouse%20Hover%20Effects)
     -   [Parallax](Mouse%20Hover%20Effects/Parallax)
     -   [Parallax scrolling website](Background/Parallax-scrolling-website)
