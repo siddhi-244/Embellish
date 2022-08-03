@@ -117,7 +117,6 @@
 - [Modal](Modal)
   - [Confirmation Modal](Modal/Confirmation-Modal)   
 
-
 -   [Mouse Hover Effects](Mouse%20Hover%20Effects)
     -   [Parallax](Mouse%20Hover%20Effects/Parallax)
     -   [Parallax scrolling website](Background/Parallax-scrolling-website)
@@ -146,6 +145,8 @@
   - [Search Bar](Search-Bar/seach%20bar)
 
 
+- [Testimonial](Testimonial)
+ 
 - [Text Animations](Text-Animations)
 
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
