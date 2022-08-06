@@ -40,6 +40,7 @@
     - [Neon Buttons](Buttons/neon-button)
     - [Border-Glow-Button](Buttons/border-glow-button)
     - [Floating Button](Buttons/floating-button)
+    - [Toggle Button](Buttons/Toggle-button)
 
 
 - [Cards](Cards)
