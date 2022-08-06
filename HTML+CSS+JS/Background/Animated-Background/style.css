@@ -19,6 +19,12 @@ h2{
     transform: translate(-50%,-50%);
     font-size: 50px;
     margin: 0;
+    transition: 2s;
+}
+
+h2:hover {
+    transition: 2s;
+    font-size: 70px;
 }
 
 .box div{
@@ -27,7 +33,7 @@ h2{
     height: 60px;
     background-color:transparent;
     border: 15px solid white;
-    border-radius: 15px;
+    border-radius: 50%;
     animation:animate 10s linear infinite;
 }
 
