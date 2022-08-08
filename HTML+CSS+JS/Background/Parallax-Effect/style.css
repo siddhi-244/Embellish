@@ -39,6 +39,22 @@ html, body {
     margin: 0 auto;
     padding: 75px 0;
   }
+
+  .ContentContainer2 {
+    position: relative;
+    display: block;
+    background-color: rgba(119, 177, 179, 0.548);
+    color: black;
+    z-index: 2;
+    font-family: monospace;
+    font-weight: bold;
+  }
+
+  .Content2 {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 75px 0;
+  }
   
   p {
     margin: 75px 0;
