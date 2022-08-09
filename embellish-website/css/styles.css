@@ -2,7 +2,6 @@
 .nav-item {
     position: relative;
 }
-.nav-item::after,
 .nav-item::before {
     content: "";
     position: absolute;
@@ -11,15 +10,6 @@
     width: 0%;
     height: 0%;
     transition: all 0.5s ease-in-out;
-}
-
-.nav-item::after {
-    width: 0%;
-    height: 0%;
-    top: 0;
-    left: 0;
-    border-top: 2px solid transparent;
-    border-left: 2px solid transparent;
 }
 
 .nav-item::before {
@@ -31,8 +21,7 @@
     border-right: 2px solid transparent;
 }
 
-.nav-item:hover::before,
-.nav-item:hover::after {
+.nav-item:hover::before {
     width: 100%;
     border-color: #f5f5f5;
 
