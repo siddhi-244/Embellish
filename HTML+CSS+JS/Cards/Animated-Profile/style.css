@@ -23,6 +23,8 @@ body {
 }
 .container:hover {
   box-shadow: 0px 1px 35px 0px rgba(0, 0, 0, 0.3);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .container .image {
   background: black;
@@ -60,6 +62,7 @@ body {
 }
 ul li {
   margin: 0 5px;
+  transition: 0.4s;
 }
 ul li a {
   display: block;
@@ -72,13 +75,15 @@ ul li a {
   opacity: 0;
   transform: translateY(200px);
   background: white;
-  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-out;
 }
 ul li a:hover {
   outline: aqua;
   outline-width: 2px;
   outline-style: outset;
 }
+
+
 .container:hover > ul > li > a {
   opacity: 1;
   transform: translateY(0);
