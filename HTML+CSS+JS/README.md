@@ -56,7 +56,7 @@
   - [Information Card](Cards/Information-Card)
   - [Drag_&_Drop_Card](Cards/Drag_%26_Drop_Card)
   - [Glassmorphism Card](Cards/Glassmorphism-Card)
-    
+  - [Flipping-Card](Cards/Flipping-Card)    
 
 -   [Carousel](Carousel)
 
