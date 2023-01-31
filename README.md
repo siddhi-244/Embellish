@@ -129,3 +129,10 @@ git push -u origin <your_branch_name>
 <h1 align=center> Project Maintainer & Admin </h1>
 <p align="center"> <a href="https://github.com/siddhi-244"><img src="https://user-images.githubusercontent.com/64035221/135665400-b5e1edbe-2164-414b-b4cc-7574d0cacaeb.png" width=100px height=100px /></a>
 <p align="center"> Siddhi Bhanushali </p>
+
+
+# Open Source Events 
+
+- Hacktoberfest 2021
+- Diversion 2022
+- Diversion 2023
