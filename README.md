@@ -136,3 +136,6 @@ git push -u origin <your_branch_name>
 - Hacktoberfest 2021
 - Diversion 2022
 - Diversion 2023
+
+![Diversion Long Logo Color](https://user-images.githubusercontent.com/69195262/215792197-22571463-c402-451f-91ac-5c4c7a764a39.png)
+
