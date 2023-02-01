@@ -137,6 +137,13 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Toggle-button",
       "preview": "/HTML+CSS+JS/Buttons/Toggle-button/index.html"
     },
+            
+    {
+      "category": "Buttons",
+      "componentName": "Glassmorphism_Button",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Glassmorphism_Button",
+      "preview": "/HTML+CSS+JS/Buttons/Glassmorphism_Button/index.html"
+    }
     {
       "category": "Cards",
       "componentName": "Animated-Profile",
