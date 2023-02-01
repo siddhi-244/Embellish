@@ -4,13 +4,15 @@ This is an animated Search Bar built by using HTML and CSS only. It can be used 
 <br>
 ## Demo
 
-![Screen-Recording-_02-10-2021-13-53-28_](https://user-images.githubusercontent.com/72148786/135709185-362e2fdd-e5d3-4450-ba45-5abfb150adb2.gif)
+![Animated_Search_Bar](https://user-images.githubusercontent.com/92919173/216054421-b668b462-8247-462e-810f-6e4a62efb655.gif)
 <br>
-## Setup
+
+## Setup Instructions
 
 Run the project via index.html file in any of your web browsers.
 <br>
 ## Author
 
 [SurajPratap (@Surajpratap)](https://github.com/SurajPratap10)
+
 
