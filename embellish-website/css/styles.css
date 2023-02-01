@@ -90,7 +90,7 @@ button {
   );
   background-image: linear-gradient(90deg, #0093e9 0%, #80d0c7 100%);
   padding: 15px;
-  margin: auto; 
+  margin: auto;
   max-width:550px;
   text-align: center;
 }
@@ -159,7 +159,7 @@ button {
   z-index: 100;
 }
 .footer-card a:hover {
-  letter-spacing: 2px;
+  color : darkblue;
 }
 .grid-container {
   display: grid;
@@ -172,7 +172,7 @@ button {
 
 #component-container {
   display: grid;
-  grid-template-areas: 
+  grid-template-areas:
   "comp"
   "comp"
   "comp"
@@ -218,11 +218,11 @@ opacity: 1;
   .grid-container{
     grid-template-columns: repeat(3, 1fr);
   }
-  
+
   #component-container {
     /* display: flex; */
     grid-template-columns: repeat(3, 33%);
-    grid-template-areas: 
+    grid-template-areas:
       "comp comp comp"
       "null null more";
   }
