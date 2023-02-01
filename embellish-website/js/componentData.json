@@ -443,6 +443,12 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Search-Bar/animated-search-bar",
       "preview": "/HTML+CSS+JS/Search-Bar/animated-search-bar/index.html"
     },
+   {
+      "category": "Search-Bar",
+      "componentName": "Animated_search_bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Search-Bar/Animated_Search_Bar",
+      "preview": "/HTML+CSS+JS/Search-Bar/Animated_Search_Bar/index.html"
+    },
     {
       "category": "Testimonial",
       "componentName": "Testimonial",
