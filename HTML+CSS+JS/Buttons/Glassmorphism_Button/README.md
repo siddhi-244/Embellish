@@ -3,12 +3,12 @@
 Its a simple but stylish button that can be added on to many new generation websites.
 <br>
 
-## Demo
-
+## Demo Pic 
 <p align="center">
   <img src="Pic.png"/>
 </p>
 
+## Demo Video Link:
 [Demo Video](https://user-images.githubusercontent.com/92919173/215928271-20ce7503-9cec-4b1a-a431-dd85d43c3b5d.mp4)
 <br>
 
