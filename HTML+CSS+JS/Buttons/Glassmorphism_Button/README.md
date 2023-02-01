@@ -5,7 +5,7 @@ Its a simple but stylish button that can be added on to many new generation webs
 
 ## Demo
 
-https://user-images.githubusercontent.com/92919173/215928271-20ce7503-9cec-4b1a-a431-dd85d43c3b5d.mp4
+[Demo Video](https://user-images.githubusercontent.com/92919173/215928271-20ce7503-9cec-4b1a-a431-dd85d43c3b5d.mp4)
 <br>
 
 ## Setup Instructions
