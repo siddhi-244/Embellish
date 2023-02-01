@@ -1,4 +1,4 @@
-# Aesthetic Animated Search Bar
+# Animated Search Bar
 
 This is an animated Search Bar built by using HTML and CSS only. It can be used un modern gen websites.
 <br>
