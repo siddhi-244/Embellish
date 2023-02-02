@@ -1,7 +1,4 @@
-#space{
-    height: 450px;
-    border: 1px solid lightgrey;
-}
+/*skills container*/
 
 section{
     width: 100%;
@@ -10,6 +7,8 @@ section{
     align-items: center;
     background-color: #9e9b9b29;
 }
+
+/*heading*/
 
 .heading{
     color: blue;
@@ -22,6 +21,8 @@ section{
     font-weight: 400;
     font-family: sans-serif;
 }
+
+/*all skill classes*/
 
 #skills-display{
     width: 75%;
@@ -54,6 +55,8 @@ section{
     box-shadow: 1px 1px 5px 2px #989882;
     color: white;
 }
+
+/*individual classes for the skill bars*/
 
 #cpp{
     width: 50%;
