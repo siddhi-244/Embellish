@@ -1,0 +1,126 @@
+/*body*/
+
+body{
+    font-family: sans-serif;
+}
+
+/*contact section*/
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(50deg,#2857a4,#403066 74%);
+}
+
+#contact-heading{
+    color: white;
+    font-size: 1.3rem;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+
+#contact-heading h1{
+    font-weight: 300;
+}
+
+#contact-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 700px){
+    #contact-details{
+        flex-wrap: wrap;
+    }
+}
+
+/*message(contains all the input elements and the submit button)*/
+
+#message{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 45%;
+    padding-left: 13px;
+}
+
+#message input,textarea{
+    background: transparent;
+    border: 0px transparent solid;
+    border-bottom: solid white 2px;
+    outline: none;
+    width: 85%;
+    font-size: 1rem;
+    padding: 10px;
+    margin-bottom: 20px;
+    color : white;
+}
+
+#message button{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: transparent;
+    border: white solid 2px;
+    color: white;
+    width: 10rem;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+#message button:hover{
+    background-color: white;
+    color: #13386fe0;
+}
+
+/*get in touch(contains all contact details)*/
+
+#get-in-touch{
+    color: white;
+    width: 40%;
+    margin-top: -10px;
+}
+
+#get-in-touch h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#get-in-touch p{
+    font-size: 15px;
+}
+
+.touch{
+    margin-bottom: 15px;
+}
+
+/*lower-icons*/
+
+#lower-icons{
+    padding: 35px;
+}
+
+#lower-icons a{
+    margin: 0px 10px 0px;
+}
+
+#lower-icons i{
+    position: relative;
+    left: 8px;
+}
+
+/*styles for screen width below 700px*/
+
+@media screen and (max-width: 700px){
+    #message{
+        width: 80%;
+        margin-bottom: 50px;
+    }
+
+    #get-in-touch{
+        width: 70%;
+    }
+}
