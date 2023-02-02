@@ -4,7 +4,7 @@ It can be used in any website which requires a Get-In_touch section or a Contact
 you just need to place the html file where you need the animation to happen
 and link the css file in the head seciton.
 
-It has hover effects which triggers which the mouse is placed over submit button or the Social icons
+It has hover effects which triggers when the mouse is placed over submit button or the Social icons
 
 ---
 
