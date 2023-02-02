@@ -1,4 +1,4 @@
-# FloatingCube
+#Get-In_Touch
 
 It can be used in any website which requires a Get-In_touch section or a Contact Form
 you just need to place the html file where you need the animation to happen
