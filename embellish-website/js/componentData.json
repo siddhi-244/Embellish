@@ -306,6 +306,12 @@
       "preview": "/HTML+CSS+JS/Forms/Login-form/index.html"
     },
     {
+      "category": "Forms", 
+      "componentName": "Get-In-Touch", 
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Get-In-Touch", 
+      "preview": "/HTML+CSS+JS/Forms/Get-In-Touch/index.html"
+    },
+    {
       "category": "Image-Gallery",
       "componentName": "Responsive-Image-Grid",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Image-Gallery/Responsive-Image-Grid",
@@ -364,12 +370,6 @@
       "componentName": "Spinner-loader",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/Spinner-loader",
       "preview": "/HTML+CSS+JS/Loader/Spinner-loader/index.html"
-    },
-    {
-      "category": "Forms", 
-      "componentName": "Get-In-Touch", 
-      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Get-In-Touch", 
-      "preview": "/HTML+CSS+JS/Forms/Get-In-Touch/index.html"
     },
     {
       "category": "Loader",
