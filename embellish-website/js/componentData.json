@@ -481,7 +481,7 @@
     },
     { 
     "category": "Animation", 
-    "componentName": "FloatingCube", 
+    "componentName": "Floating-Cube", 
     "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Animations/FloatingCube", 
     "preview": "/HTML+CSS+JS/Animations/FloatingCube/index.html"
     }
