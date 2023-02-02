@@ -1,0 +1,92 @@
+/*animation on the parent cube to move all the child cubes in sync*/
+@keyframes move{
+                0%{
+                
+                }
+ 
+        	12.5%{
+        		transform:  rotateY(50deg) rotateZ(-50deg) translate(20px,100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	25%{
+        		transform: rotateX(75deg)  rotateZ(75deg) translate(60px,-100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	37.5%{
+        		transform: rotateX(100deg) rotateY(-100deg)  translate(100px,100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	50%{
+        		transform: rotateX(-125deg)  rotateZ(125deg) translate(80px,-100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	62.5%{
+        		transform:  rotateY(150deg) rotateZ(-150deg) translate(60px,100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	75%{
+        		transform: rotateX(175deg)  rotateZ(175deg) translate(-20px,-100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	87.5%{
+        		transform: rotateX(200deg) rotateY(200deg)  translate(0px,-100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+
+        	100%{
+        		transform: rotateX(225deg)  rotateZ(225deg) translate(40px,-100px) scalex(0.5) scaley(0.5) scalez(0.5);
+        	}
+        }
+
+/*parent cube*/
+
+        #cube{
+        	height: 200px;
+        	width: 200px;
+        	position: relative;
+        	margin: 200px;
+        	transform-style: preserve-3d;
+        	perspective: 10000px;
+        	transform: rotateX(25deg) rotateY(-25deg) scalex(0.5) scaley(0.5) scalez(0.5);
+        	animation: move 30s alternate infinite;
+        }
+
+/*all child cubes class*/
+
+        .face{
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            top: 20%;
+            left: 20%;
+        }
+
+/*Child Cubes*/
+
+        #one{
+        	background-color: cyan;
+        }
+
+        #two{
+        	background-color: red;
+        	transform: rotateY(270deg) translateZ(100px) translateX(100px);
+        }
+
+        #three{
+        	background-color: lightgreen;
+        	transform: rotateX(90deg) translatey(100px) translateZ(100px);
+        }
+
+        #four{
+        	background-color: blueviolet;
+        	transform: translateZ(200px);
+        }
+
+        #five{
+        	background-color: lightpink;
+        	transform: rotateX(90deg) translatey(100px) translateZ(-100px);
+        }
+
+        #six{
+        	background-color: yellow;
+        	transform: rotateY(270deg) translateZ(-100px) translateX(100px);
+        }
