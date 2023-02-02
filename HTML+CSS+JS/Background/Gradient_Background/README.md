@@ -1,7 +1,7 @@
 
 # Gradient Background
 
-This is an animated Gradient Background theme built by using HTML and CSS only. It can be used un modern gen websites.
+This is an animated Gradient Background theme built by using HTML and CSS only. It can be used in building modern websites.
 <br>
 ## Demo
 
