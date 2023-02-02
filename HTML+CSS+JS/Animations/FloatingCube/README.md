@@ -1,4 +1,4 @@
-## FloatingCube
+## Floating-Cube
 
 It can be used in any website which requires a background animation
 you just need to place the html file where you need the animation to happen
