@@ -155,3 +155,6 @@
   - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
   - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
 
+- [Animations](Animations)
+
+   -[Floating-Cube](Animations/Floating-Cube)
