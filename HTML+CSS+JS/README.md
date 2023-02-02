@@ -139,6 +139,7 @@
   
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
   - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
+  - [Progress-Fill-Bar](Progress-Bar/Progress-Fill-Bar)
 
 
 - [Search Bar](Search-Bar)
