@@ -366,6 +366,12 @@
       "preview": "/HTML+CSS+JS/Loader/Spinner-loader/index.html"
     },
     {
+      "category": "Forms", 
+      "componentName": "Get-In_Touch", 
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Get-In-Touch", 
+      "preview": "/HTML+CSS+JS/Forms/Get-In-Touch/index.html"
+    },
+    {
       "category": "Loader",
       "componentName": "liquid-loading-animation",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Loader/liquid-loading-animation",
