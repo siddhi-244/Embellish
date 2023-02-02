@@ -112,6 +112,29 @@ footer{
     left: 8px;
 }
 
+.logo{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-bottom: 6px;
+}
+
+.logo i{
+    font-size: 1rem;
+    margin-top: 7px;
+    color: white;
+}
+
+.logo:hover {
+    box-shadow: 0px 0px 10px 3px lightgrey;
+}
+
+.margin-change-logo{
+    margin-top: 5px;
+    margin-bottom: 4vh;
+}
+
 /*styles for screen width below 700px*/
 
 @media screen and (max-width: 700px){
