@@ -54,3 +54,4 @@ function randomChoose(json) {
   }
   renderComponents(data)
 }
+

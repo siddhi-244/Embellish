@@ -437,6 +437,12 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/Progress-bar-scroll-reveal",
       "preview": "/HTML+CSS+JS/Progress-Bar/Progress-bar-scroll-reveal/index.html"
     },
+   {
+      "category": "Progress-Bar",
+      "componentName": "Dynamic_Progress_Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/Dynamic_Progress_Bar",
+      "preview": "/HTML+CSS+JS/Progress-Bar/Dynamic_Progress_Bar/index.html"
+    },
     {
       "category": "Search-Bar",
       "componentName": "animated-search-bar",
