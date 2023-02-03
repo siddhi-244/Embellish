@@ -75,6 +75,7 @@ function categoryChoose(json) {
     if(json.items[i].category + "id" == sessionStorage.getItem("id"))
     data.items.push(json.items[i]);
   }
+  sessionStorage.removeItem("id");
   renderComponents(data)
 }
 
