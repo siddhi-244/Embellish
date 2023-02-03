@@ -324,10 +324,10 @@
       "preview": "/HTML+CSS+JS/Image-Gallery/Responsive-Image-Grid/index.html"
     },
     {
-      "category": "Input_bar",
-      "componentName": "Input_bar",
-      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Input_bar/Input_bar",
-      "preview": "/HTML+CSS+JS/Input_bar/Input_bar/index.html"
+      "category": "Input-Bar",
+      "componentName": "Input-Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Input-Bar/Input-Bar",
+      "preview": "/HTML+CSS+JS/Input-Bar/Input-Bar/index.html"
     },
     {
       "category": "Key-Sequence-Detection",
