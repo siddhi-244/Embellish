@@ -1,8 +1,7 @@
 let componentContainer = document.getElementById("component-container");
 let anchorTags = document.querySelectorAll(".category a");
-let anchorTag;
-const anchorPressed = e => {
-  anchorTag = e.target.id;
+let anchorPressed = e => {
+  let anchorTag = e.target.id;
   sessionStorage.setItem("id", anchorTag);
 }
 
@@ -72,7 +71,7 @@ function categoryChoose(json) {
     items: [],
   };
   for (let i = st; i <= ed; i++) {
-    if(json.items[i].category + "id" == sessionStorage.getItem("id"))
+    if((json.items[i].category + "id") == sessionStorage.getItem("id"))
     data.items.push(json.items[i]);
   }
   sessionStorage.removeItem("id");
