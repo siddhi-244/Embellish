@@ -86,6 +86,7 @@
     - [SignIn-Form](Forms/SignIn-Form)
     - [Mordern-Select](Forms/Modern-Select)
     - [Login-form](Forms/Login-form)
+    - [Get-In-Touch](Forms/Get-In-Touch)
 
 
 - [Image Gallery](Image-Gallery)
@@ -140,6 +141,8 @@
   
   - [Gradient Progress Bar](Progress-Bar/gradient-progress)
   - [Progress Bar - Scroll Reveal](Progress-Bar/Progress-bar-scroll-reveal)
+  - [Progress-Fill-Bar](Progress-Bar/Progress-Fill-Bar)
+  - [Dynamic Progress Bar](Progress-Bar/Dynamic_Progress_Bar)
 
 
 - [Search Bar](Search-Bar)

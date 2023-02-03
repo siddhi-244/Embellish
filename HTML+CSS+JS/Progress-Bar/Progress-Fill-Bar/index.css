@@ -1,0 +1,89 @@
+/*skills container*/
+
+section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #9e9b9b29;
+}
+
+/*heading*/
+
+.heading{
+    color: blue;
+    font-size: 1.5rem;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+
+.heading h1{
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+/*all skill classes*/
+
+#skills-display{
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 80px;
+}
+
+.skill-progress{
+    height: 2.2rem;
+    width: 11rem;
+    border-radius: 1rem;
+    margin: 20px;
+    background-color: lightgrey;
+    box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
+    overflow: hidden;
+}
+
+.skill-progress span{
+    display: inline-block;
+    margin: 10px;
+}
+
+.fill-progress{
+    height: 100%;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    box-shadow: 1px 1px 5px 2px #989882;
+    color: white;
+}
+
+/*individual classes for the skill bars*/
+
+#cpp{
+    width: 50%;
+    background-color: #2857a4;
+}
+
+#html{
+    width: 90%;
+    background-color: #ec4d1c;
+}
+
+#css{
+    width: 80%;
+    background-color: #93738c;
+}
+
+#js{
+    width: 65%;
+    background-color: #0b8176;
+}
+
+#nodejs{
+    width: 75%;
+    background-color: #2857a4;
+}
+
+#mongodb{
+    width: 50%;
+    background-color: #93738c;
+}
