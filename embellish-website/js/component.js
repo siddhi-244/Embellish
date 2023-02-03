@@ -1,7 +1,8 @@
 let componentContainer = document.getElementById("component-container");
 let anchorTags = document.querySelectorAll(".category a");
-let anchorPressed = e => {
-  let anchorTag = e.target.id;
+let anchorPressed = function(event){
+  let anchorTag = event.target.id;
+  console.log(anchorTag);
   sessionStorage.setItem("id", anchorTag);
 }
 
