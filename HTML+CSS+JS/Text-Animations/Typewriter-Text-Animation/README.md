@@ -2,7 +2,10 @@
 A HTML and CSS only, authentic looking, modifiable typewriting animation with blinker.
 
 ## Demo 
-![typewriter-demo](https://github.com/NerdyVisky/Embellish/blob/typewriterAnimation/HTML%2BCSS%2BJS/Text-Animations/Typewriter-Text-Animation/demo.gif)
+
+![demo](https://user-images.githubusercontent.com/69195262/216495379-e4a28098-1685-4a58-953a-8b4d604dc53e.gif)
+
+
 
 ## Setup Instructions
 - Go to index.html and change the text in the h1 tag as per your need.
