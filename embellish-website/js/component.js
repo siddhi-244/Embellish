@@ -35,7 +35,7 @@ function renderComponents(json) {
 if(window.location.pathname.includes("components")){
     fetchComponents()
 }
-else if(window.location.pathname.includes("components")){
+else if(window.location.pathname.includes("category")){
     fetchComponentsCategory()
 }
 else{

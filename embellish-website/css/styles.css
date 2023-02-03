@@ -65,6 +65,10 @@
   height: 20%;
 }
 
+.category a{
+  text-decoration: none;
+}
+
 .category i{
   font-size: 5rem;
   color: #0093e9;
@@ -75,6 +79,7 @@
   font-size: 1.2rem;
   margin: auto;
   margin-top: 0.8rem;
+  color: black;
 }
 
 .category:hover{
