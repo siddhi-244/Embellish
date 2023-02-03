@@ -67,7 +67,7 @@ function fetchComponentsHome() {
 
 function categoryChoose(json) {
   let st = 0;
-  let ed = data.items.length - 1;
+  let ed = json.items.length - 1;
   let data = {
     items: [],
   };
