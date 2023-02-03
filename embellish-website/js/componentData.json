@@ -60,6 +60,12 @@
       "preview": "/HTML+CSS+JS/Background/Video-Background/index.html"
     },
     {
+      "category": "Breadcrumbs",
+      "componentName": "Breadcrumb",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Breadcrumbs/Breadcrumb",
+      "preview": "/HTML+CSS+JS/Breadcrumbs/Breadcrumb/index.html"
+    },
+    {
       "category": "Buttons",
       "componentName": "3D-hover-button",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/3D-hover-button",
@@ -316,6 +322,12 @@
       "componentName": "Responsive-Image-Grid",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Image-Gallery/Responsive-Image-Grid",
       "preview": "/HTML+CSS+JS/Image-Gallery/Responsive-Image-Grid/index.html"
+    },
+    {
+      "category": "Input_bar",
+      "componentName": "Input_bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Input_bar/Input_bar",
+      "preview": "/HTML+CSS+JS/Input_bar/Input_bar/index.html"
     },
     {
       "category": "Key-Sequence-Detection",
