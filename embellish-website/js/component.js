@@ -34,13 +34,36 @@ function renderComponents(json) {
 
 if(window.location.pathname.includes("components")){
     fetchComponents()
-}else{
+}
+else if(window.location.pathname.includes("components")){
+    fetchComponentsCategory()
+}
+else{
     fetchComponentsHome()
 }
+
+function fetchComponentsCategory() {
+  fetch("js/componentData.json")
+    .then((obj) => obj.json())
+    .then((jsonData) => categoryChoose(jsonData));
+}
+
 function fetchComponentsHome() {
   fetch("js/componentData.json")
     .then((obj) => obj.json())
     .then((jsonData) => randomChoose(jsonData));
+}
+
+function categoryChoose(json) {
+  let st = 0;
+  let ed = 2;
+  let data = {
+    items: [],
+  };
+  for (let i = st; i < ed; i++) {
+    data.items.push(json.items[i]);
+  }
+  renderComponents(data)
 }
 
 function randomChoose(json) {
