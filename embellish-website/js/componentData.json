@@ -143,7 +143,7 @@
       "componentName": "Glassmorphism_Button",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Buttons/Glassmorphism_Button",
       "preview": "/HTML+CSS+JS/Buttons/Glassmorphism_Button/index.html"
-    }
+    },
     {
       "category": "Cards",
       "componentName": "Animated-Profile",
@@ -312,6 +312,12 @@
       "preview": "/HTML+CSS+JS/Forms/Login_Form/index.html"
     },
     {
+      "category": "Forms", 
+      "componentName": "Get-In-Touch", 
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Forms/Get-In-Touch", 
+      "preview": "/HTML+CSS+JS/Forms/Get-In-Touch/index.html"
+    },
+    {
       "category": "Image-Gallery",
       "componentName": "Responsive-Image-Grid",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Image-Gallery/Responsive-Image-Grid",
@@ -448,6 +454,12 @@
       "componentName": "Dynamic_Progress_Bar",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/Dynamic_Progress_Bar",
       "preview": "/HTML+CSS+JS/Progress-Bar/Dynamic_Progress_Bar/index.html"
+    },
+    {
+      "category": "Progress-Bar",
+      "componentName": "Progress-Fill-Bar",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/Progress-Fill-Bar",
+      "preview": "/HTML+CSS+JS/Progress-Bar/Progress-Fill-Bar/index.html"
     },
     {
       "category": "Search-Bar",
