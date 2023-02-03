@@ -72,7 +72,7 @@ function categoryChoose(json) {
     items: [],
   };
   for (let i = st; i <= ed; i++) {
-    if(json.items[i].category + "id" == sessionStorage.getItem("id"));
+    if(json.items[i].category + "id" == sessionStorage.getItem("id"))
     data.items.push(json.items[i]);
   }
   renderComponents(data)
