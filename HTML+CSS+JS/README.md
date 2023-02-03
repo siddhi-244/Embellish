@@ -41,6 +41,7 @@
     - [Border-Glow-Button](Buttons/border-glow-button)
     - [Floating Button](Buttons/floating-button)
     - [Toggle Button](Buttons/Toggle-button)
+    - [Glassmorphism_Button](Buttons/Glassmorphism_Button)
 
 
 - [Cards](Cards)
@@ -85,6 +86,7 @@
     - [SignIn-Form](Forms/SignIn-Form)
     - [Mordern-Select](Forms/Modern-Select)
     - [Login-form](Forms/Login-form)
+    - [Login_Form](Forms/Login_Form)
 
 
 - [Image Gallery](Image-Gallery)
@@ -146,6 +148,7 @@
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
   - [Search Bar](Search-Bar/seach%20bar)
+  - [Animated_Search_Bar](Search-Bar/Animated_Search_Bar)
 
 
 - [Testimonial](Testimonial)
