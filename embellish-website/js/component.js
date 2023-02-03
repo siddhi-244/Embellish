@@ -1,12 +1,13 @@
 let componentContainer = document.getElementById("component-container");
-let anchorTags = document.querySelector(".category a");
-
+let anchorTags = document.querySelectorAll(".category a");
+let anchorTag;
 const anchorPressed = e => {
-  var anchorTag = e.target.id;
+  anchorTag = e.target.id;
+  sessionStorage.setItem("id", anchorTag);
 }
 
 for (let i of anchorTags) {
-  i.addEventListener("click", buttonPressed);
+  i.addEventListener("click", anchorPressed);
 }
 
 function fetchComponents() {
@@ -65,12 +66,13 @@ function fetchComponentsHome() {
 }
 
 function categoryChoose(json) {
-  let st = anchorTag.getAttribute('data-st');
-  let ed = anchorTag.getAttribute('data-len');
+  let st = 0;
+  let ed = data.items.length - 1;
   let data = {
     items: [],
   };
-  for (let i = st; i < ed; i++) {
+  for (let i = st; i <= ed; i++) {
+    if(data.items[i].category + "id" == sessionStorage.getItem("id");
     data.items.push(json.items[i]);
   }
   renderComponents(data)
