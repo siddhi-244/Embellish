@@ -1,4 +1,14 @@
 let componentContainer = document.getElementById("component-container");
+let anchorTags = document.querySelector(".category a");
+
+const anchorPressed = e => {
+  var anchorTag = e.target.id;
+}
+
+for (let i of anchorTags) {
+  i.addEventListener("click", buttonPressed);
+}
+
 function fetchComponents() {
   fetch("js/componentData.json")
     .then((obj) => obj.json())
@@ -55,8 +65,8 @@ function fetchComponentsHome() {
 }
 
 function categoryChoose(json) {
-  let st = 0;
-  let ed = 2;
+  let st = anchorTag.getAttribute('data-st');
+  let ed = anchorTag.getAttribute('data-len');
   let data = {
     items: [],
   };
