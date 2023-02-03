@@ -3,7 +3,6 @@ let anchorTags = document.querySelectorAll(".category a");
 let anchorTag;
 function anchorPressed(event){
   anchorTag = event.currentTarget.id;
-  alert(anchorTag);
   sessionStorage.setItem("id", anchorTag);
 }
 
