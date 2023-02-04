@@ -1,6 +1,7 @@
 let componentContainer = document.getElementById("component-container");
 let anchorTags = document.querySelectorAll(".category a");
 let anchorTag;
+let footer = document.getElementById("footer");
 
 if(document.body.offsetHeight < 583){
   footer.style.marginTop = "8.41rem";
