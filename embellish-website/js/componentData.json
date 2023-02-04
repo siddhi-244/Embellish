@@ -438,6 +438,12 @@
       "preview": "/HTML+CSS+JS/Navigation-Bar/Simple-Navbar/index.html"
     },
     {
+      "category": "Navigation-Bar",
+      "componentName": "Circular_Nav_Menu",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Navigation-Bar/Circular_Nav_Menu",
+      "preview": "/HTML+CSS+JS/Navigation-Bar/Circular_Nav_Menu/index.html"
+    },
+    {
       "category": "Progress-Bar",
       "componentName": "gradient-progress",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Progress-Bar/gradient-progress",
