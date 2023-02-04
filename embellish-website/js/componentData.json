@@ -59,6 +59,12 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/Video-Background",
       "preview": "/HTML+CSS+JS/Background/Video-Background/index.html"
     },
+    { 
+    "category": "Background", 
+    "componentName": "Floating-Cube", 
+    "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Background/FloatingCube", 
+    "preview": "/HTML+CSS+JS/Background/FloatingCube/index.html"
+    },
     {
       "category": "Buttons",
       "componentName": "3D-hover-button",

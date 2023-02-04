@@ -18,6 +18,7 @@
     -   [Page Not Found](Background/Page-Not-Found)
     -   [404 - Error Page](Background/404-Error-Page)
     -   [Glassmorphism Background](Background/Glassmorphism)
+    -   [Floating-Cube](Background/Floating-Cube)
 
 
 - [Breadcrumbs](Breadcrumbs)
@@ -161,4 +162,3 @@
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
   - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
   - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
-
