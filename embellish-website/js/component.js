@@ -1,9 +1,13 @@
 let componentContainer = document.getElementById("component-container");
 let anchorTags = document.querySelectorAll(".category a");
 let anchorTag;
+let footer = document.getElementById('footer');
+
+if(document.body.offsetHeight < 583){
+  footer.style.marginTop('8.41rem');
+}
 function anchorPressed(event){
   anchorTag = event.currentTarget.id;
-  sessionStorage.setItem("id", anchorTag);
 }
 
 for (let i of anchorTags) {
@@ -72,10 +76,9 @@ function categoryChoose(json) {
     items: [],
   };
   for (let i = st; i <= ed; i++) {
-    if((json.items[i].category + "id") == sessionStorage.getItem("id"))
+    if((json.items[i].category + "id") == anchorTag)
     data.items.push(json.items[i]);
   }
-  sessionStorage.removeItem("id");
   renderComponents(data)
 }
 
