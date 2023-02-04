@@ -208,6 +208,7 @@ button {
 }
 #footer {
   width: 100%;
+  margin-bottom: 3rem;
 }
 .darkmode-ignore {
   display: block !important;
