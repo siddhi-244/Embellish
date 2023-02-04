@@ -137,6 +137,7 @@
     -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
     -   [Simple Navigation Bar](Navigation-Bar/Simple-Navbar)
     -   [Side Bar](Navigation-Bar/Sidebar)
+    -   [Circular_Nav_Menu](Navigation-Bar/Circular_Nav_Menu)
 
 
 - [Progress Bar](Progress-Bar)
