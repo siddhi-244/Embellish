@@ -18,6 +18,7 @@
     -   [Page Not Found](Background/Page-Not-Found)
     -   [404 - Error Page](Background/404-Error-Page)
     -   [Glassmorphism Background](Background/Glassmorphism)
+    -   [Floating-Cube](Background/Floating-Cube)
 
 
 - [Breadcrumbs](Breadcrumbs)
@@ -41,6 +42,7 @@
     - [Border-Glow-Button](Buttons/border-glow-button)
     - [Floating Button](Buttons/floating-button)
     - [Toggle Button](Buttons/Toggle-button)
+    - [Glassmorphism_Button](Buttons/Glassmorphism_Button)
 
 
 - [Cards](Cards)
@@ -86,6 +88,8 @@
     - [Mordern-Select](Forms/Modern-Select)
     - [Login-form](Forms/Login-form)
     - [Get-In-Touch](Forms/Get-In-Touch)
+    - [Login_Form](Forms/Login_Form)
+
 
 
 - [Image Gallery](Image-Gallery)
@@ -134,6 +138,7 @@
     -   [Modern Navigation Bar](Navigation-Bar/Modern-Navigation-Bar)
     -   [Simple Navigation Bar](Navigation-Bar/Simple-Navbar)
     -   [Side Bar](Navigation-Bar/Sidebar)
+    -   [Circular_Nav_Menu](Navigation-Bar/Circular_Nav_Menu)
 
 
 - [Progress Bar](Progress-Bar)
@@ -148,6 +153,7 @@
 
   - [Animated Search Bar](Search-Bar/animated-search-bar)
   - [Search Bar](Search-Bar/seach%20bar)
+  - [Animated_Search_Bar](Search-Bar/Animated_Search_Bar)
 
 
 - [Testimonial](Testimonial)
@@ -157,4 +163,3 @@
   - [Shuffle Text Animation](Text-Animations/Shuffle-Text-Animation)
   - [Typewriter Text Animation](Text-Animations/Typewriter-Text-Animation)
   - [Spotlight Text Animation](Text-Animations/Spotlight-Text-Animation)
-
