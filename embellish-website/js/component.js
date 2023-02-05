@@ -1,4 +1,21 @@
 let componentContainer = document.getElementById("component-container");
+let anchorTags = document.querySelectorAll(".category a");
+let anchorTag;
+let footer = document.getElementById("footer");
+
+if(document.body.offsetHeight < 583){
+  footer.style.marginTop = "8.41rem";
+}
+
+function anchorPressed(event){
+  anchorTag = event.currentTarget.id;
+  sessionStorage.setItem("id", anchorTag);
+}
+
+for (let i of anchorTags) {
+  i.addEventListener("click", anchorPressed);
+}
+
 function fetchComponents() {
   fetch("js/componentData.json")
     .then((obj) => obj.json())
@@ -34,13 +51,38 @@ function renderComponents(json) {
 
 if(window.location.pathname.includes("components")){
     fetchComponents()
-}else{
+}
+else if(window.location.pathname.includes("category")){
+    fetchComponentsCategory()
+}
+else{
     fetchComponentsHome()
 }
+
+function fetchComponentsCategory() {
+  fetch("js/componentData.json")
+    .then((obj) => obj.json())
+    .then((jsonData) => categoryChoose(jsonData));
+}
+
 function fetchComponentsHome() {
   fetch("js/componentData.json")
     .then((obj) => obj.json())
     .then((jsonData) => randomChoose(jsonData));
+}
+
+function categoryChoose(json) {
+  let st = 0;
+  let ed = json.items.length - 1;
+  let data = {
+    items: [],
+  };
+  for (let i = st; i <= ed; i++) {
+    if((json.items[i].category + "id") == sessionStorage.getItem("id"))
+    data.items.push(json.items[i]);
+  }
+  sessionStorage.removeItem("id");
+  renderComponents(data)
 }
 
 function randomChoose(json) {
