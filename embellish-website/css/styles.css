@@ -42,8 +42,6 @@
 #c-container h1{
   text-align: center;
   padding: 1rem;
-  text-transform: uppercase;
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
 }
 
 #categories{
