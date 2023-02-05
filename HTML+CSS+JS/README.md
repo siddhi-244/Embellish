@@ -121,7 +121,8 @@
 
 
 - [Modal](Modal)
-  - [Confirmation Modal](Modal/Confirmation-Modal)   
+  - [Confirmation Modal](Modal/Confirmation-Modal)
+  - [Upload_Modal](Modal/Upload_Modal) 
 
 -   [Mouse Hover Effects](Mouse%20Hover%20Effects)
     -   [Parallax](Mouse%20Hover%20Effects/Parallax)
