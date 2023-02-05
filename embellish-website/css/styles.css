@@ -42,6 +42,7 @@
 #c-container h1{
   text-align: center;
   padding: 1rem;
+  font-weight: 700;
 }
 
 #categories{
