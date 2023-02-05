@@ -509,11 +509,18 @@
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Text-Animations/Typewriter-Text-Animation",
       "preview": "/HTML+CSS+JS/Text-Animations/Typewriter-Text-Animation/index.html"
     },
+            
     {
       "category": "Modal",
       "componentName": "Confirmation-Modal",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Modal/Confirmation-Modal",
       "preview": "/HTML+CSS+JS/Modal/Confirmation-Modal/index.html"
+    },
+    {
+      "category": "Modal",
+      "componentName": "Upload_Modal",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Modal/Upload_Modal",
+      "preview": "/HTML+CSS+JS/Modal/Upload_Modal/index.html"
     }
   ]
 }
