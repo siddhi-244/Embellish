@@ -39,7 +39,7 @@
     "category": "Accordion", 
     "componentName": "Skewed Images", 
     "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/HTML%2BCSS%2BJS/Accordion/Skewed%20Images", 
-    "preview": "/HTML+CSS+JS/Accordion/Skewed%20Images/index.html"
+    "preview": "/embellish-website/HTML+CSS+JS/Accordion/Skewed%20Images/index.html"
     }
 ```
 
