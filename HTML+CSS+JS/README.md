@@ -76,6 +76,7 @@
   - [Simple-Footer](Footer/Simple-footer)
   - [Glassmorphism Footer icons](Footer/Glassmorphism-Footer-icons)
   - [Glowing-icons-with-hover](Footer/Glowing-icons-with-hover)
+  - [Footer_Social_Icons](Footer/Footer_Social_Icons)
 
 
 -   [Forms](Forms)
