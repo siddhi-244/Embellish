@@ -96,7 +96,8 @@
 - [Image Gallery](Image-Gallery)
 
   - [Responsive Image Grid](Image-Gallery/Responsive-Image-Grid) 
-  - [Photo Gallery](Image-Gallery/Photo-Gallery) 
+  - [Photo Gallery](Image-Gallery/Photo-Gallery)
+  - [3D IMAGE GALLERY](Image-Gallery/3D_image_gallery) 
 
 
 - [Input-bar](Input-bar)

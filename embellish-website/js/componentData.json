@@ -342,6 +342,12 @@
       "preview": "/HTML+CSS+JS/Image-Gallery/Responsive-Image-Grid/index.html"
     },
     {
+      "category": "Image-Gallery",
+      "componentName": "3D_image_gallery",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Image-Gallery/3D_image_gallery",
+      "preview": "/HTML+CSS+JS/Image-Gallery/3D_image_gallery/index.html"
+    },
+    {
       "category": "Input-Bar",
       "componentName": "Input-Bar",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Input-Bar/Input-Bar",
