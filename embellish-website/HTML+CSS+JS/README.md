@@ -121,6 +121,7 @@
     - [4-color-loader](Loader/4-color-loader)
     - [Glassmorphism-loader](Loader/Glassmorphism-loader)
     - [Hex-Loader](Loader/Hex-Loader)
+    - [Pack-of-9-Loaders](Loader/Pack_of_9_Loaders)
 
 
 - [Modal](Modal)
