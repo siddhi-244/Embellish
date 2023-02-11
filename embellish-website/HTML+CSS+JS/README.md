@@ -161,6 +161,7 @@
 
 
 - [Testimonial](Testimonial)
+- [Dynamic_Testimonial](Dynamic_Testimonial)
  
 - [Text Animations](Text-Animations)
 
