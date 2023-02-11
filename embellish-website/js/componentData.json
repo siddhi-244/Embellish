@@ -522,6 +522,12 @@
       "preview": "/HTML+CSS+JS/Testimonial/index.html"
     },
     {
+      "category": "Testimonial",
+      "componentName": "Dynamic_Testimonial",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Dynamic_Testimonial",
+      "preview": "/HTML+CSS+JS/Dynamic_Testimonial/index.html"
+    },
+    {
       "category": "Text-Animations",
       "componentName": "Shuffle-Text-Animation",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Text-Animations/Shuffle-Text-Animation",
