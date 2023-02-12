@@ -143,6 +143,7 @@
     -   [Simple Navigation Bar](Navigation-Bar/Simple-Navbar)
     -   [Side Bar](Navigation-Bar/Sidebar)
     -   [Circular_Nav_Menu](Navigation-Bar/Circular_Nav_Menu)
+    -   [Hamburger Menu](Navigation-Bar/Hamburger_Menu)
 
 
 - [Progress Bar](Progress-Bar)
