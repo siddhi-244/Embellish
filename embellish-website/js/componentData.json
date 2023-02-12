@@ -480,6 +480,12 @@
       "preview": "/HTML+CSS+JS/Navigation-Bar/Circular_Nav_Menu/index.html"
     },
     {
+      "category": "Navigation-Bar",
+      "componentName": "Hamburger_Menu",
+      "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Navigation-Bar/Hamburger_Menu",
+      "preview": "/HTML+CSS+JS/Navigation-Bar/Hamburger_Menu/index.html"
+    },
+    {
       "category": "Progress-Bar",
       "componentName": "gradient-progress",
       "componentURL": "https://github.com/siddhi-244/Embellish/tree/main/embellish-website/HTML%2BCSS%2BJS/Progress-Bar/gradient-progress",
